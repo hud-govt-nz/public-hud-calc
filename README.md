@@ -5,14 +5,14 @@
 You'll need `devtools::install_github` to install the package:
 ```R
 library(devtools)
-install_github("hud-govt-nz/public-hud-calc")
+install_github("hud-govt-nz/hud-calc")
 ```
 
 
 ## Maintaining this package
 If you make changes to this package, you'll need to rerun document from the root directory to update all the R generated files.
 ```R
-install.packages("roxygen2")
+library(roxygen2)
 roxygenise()
 ```
 
