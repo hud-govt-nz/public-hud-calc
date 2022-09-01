@@ -37,22 +37,31 @@ ta_df <-
 
 #' TA matcher
 #'
-#' Matches TA details
+#' Matches TA details by ta_code or ta_match_name. Does a lot of cleaning and
+#' simplification to resolve potential issues with name matches.
 #' @name get_ta
-#' @param targ_ta Column of target TAs
-#' @param out_col Name of TA details to extract
+#' @param src_ta Column of target TAs
+#' @param out_col Name of column to extract
+#' @param match_col Name of column to match against ("ta_match_name" or "ta_code")
 #' @export
 get_ta <- function(targ_ta, out_col = "ta_code", by = "ta_match_name") {
+  if (!by %in% c("ta_code", "ta_match_name")) {
+    stop("I can only match by TA code or TA name!")
+  }
+  if (by == "ta_match_name") {
+    targ_ta <-
+      targ_ta %>%
+      tolower() %>%
+      str_replace("tauranga district/tauranga city", "tauranga") %>%
+      str_replace("total", "new zealand") %>%
+      str_replace(" (district|city|territory)", "") %>%
+      str_replace_all("ā", "a") %>%
+      str_replace_all("ē", "e") %>%
+      str_replace_all("ī", "i") %>%
+      str_replace_all("ō", "o") %>%
+      str_replace_all("ū", "u")
+  }
   targ_ta %>%
-    tolower() %>%
-    str_replace("tauranga district/tauranga city", "tauranga") %>%
-    str_replace("total", "new zealand") %>%
-    str_replace(" (district|city|territory)", "") %>%
-    str_replace_all("ā", "a") %>%
-    str_replace_all("ē", "e") %>%
-    str_replace_all("ī", "i") %>%
-    str_replace_all("ō", "o") %>%
-    str_replace_all("ū", "u") %>%
     tibble(.) %>%
     setNames(by) %>%
     left_join(ta_df, by = by) %>%
