@@ -9,6 +9,43 @@ install_github("hud-govt-nz/hud-calc")
 ```
 
 
+## Usage
+* `make_seasonal`: One-line seasonal adjustments - interprets dates automagically.
+* `get_ta`/`get_regc`: Turn TAs and regions into reliable, consistent names or code.
+* `get_pop`: Provides population estimate for any month + NZ/region/TA/local board combination.
+
+```R
+library(tidyverse)
+library(hud.calc)
+
+df_base <- calc_test_data()
+
+# Clean names and population adjustments for TAs
+df_base %>%
+  mutate(
+    ta_code = get_ta(ta, "ta_code"),
+    ta_short_name = get_ta(ta, "ta_short_name"),
+    ta_name = get_ta(ta, "ta_name"),
+    pop = get_population(ta, period, "ta"), # Use interpolated population estimate
+    per_10k = 10000 * value / pop,
+    pop_2018 = get_population(ta, "2018-01-01", "ta"), # Use 2018 population estimate
+    per_10k_2018 = 10000 * value / pop_2018)
+
+# Aggregate TAs into regions and population adjust
+df_base %>%
+  mutate(region = get_ta(ta, "regc_name")) %>%
+  group_by(region, period) %>%
+  summarise(value = sum(value)) %>%
+  ungroup() %>%
+  group_by(region) %>%
+  mutate(
+    sadj = make_seasonal(value, period),
+    pop = get_population(region, period, "regc"),
+    per_10k = 10000 * value / pop,
+    per_10k_sadj = 10000 * sadj / pop)
+```
+
+
 ## Maintaining this package
 If you make changes to this package, you'll need to rerun document from the root directory to update all the R generated files.
 ```R
