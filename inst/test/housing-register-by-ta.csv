@@ -1,0 +1,1408 @@
+ta,period,value
+Ashburton District,Jun-17,6
+Ashburton District,Sep-17,9
+Ashburton District,Dec-17,6
+Ashburton District,Mar-18,9
+Ashburton District,Jun-18,9
+Ashburton District,Sep-18,15
+Ashburton District,Dec-18,21
+Ashburton District,Mar-19,24
+Ashburton District,Jun-19,24
+Ashburton District,Sep-19,27
+Ashburton District,Dec-19,24
+Ashburton District,Mar-20,33
+Ashburton District,Jun-20,42
+Ashburton District,Sep-20,51
+Ashburton District,Dec-20,54
+Ashburton District,Mar-21,48
+Ashburton District,Jun-21,57
+Ashburton District,Sep-21,63
+Ashburton District,Dec-21,57
+Ashburton District,Mar-22,66
+Ashburton District,Jun-22,57
+Auckland City,Jun-17,2250
+Auckland City,Sep-17,2478
+Auckland City,Dec-17,2565
+Auckland City,Mar-18,3285
+Auckland City,Jun-18,3609
+Auckland City,Sep-18,3921
+Auckland City,Dec-18,4365
+Auckland City,Mar-19,4407
+Auckland City,Jun-19,4848
+Auckland City,Sep-19,5259
+Auckland City,Dec-19,5457
+Auckland City,Mar-20,6087
+Auckland City,Jun-20,6618
+Auckland City,Sep-20,7824
+Auckland City,Dec-20,8043
+Auckland City,Mar-21,8379
+Auckland City,Jun-21,8385
+Auckland City,Sep-21,8376
+Auckland City,Dec-21,8472
+Auckland City,Mar-22,8712
+Auckland City,Jun-22,8550
+Buller District,Jun-17,9
+Buller District,Sep-17,6
+Buller District,Dec-17,6
+Buller District,Mar-18,12
+Buller District,Jun-18,15
+Buller District,Sep-18,15
+Buller District,Dec-18,15
+Buller District,Mar-19,21
+Buller District,Jun-19,24
+Buller District,Sep-19,24
+Buller District,Dec-19,33
+Buller District,Mar-20,30
+Buller District,Jun-20,36
+Buller District,Sep-20,36
+Buller District,Dec-20,48
+Buller District,Mar-21,54
+Buller District,Jun-21,66
+Buller District,Sep-21,48
+Buller District,Dec-21,48
+Buller District,Mar-22,54
+Buller District,Jun-22,60
+Carterton District,Jun-17,0
+Carterton District,Sep-17,0
+Carterton District,Dec-17,0
+Carterton District,Mar-18,3
+Carterton District,Jun-18,0
+Carterton District,Sep-18,0
+Carterton District,Dec-18,0
+Carterton District,Mar-19,3
+Carterton District,Jun-19,6
+Carterton District,Sep-19,12
+Carterton District,Dec-19,9
+Carterton District,Mar-20,12
+Carterton District,Jun-20,12
+Carterton District,Sep-20,18
+Carterton District,Dec-20,21
+Carterton District,Mar-21,15
+Carterton District,Jun-21,18
+Carterton District,Sep-21,21
+Carterton District,Dec-21,24
+Carterton District,Mar-22,18
+Carterton District,Jun-22,18
+Central Hawke's Bay District,Jun-17,9
+Central Hawke's Bay District,Sep-17,9
+Central Hawke's Bay District,Dec-17,6
+Central Hawke's Bay District,Mar-18,12
+Central Hawke's Bay District,Jun-18,18
+Central Hawke's Bay District,Sep-18,21
+Central Hawke's Bay District,Dec-18,18
+Central Hawke's Bay District,Mar-19,15
+Central Hawke's Bay District,Jun-19,33
+Central Hawke's Bay District,Sep-19,39
+Central Hawke's Bay District,Dec-19,42
+Central Hawke's Bay District,Mar-20,45
+Central Hawke's Bay District,Jun-20,51
+Central Hawke's Bay District,Sep-20,54
+Central Hawke's Bay District,Dec-20,69
+Central Hawke's Bay District,Mar-21,63
+Central Hawke's Bay District,Jun-21,57
+Central Hawke's Bay District,Sep-21,57
+Central Hawke's Bay District,Dec-21,66
+Central Hawke's Bay District,Mar-22,75
+Central Hawke's Bay District,Jun-22,81
+Central Otago District,Jun-17,6
+Central Otago District,Sep-17,3
+Central Otago District,Dec-17,3
+Central Otago District,Mar-18,0
+Central Otago District,Jun-18,3
+Central Otago District,Sep-18,6
+Central Otago District,Dec-18,6
+Central Otago District,Mar-19,6
+Central Otago District,Jun-19,3
+Central Otago District,Sep-19,0
+Central Otago District,Dec-19,0
+Central Otago District,Mar-20,9
+Central Otago District,Jun-20,12
+Central Otago District,Sep-20,15
+Central Otago District,Dec-20,15
+Central Otago District,Mar-21,15
+Central Otago District,Jun-21,15
+Central Otago District,Sep-21,21
+Central Otago District,Dec-21,15
+Central Otago District,Mar-22,15
+Central Otago District,Jun-22,18
+Christchurch City,Jun-17,480
+Christchurch City,Sep-17,459
+Christchurch City,Dec-17,450
+Christchurch City,Mar-18,552
+Christchurch City,Jun-18,579
+Christchurch City,Sep-18,693
+Christchurch City,Dec-18,756
+Christchurch City,Mar-19,828
+Christchurch City,Jun-19,876
+Christchurch City,Sep-19,891
+Christchurch City,Dec-19,909
+Christchurch City,Mar-20,990
+Christchurch City,Jun-20,1233
+Christchurch City,Sep-20,1422
+Christchurch City,Dec-20,1524
+Christchurch City,Mar-21,1707
+Christchurch City,Jun-21,1755
+Christchurch City,Sep-21,1770
+Christchurch City,Dec-21,1887
+Christchurch City,Mar-22,2052
+Christchurch City,Jun-22,2040
+Clutha District,Jun-17,6
+Clutha District,Sep-17,0
+Clutha District,Dec-17,0
+Clutha District,Mar-18,9
+Clutha District,Jun-18,9
+Clutha District,Sep-18,12
+Clutha District,Dec-18,12
+Clutha District,Mar-19,15
+Clutha District,Jun-19,15
+Clutha District,Sep-19,18
+Clutha District,Dec-19,21
+Clutha District,Mar-20,24
+Clutha District,Jun-20,27
+Clutha District,Sep-20,24
+Clutha District,Dec-20,27
+Clutha District,Mar-21,33
+Clutha District,Jun-21,33
+Clutha District,Sep-21,24
+Clutha District,Dec-21,24
+Clutha District,Mar-22,33
+Clutha District,Jun-22,33
+Dunedin City,Jun-17,66
+Dunedin City,Sep-17,81
+Dunedin City,Dec-17,87
+Dunedin City,Mar-18,120
+Dunedin City,Jun-18,126
+Dunedin City,Sep-18,141
+Dunedin City,Dec-18,156
+Dunedin City,Mar-19,156
+Dunedin City,Jun-19,165
+Dunedin City,Sep-19,162
+Dunedin City,Dec-19,189
+Dunedin City,Mar-20,204
+Dunedin City,Jun-20,219
+Dunedin City,Sep-20,252
+Dunedin City,Dec-20,264
+Dunedin City,Mar-21,282
+Dunedin City,Jun-21,309
+Dunedin City,Sep-21,300
+Dunedin City,Dec-21,360
+Dunedin City,Mar-22,393
+Dunedin City,Jun-22,393
+Far North District,Jun-17,60
+Far North District,Sep-17,63
+Far North District,Dec-17,66
+Far North District,Mar-18,90
+Far North District,Jun-18,102
+Far North District,Sep-18,123
+Far North District,Dec-18,156
+Far North District,Mar-19,147
+Far North District,Jun-19,126
+Far North District,Sep-19,165
+Far North District,Dec-19,192
+Far North District,Mar-20,207
+Far North District,Jun-20,246
+Far North District,Sep-20,291
+Far North District,Dec-20,303
+Far North District,Mar-21,348
+Far North District,Jun-21,369
+Far North District,Sep-21,387
+Far North District,Dec-21,441
+Far North District,Mar-22,477
+Far North District,Jun-22,489
+Gisborne District,Jun-17,96
+Gisborne District,Sep-17,108
+Gisborne District,Dec-17,108
+Gisborne District,Mar-18,123
+Gisborne District,Jun-18,147
+Gisborne District,Sep-18,147
+Gisborne District,Dec-18,216
+Gisborne District,Mar-19,222
+Gisborne District,Jun-19,234
+Gisborne District,Sep-19,306
+Gisborne District,Dec-19,375
+Gisborne District,Mar-20,435
+Gisborne District,Jun-20,483
+Gisborne District,Sep-20,516
+Gisborne District,Dec-20,555
+Gisborne District,Mar-21,564
+Gisborne District,Jun-21,558
+Gisborne District,Sep-21,549
+Gisborne District,Dec-21,588
+Gisborne District,Mar-22,606
+Gisborne District,Jun-22,606
+Gore District,Jun-17,0
+Gore District,Sep-17,3
+Gore District,Dec-17,0
+Gore District,Mar-18,0
+Gore District,Jun-18,3
+Gore District,Sep-18,6
+Gore District,Dec-18,6
+Gore District,Mar-19,3
+Gore District,Jun-19,9
+Gore District,Sep-19,18
+Gore District,Dec-19,21
+Gore District,Mar-20,21
+Gore District,Jun-20,21
+Gore District,Sep-20,21
+Gore District,Dec-20,21
+Gore District,Mar-21,15
+Gore District,Jun-21,21
+Gore District,Sep-21,15
+Gore District,Dec-21,21
+Gore District,Mar-22,24
+Gore District,Jun-22,21
+Grey District,Jun-17,12
+Grey District,Sep-17,12
+Grey District,Dec-17,12
+Grey District,Mar-18,18
+Grey District,Jun-18,21
+Grey District,Sep-18,27
+Grey District,Dec-18,30
+Grey District,Mar-19,24
+Grey District,Jun-19,33
+Grey District,Sep-19,45
+Grey District,Dec-19,48
+Grey District,Mar-20,51
+Grey District,Jun-20,54
+Grey District,Sep-20,63
+Grey District,Dec-20,63
+Grey District,Mar-21,69
+Grey District,Jun-21,75
+Grey District,Sep-21,66
+Grey District,Dec-21,78
+Grey District,Mar-22,84
+Grey District,Jun-22,87
+Hamilton City,Jun-17,213
+Hamilton City,Sep-17,213
+Hamilton City,Dec-17,213
+Hamilton City,Mar-18,285
+Hamilton City,Jun-18,360
+Hamilton City,Sep-18,465
+Hamilton City,Dec-18,555
+Hamilton City,Mar-19,570
+Hamilton City,Jun-19,693
+Hamilton City,Sep-19,867
+Hamilton City,Dec-19,960
+Hamilton City,Mar-20,1065
+Hamilton City,Jun-20,1281
+Hamilton City,Sep-20,1347
+Hamilton City,Dec-20,1386
+Hamilton City,Mar-21,1527
+Hamilton City,Jun-21,1614
+Hamilton City,Sep-21,1614
+Hamilton City,Dec-21,1689
+Hamilton City,Mar-22,1782
+Hamilton City,Jun-22,1806
+Hastings District,Jun-17,126
+Hastings District,Sep-17,162
+Hastings District,Dec-17,174
+Hastings District,Mar-18,198
+Hastings District,Jun-18,249
+Hastings District,Sep-18,285
+Hastings District,Dec-18,294
+Hastings District,Mar-19,279
+Hastings District,Jun-19,324
+Hastings District,Sep-19,459
+Hastings District,Dec-19,483
+Hastings District,Mar-20,501
+Hastings District,Jun-20,567
+Hastings District,Sep-20,636
+Hastings District,Dec-20,705
+Hastings District,Mar-21,714
+Hastings District,Jun-21,732
+Hastings District,Sep-21,723
+Hastings District,Dec-21,720
+Hastings District,Mar-22,804
+Hastings District,Jun-22,762
+Hauraki District,Jun-17,12
+Hauraki District,Sep-17,15
+Hauraki District,Dec-17,12
+Hauraki District,Mar-18,18
+Hauraki District,Jun-18,18
+Hauraki District,Sep-18,18
+Hauraki District,Dec-18,30
+Hauraki District,Mar-19,30
+Hauraki District,Jun-19,33
+Hauraki District,Sep-19,39
+Hauraki District,Dec-19,36
+Hauraki District,Mar-20,42
+Hauraki District,Jun-20,51
+Hauraki District,Sep-20,57
+Hauraki District,Dec-20,57
+Hauraki District,Mar-21,54
+Hauraki District,Jun-21,63
+Hauraki District,Sep-21,69
+Hauraki District,Dec-21,72
+Hauraki District,Mar-22,78
+Hauraki District,Jun-22,63
+Horowhenua District,Jun-17,36
+Horowhenua District,Sep-17,39
+Horowhenua District,Dec-17,36
+Horowhenua District,Mar-18,51
+Horowhenua District,Jun-18,57
+Horowhenua District,Sep-18,60
+Horowhenua District,Dec-18,84
+Horowhenua District,Mar-19,84
+Horowhenua District,Jun-19,84
+Horowhenua District,Sep-19,111
+Horowhenua District,Dec-19,111
+Horowhenua District,Mar-20,123
+Horowhenua District,Jun-20,126
+Horowhenua District,Sep-20,168
+Horowhenua District,Dec-20,189
+Horowhenua District,Mar-21,192
+Horowhenua District,Jun-21,207
+Horowhenua District,Sep-21,237
+Horowhenua District,Dec-21,222
+Horowhenua District,Mar-22,237
+Horowhenua District,Jun-22,237
+Hurunui District,Jun-17,0
+Hurunui District,Sep-17,0
+Hurunui District,Dec-17,0
+Hurunui District,Mar-18,3
+Hurunui District,Jun-18,3
+Hurunui District,Sep-18,6
+Hurunui District,Dec-18,6
+Hurunui District,Mar-19,9
+Hurunui District,Jun-19,12
+Hurunui District,Sep-19,9
+Hurunui District,Dec-19,9
+Hurunui District,Mar-20,9
+Hurunui District,Jun-20,12
+Hurunui District,Sep-20,15
+Hurunui District,Dec-20,18
+Hurunui District,Mar-21,18
+Hurunui District,Jun-21,18
+Hurunui District,Sep-21,24
+Hurunui District,Dec-21,27
+Hurunui District,Mar-22,30
+Hurunui District,Jun-22,24
+Invercargill City,Jun-17,27
+Invercargill City,Sep-17,39
+Invercargill City,Dec-17,21
+Invercargill City,Mar-18,54
+Invercargill City,Jun-18,60
+Invercargill City,Sep-18,69
+Invercargill City,Dec-18,78
+Invercargill City,Mar-19,87
+Invercargill City,Jun-19,105
+Invercargill City,Sep-19,114
+Invercargill City,Dec-19,126
+Invercargill City,Mar-20,129
+Invercargill City,Jun-20,147
+Invercargill City,Sep-20,159
+Invercargill City,Dec-20,165
+Invercargill City,Mar-21,150
+Invercargill City,Jun-21,150
+Invercargill City,Sep-21,159
+Invercargill City,Dec-21,162
+Invercargill City,Mar-22,183
+Invercargill City,Jun-22,183
+Kaikōura District,Jun-17,0
+Kaikōura District,Sep-17,0
+Kaikōura District,Dec-17,3
+Kaikōura District,Mar-18,3
+Kaikōura District,Jun-18,0
+Kaikōura District,Sep-18,6
+Kaikōura District,Dec-18,9
+Kaikōura District,Mar-19,6
+Kaikōura District,Jun-19,15
+Kaikōura District,Sep-19,12
+Kaikōura District,Dec-19,9
+Kaikōura District,Mar-20,9
+Kaikōura District,Jun-20,12
+Kaikōura District,Sep-20,12
+Kaikōura District,Dec-20,9
+Kaikōura District,Mar-21,12
+Kaikōura District,Jun-21,0
+Kaikōura District,Sep-21,9
+Kaikōura District,Dec-21,9
+Kaikōura District,Mar-22,12
+Kaikōura District,Jun-22,0
+Kaipara District,Jun-17,6
+Kaipara District,Sep-17,15
+Kaipara District,Dec-17,12
+Kaipara District,Mar-18,15
+Kaipara District,Jun-18,21
+Kaipara District,Sep-18,33
+Kaipara District,Dec-18,36
+Kaipara District,Mar-19,33
+Kaipara District,Jun-19,33
+Kaipara District,Sep-19,33
+Kaipara District,Dec-19,39
+Kaipara District,Mar-20,42
+Kaipara District,Jun-20,48
+Kaipara District,Sep-20,60
+Kaipara District,Dec-20,66
+Kaipara District,Mar-21,69
+Kaipara District,Jun-21,78
+Kaipara District,Sep-21,75
+Kaipara District,Dec-21,75
+Kaipara District,Mar-22,96
+Kaipara District,Jun-22,99
+Kāpiti Coast District,Jun-17,48
+Kāpiti Coast District,Sep-17,48
+Kāpiti Coast District,Dec-17,57
+Kāpiti Coast District,Mar-18,63
+Kāpiti Coast District,Jun-18,63
+Kāpiti Coast District,Sep-18,84
+Kāpiti Coast District,Dec-18,90
+Kāpiti Coast District,Mar-19,111
+Kāpiti Coast District,Jun-19,93
+Kāpiti Coast District,Sep-19,111
+Kāpiti Coast District,Dec-19,108
+Kāpiti Coast District,Mar-20,120
+Kāpiti Coast District,Jun-20,147
+Kāpiti Coast District,Sep-20,177
+Kāpiti Coast District,Dec-20,174
+Kāpiti Coast District,Mar-21,180
+Kāpiti Coast District,Jun-21,189
+Kāpiti Coast District,Sep-21,183
+Kāpiti Coast District,Dec-21,198
+Kāpiti Coast District,Mar-22,216
+Kāpiti Coast District,Jun-22,195
+Kawerau District,Jun-17,12
+Kawerau District,Sep-17,12
+Kawerau District,Dec-17,9
+Kawerau District,Mar-18,15
+Kawerau District,Jun-18,15
+Kawerau District,Sep-18,15
+Kawerau District,Dec-18,24
+Kawerau District,Mar-19,21
+Kawerau District,Jun-19,30
+Kawerau District,Sep-19,39
+Kawerau District,Dec-19,33
+Kawerau District,Mar-20,42
+Kawerau District,Jun-20,39
+Kawerau District,Sep-20,51
+Kawerau District,Dec-20,66
+Kawerau District,Mar-21,66
+Kawerau District,Jun-21,81
+Kawerau District,Sep-21,72
+Kawerau District,Dec-21,81
+Kawerau District,Mar-22,96
+Kawerau District,Jun-22,99
+Lower Hutt City,Jun-17,171
+Lower Hutt City,Sep-17,198
+Lower Hutt City,Dec-17,246
+Lower Hutt City,Mar-18,348
+Lower Hutt City,Jun-18,360
+Lower Hutt City,Sep-18,339
+Lower Hutt City,Dec-18,366
+Lower Hutt City,Mar-19,372
+Lower Hutt City,Jun-19,405
+Lower Hutt City,Sep-19,450
+Lower Hutt City,Dec-19,468
+Lower Hutt City,Mar-20,552
+Lower Hutt City,Jun-20,582
+Lower Hutt City,Sep-20,612
+Lower Hutt City,Dec-20,588
+Lower Hutt City,Mar-21,573
+Lower Hutt City,Jun-21,603
+Lower Hutt City,Sep-21,588
+Lower Hutt City,Dec-21,615
+Lower Hutt City,Mar-22,645
+Lower Hutt City,Jun-22,642
+Mackenzie District,Jun-17,0
+Mackenzie District,Sep-17,0
+Mackenzie District,Dec-17,0
+Mackenzie District,Mar-18,0
+Mackenzie District,Jun-18,0
+Mackenzie District,Sep-18,0
+Mackenzie District,Dec-18,0
+Mackenzie District,Mar-19,0
+Mackenzie District,Jun-19,0
+Mackenzie District,Sep-19,0
+Mackenzie District,Dec-19,0
+Mackenzie District,Mar-20,0
+Mackenzie District,Jun-20,0
+Mackenzie District,Sep-20,0
+Mackenzie District,Dec-20,0
+Mackenzie District,Mar-21,0
+Mackenzie District,Jun-21,0
+Mackenzie District,Sep-21,0
+Mackenzie District,Dec-21,3
+Mackenzie District,Mar-22,3
+Mackenzie District,Jun-22,0
+Manawatū District,Jun-17,30
+Manawatū District,Sep-17,30
+Manawatū District,Dec-17,21
+Manawatū District,Mar-18,33
+Manawatū District,Jun-18,36
+Manawatū District,Sep-18,36
+Manawatū District,Dec-18,39
+Manawatū District,Mar-19,54
+Manawatū District,Jun-19,57
+Manawatū District,Sep-19,60
+Manawatū District,Dec-19,63
+Manawatū District,Mar-20,66
+Manawatū District,Jun-20,78
+Manawatū District,Sep-20,75
+Manawatū District,Dec-20,93
+Manawatū District,Mar-21,105
+Manawatū District,Jun-21,114
+Manawatū District,Sep-21,117
+Manawatū District,Dec-21,129
+Manawatū District,Mar-22,135
+Manawatū District,Jun-22,138
+Marlborough District,Jun-17,78
+Marlborough District,Sep-17,69
+Marlborough District,Dec-17,78
+Marlborough District,Mar-18,81
+Marlborough District,Jun-18,99
+Marlborough District,Sep-18,108
+Marlborough District,Dec-18,132
+Marlborough District,Mar-19,117
+Marlborough District,Jun-19,132
+Marlborough District,Sep-19,162
+Marlborough District,Dec-19,141
+Marlborough District,Mar-20,159
+Marlborough District,Jun-20,201
+Marlborough District,Sep-20,222
+Marlborough District,Dec-20,234
+Marlborough District,Mar-21,249
+Marlborough District,Jun-21,255
+Marlborough District,Sep-21,225
+Marlborough District,Dec-21,237
+Marlborough District,Mar-22,255
+Marlborough District,Jun-22,252
+Masterton District,Jun-17,9
+Masterton District,Sep-17,15
+Masterton District,Dec-17,24
+Masterton District,Mar-18,39
+Masterton District,Jun-18,39
+Masterton District,Sep-18,48
+Masterton District,Dec-18,42
+Masterton District,Mar-19,54
+Masterton District,Jun-19,45
+Masterton District,Sep-19,54
+Masterton District,Dec-19,78
+Masterton District,Mar-20,108
+Masterton District,Jun-20,132
+Masterton District,Sep-20,150
+Masterton District,Dec-20,144
+Masterton District,Mar-21,132
+Masterton District,Jun-21,138
+Masterton District,Sep-21,138
+Masterton District,Dec-21,135
+Masterton District,Mar-22,162
+Masterton District,Jun-22,156
+Matamata-Piako District,Jun-17,15
+Matamata-Piako District,Sep-17,24
+Matamata-Piako District,Dec-17,21
+Matamata-Piako District,Mar-18,21
+Matamata-Piako District,Jun-18,21
+Matamata-Piako District,Sep-18,27
+Matamata-Piako District,Dec-18,36
+Matamata-Piako District,Mar-19,36
+Matamata-Piako District,Jun-19,39
+Matamata-Piako District,Sep-19,63
+Matamata-Piako District,Dec-19,66
+Matamata-Piako District,Mar-20,72
+Matamata-Piako District,Jun-20,78
+Matamata-Piako District,Sep-20,90
+Matamata-Piako District,Dec-20,87
+Matamata-Piako District,Mar-21,93
+Matamata-Piako District,Jun-21,93
+Matamata-Piako District,Sep-21,87
+Matamata-Piako District,Dec-21,99
+Matamata-Piako District,Mar-22,111
+Matamata-Piako District,Jun-22,111
+Napier City,Jun-17,150
+Napier City,Sep-17,195
+Napier City,Dec-17,216
+Napier City,Mar-18,240
+Napier City,Jun-18,246
+Napier City,Sep-18,297
+Napier City,Dec-18,327
+Napier City,Mar-19,312
+Napier City,Jun-19,339
+Napier City,Sep-19,456
+Napier City,Dec-19,507
+Napier City,Mar-20,558
+Napier City,Jun-20,660
+Napier City,Sep-20,747
+Napier City,Dec-20,741
+Napier City,Mar-21,750
+Napier City,Jun-21,768
+Napier City,Sep-21,753
+Napier City,Dec-21,792
+Napier City,Mar-22,801
+Napier City,Jun-22,774
+Nelson City,Jun-17,57
+Nelson City,Sep-17,78
+Nelson City,Dec-17,78
+Nelson City,Mar-18,102
+Nelson City,Jun-18,111
+Nelson City,Sep-18,123
+Nelson City,Dec-18,135
+Nelson City,Mar-19,138
+Nelson City,Jun-19,144
+Nelson City,Sep-19,177
+Nelson City,Dec-19,171
+Nelson City,Mar-20,171
+Nelson City,Jun-20,213
+Nelson City,Sep-20,240
+Nelson City,Dec-20,252
+Nelson City,Mar-21,264
+Nelson City,Jun-21,282
+Nelson City,Sep-21,267
+Nelson City,Dec-21,279
+Nelson City,Mar-22,294
+Nelson City,Jun-22,288
+New Plymouth District,Jun-17,51
+New Plymouth District,Sep-17,60
+New Plymouth District,Dec-17,66
+New Plymouth District,Mar-18,87
+New Plymouth District,Jun-18,87
+New Plymouth District,Sep-18,102
+New Plymouth District,Dec-18,96
+New Plymouth District,Mar-19,120
+New Plymouth District,Jun-19,129
+New Plymouth District,Sep-19,144
+New Plymouth District,Dec-19,153
+New Plymouth District,Mar-20,177
+New Plymouth District,Jun-20,222
+New Plymouth District,Sep-20,309
+New Plymouth District,Dec-20,384
+New Plymouth District,Mar-21,447
+New Plymouth District,Jun-21,441
+New Plymouth District,Sep-21,417
+New Plymouth District,Dec-21,432
+New Plymouth District,Mar-22,447
+New Plymouth District,Jun-22,405
+Ōpōtiki District,Jun-17,6
+Ōpōtiki District,Sep-17,12
+Ōpōtiki District,Dec-17,12
+Ōpōtiki District,Mar-18,15
+Ōpōtiki District,Jun-18,18
+Ōpōtiki District,Sep-18,15
+Ōpōtiki District,Dec-18,21
+Ōpōtiki District,Mar-19,24
+Ōpōtiki District,Jun-19,21
+Ōpōtiki District,Sep-19,21
+Ōpōtiki District,Dec-19,24
+Ōpōtiki District,Mar-20,33
+Ōpōtiki District,Jun-20,36
+Ōpōtiki District,Sep-20,36
+Ōpōtiki District,Dec-20,48
+Ōpōtiki District,Mar-21,54
+Ōpōtiki District,Jun-21,72
+Ōpōtiki District,Sep-21,84
+Ōpōtiki District,Dec-21,93
+Ōpōtiki District,Mar-22,99
+Ōpōtiki District,Jun-22,102
+Ōtorohanga District,Jun-17,6
+Ōtorohanga District,Sep-17,0
+Ōtorohanga District,Dec-17,3
+Ōtorohanga District,Mar-18,6
+Ōtorohanga District,Jun-18,6
+Ōtorohanga District,Sep-18,9
+Ōtorohanga District,Dec-18,9
+Ōtorohanga District,Mar-19,12
+Ōtorohanga District,Jun-19,9
+Ōtorohanga District,Sep-19,9
+Ōtorohanga District,Dec-19,12
+Ōtorohanga District,Mar-20,18
+Ōtorohanga District,Jun-20,21
+Ōtorohanga District,Sep-20,27
+Ōtorohanga District,Dec-20,39
+Ōtorohanga District,Mar-21,42
+Ōtorohanga District,Jun-21,36
+Ōtorohanga District,Sep-21,36
+Ōtorohanga District,Dec-21,33
+Ōtorohanga District,Mar-22,45
+Ōtorohanga District,Jun-22,39
+Palmerston North City,Jun-17,147
+Palmerston North City,Sep-17,162
+Palmerston North City,Dec-17,153
+Palmerston North City,Mar-18,180
+Palmerston North City,Jun-18,216
+Palmerston North City,Sep-18,246
+Palmerston North City,Dec-18,309
+Palmerston North City,Mar-19,354
+Palmerston North City,Jun-19,399
+Palmerston North City,Sep-19,438
+Palmerston North City,Dec-19,435
+Palmerston North City,Mar-20,456
+Palmerston North City,Jun-20,549
+Palmerston North City,Sep-20,660
+Palmerston North City,Dec-20,684
+Palmerston North City,Mar-21,717
+Palmerston North City,Jun-21,729
+Palmerston North City,Sep-21,708
+Palmerston North City,Dec-21,717
+Palmerston North City,Mar-22,792
+Palmerston North City,Jun-22,762
+Porirua City,Jun-17,87
+Porirua City,Sep-17,129
+Porirua City,Dec-17,165
+Porirua City,Mar-18,216
+Porirua City,Jun-18,237
+Porirua City,Sep-18,222
+Porirua City,Dec-18,222
+Porirua City,Mar-19,246
+Porirua City,Jun-19,228
+Porirua City,Sep-19,270
+Porirua City,Dec-19,276
+Porirua City,Mar-20,306
+Porirua City,Jun-20,315
+Porirua City,Sep-20,336
+Porirua City,Dec-20,327
+Porirua City,Mar-21,330
+Porirua City,Jun-21,345
+Porirua City,Sep-21,366
+Porirua City,Dec-21,393
+Porirua City,Mar-22,405
+Porirua City,Jun-22,396
+Queenstown-Lakes District,Jun-17,6
+Queenstown-Lakes District,Sep-17,3
+Queenstown-Lakes District,Dec-17,6
+Queenstown-Lakes District,Mar-18,6
+Queenstown-Lakes District,Jun-18,9
+Queenstown-Lakes District,Sep-18,9
+Queenstown-Lakes District,Dec-18,6
+Queenstown-Lakes District,Mar-19,9
+Queenstown-Lakes District,Jun-19,9
+Queenstown-Lakes District,Sep-19,9
+Queenstown-Lakes District,Dec-19,15
+Queenstown-Lakes District,Mar-20,12
+Queenstown-Lakes District,Jun-20,15
+Queenstown-Lakes District,Sep-20,21
+Queenstown-Lakes District,Dec-20,24
+Queenstown-Lakes District,Mar-21,24
+Queenstown-Lakes District,Jun-21,15
+Queenstown-Lakes District,Sep-21,18
+Queenstown-Lakes District,Dec-21,21
+Queenstown-Lakes District,Mar-22,24
+Queenstown-Lakes District,Jun-22,21
+Rangitikei District,Jun-17,9
+Rangitikei District,Sep-17,6
+Rangitikei District,Dec-17,9
+Rangitikei District,Mar-18,15
+Rangitikei District,Jun-18,9
+Rangitikei District,Sep-18,15
+Rangitikei District,Dec-18,18
+Rangitikei District,Mar-19,18
+Rangitikei District,Jun-19,24
+Rangitikei District,Sep-19,24
+Rangitikei District,Dec-19,33
+Rangitikei District,Mar-20,36
+Rangitikei District,Jun-20,45
+Rangitikei District,Sep-20,57
+Rangitikei District,Dec-20,54
+Rangitikei District,Mar-21,63
+Rangitikei District,Jun-21,63
+Rangitikei District,Sep-21,51
+Rangitikei District,Dec-21,63
+Rangitikei District,Mar-22,69
+Rangitikei District,Jun-22,72
+Rotorua District,Jun-17,102
+Rotorua District,Sep-17,102
+Rotorua District,Dec-17,129
+Rotorua District,Mar-18,141
+Rotorua District,Jun-18,165
+Rotorua District,Sep-18,165
+Rotorua District,Dec-18,177
+Rotorua District,Mar-19,240
+Rotorua District,Jun-19,306
+Rotorua District,Sep-19,393
+Rotorua District,Dec-19,480
+Rotorua District,Mar-20,465
+Rotorua District,Jun-20,540
+Rotorua District,Sep-20,636
+Rotorua District,Dec-20,675
+Rotorua District,Mar-21,690
+Rotorua District,Jun-21,741
+Rotorua District,Sep-21,861
+Rotorua District,Dec-21,975
+Rotorua District,Mar-22,1014
+Rotorua District,Jun-22,1104
+Ruapehu District,Jun-17,6
+Ruapehu District,Sep-17,6
+Ruapehu District,Dec-17,12
+Ruapehu District,Mar-18,15
+Ruapehu District,Jun-18,18
+Ruapehu District,Sep-18,12
+Ruapehu District,Dec-18,21
+Ruapehu District,Mar-19,18
+Ruapehu District,Jun-19,24
+Ruapehu District,Sep-19,24
+Ruapehu District,Dec-19,24
+Ruapehu District,Mar-20,21
+Ruapehu District,Jun-20,30
+Ruapehu District,Sep-20,48
+Ruapehu District,Dec-20,60
+Ruapehu District,Mar-21,69
+Ruapehu District,Jun-21,78
+Ruapehu District,Sep-21,75
+Ruapehu District,Dec-21,84
+Ruapehu District,Mar-22,87
+Ruapehu District,Jun-22,84
+Selwyn District,Jun-17,3
+Selwyn District,Sep-17,6
+Selwyn District,Dec-17,9
+Selwyn District,Mar-18,18
+Selwyn District,Jun-18,15
+Selwyn District,Sep-18,18
+Selwyn District,Dec-18,21
+Selwyn District,Mar-19,21
+Selwyn District,Jun-19,18
+Selwyn District,Sep-19,18
+Selwyn District,Dec-19,24
+Selwyn District,Mar-20,24
+Selwyn District,Jun-20,27
+Selwyn District,Sep-20,24
+Selwyn District,Dec-20,21
+Selwyn District,Mar-21,36
+Selwyn District,Jun-21,45
+Selwyn District,Sep-21,57
+Selwyn District,Dec-21,57
+Selwyn District,Mar-22,60
+Selwyn District,Jun-22,54
+South Taranaki District,Jun-17,9
+South Taranaki District,Sep-17,12
+South Taranaki District,Dec-17,9
+South Taranaki District,Mar-18,18
+South Taranaki District,Jun-18,27
+South Taranaki District,Sep-18,24
+South Taranaki District,Dec-18,30
+South Taranaki District,Mar-19,30
+South Taranaki District,Jun-19,33
+South Taranaki District,Sep-19,39
+South Taranaki District,Dec-19,42
+South Taranaki District,Mar-20,45
+South Taranaki District,Jun-20,51
+South Taranaki District,Sep-20,78
+South Taranaki District,Dec-20,108
+South Taranaki District,Mar-21,123
+South Taranaki District,Jun-21,144
+South Taranaki District,Sep-21,129
+South Taranaki District,Dec-21,129
+South Taranaki District,Mar-22,129
+South Taranaki District,Jun-22,147
+South Waikato District,Jun-17,12
+South Waikato District,Sep-17,18
+South Waikato District,Dec-17,24
+South Waikato District,Mar-18,24
+South Waikato District,Jun-18,27
+South Waikato District,Sep-18,21
+South Waikato District,Dec-18,24
+South Waikato District,Mar-19,24
+South Waikato District,Jun-19,27
+South Waikato District,Sep-19,42
+South Waikato District,Dec-19,42
+South Waikato District,Mar-20,48
+South Waikato District,Jun-20,63
+South Waikato District,Sep-20,84
+South Waikato District,Dec-20,96
+South Waikato District,Mar-21,108
+South Waikato District,Jun-21,114
+South Waikato District,Sep-21,111
+South Waikato District,Dec-21,123
+South Waikato District,Mar-22,123
+South Waikato District,Jun-22,129
+South Wairarapa District,Jun-17,0
+South Wairarapa District,Sep-17,0
+South Wairarapa District,Dec-17,0
+South Wairarapa District,Mar-18,9
+South Wairarapa District,Jun-18,3
+South Wairarapa District,Sep-18,3
+South Wairarapa District,Dec-18,6
+South Wairarapa District,Mar-19,12
+South Wairarapa District,Jun-19,12
+South Wairarapa District,Sep-19,15
+South Wairarapa District,Dec-19,12
+South Wairarapa District,Mar-20,18
+South Wairarapa District,Jun-20,21
+South Wairarapa District,Sep-20,24
+South Wairarapa District,Dec-20,33
+South Wairarapa District,Mar-21,27
+South Wairarapa District,Jun-21,27
+South Wairarapa District,Sep-21,24
+South Wairarapa District,Dec-21,21
+South Wairarapa District,Mar-22,30
+South Wairarapa District,Jun-22,24
+Southland District,Jun-17,0
+Southland District,Sep-17,0
+Southland District,Dec-17,0
+Southland District,Mar-18,6
+Southland District,Jun-18,0
+Southland District,Sep-18,3
+Southland District,Dec-18,6
+Southland District,Mar-19,3
+Southland District,Jun-19,0
+Southland District,Sep-19,9
+Southland District,Dec-19,15
+Southland District,Mar-20,9
+Southland District,Jun-20,9
+Southland District,Sep-20,9
+Southland District,Dec-20,18
+Southland District,Mar-21,24
+Southland District,Jun-21,21
+Southland District,Sep-21,15
+Southland District,Dec-21,21
+Southland District,Mar-22,24
+Southland District,Jun-22,21
+Stratford District,Jun-17,3
+Stratford District,Sep-17,0
+Stratford District,Dec-17,0
+Stratford District,Mar-18,6
+Stratford District,Jun-18,3
+Stratford District,Sep-18,9
+Stratford District,Dec-18,9
+Stratford District,Mar-19,9
+Stratford District,Jun-19,12
+Stratford District,Sep-19,9
+Stratford District,Dec-19,9
+Stratford District,Mar-20,9
+Stratford District,Jun-20,15
+Stratford District,Sep-20,27
+Stratford District,Dec-20,30
+Stratford District,Mar-21,45
+Stratford District,Jun-21,42
+Stratford District,Sep-21,42
+Stratford District,Dec-21,36
+Stratford District,Mar-22,39
+Stratford District,Jun-22,45
+Tararua District,Jun-17,6
+Tararua District,Sep-17,9
+Tararua District,Dec-17,12
+Tararua District,Mar-18,9
+Tararua District,Jun-18,12
+Tararua District,Sep-18,18
+Tararua District,Dec-18,21
+Tararua District,Mar-19,21
+Tararua District,Jun-19,24
+Tararua District,Sep-19,21
+Tararua District,Dec-19,30
+Tararua District,Mar-20,33
+Tararua District,Jun-20,33
+Tararua District,Sep-20,48
+Tararua District,Dec-20,45
+Tararua District,Mar-21,33
+Tararua District,Jun-21,51
+Tararua District,Sep-21,54
+Tararua District,Dec-21,57
+Tararua District,Mar-22,57
+Tararua District,Jun-22,57
+Tasman District,Jun-17,39
+Tasman District,Sep-17,39
+Tasman District,Dec-17,39
+Tasman District,Mar-18,57
+Tasman District,Jun-18,57
+Tasman District,Sep-18,75
+Tasman District,Dec-18,81
+Tasman District,Mar-19,72
+Tasman District,Jun-19,93
+Tasman District,Sep-19,99
+Tasman District,Dec-19,99
+Tasman District,Mar-20,105
+Tasman District,Jun-20,108
+Tasman District,Sep-20,129
+Tasman District,Dec-20,138
+Tasman District,Mar-21,141
+Tasman District,Jun-21,165
+Tasman District,Sep-21,165
+Tasman District,Dec-21,147
+Tasman District,Mar-22,150
+Tasman District,Jun-22,147
+Taupō District,Jun-17,33
+Taupō District,Sep-17,33
+Taupō District,Dec-17,42
+Taupō District,Mar-18,48
+Taupō District,Jun-18,51
+Taupō District,Sep-18,45
+Taupō District,Dec-18,51
+Taupō District,Mar-19,45
+Taupō District,Jun-19,60
+Taupō District,Sep-19,60
+Taupō District,Dec-19,75
+Taupō District,Mar-20,69
+Taupō District,Jun-20,84
+Taupō District,Sep-20,114
+Taupō District,Dec-20,132
+Taupō District,Mar-21,129
+Taupō District,Jun-21,153
+Taupō District,Sep-21,171
+Taupō District,Dec-21,204
+Taupō District,Mar-22,228
+Taupō District,Jun-22,249
+Tauranga District/Tauranga City,Jun-17,156
+Tauranga District/Tauranga City,Sep-17,150
+Tauranga District/Tauranga City,Dec-17,165
+Tauranga District/Tauranga City,Mar-18,213
+Tauranga District/Tauranga City,Jun-18,231
+Tauranga District/Tauranga City,Sep-18,234
+Tauranga District/Tauranga City,Dec-18,261
+Tauranga District/Tauranga City,Mar-19,282
+Tauranga District/Tauranga City,Jun-19,333
+Tauranga District/Tauranga City,Sep-19,342
+Tauranga District/Tauranga City,Dec-19,393
+Tauranga District/Tauranga City,Mar-20,405
+Tauranga District/Tauranga City,Jun-20,444
+Tauranga District/Tauranga City,Sep-20,522
+Tauranga District/Tauranga City,Dec-20,573
+Tauranga District/Tauranga City,Mar-21,594
+Tauranga District/Tauranga City,Jun-21,675
+Tauranga District/Tauranga City,Sep-21,738
+Tauranga District/Tauranga City,Dec-21,777
+Tauranga District/Tauranga City,Mar-22,846
+Tauranga District/Tauranga City,Jun-22,825
+Thames-Coromandel District,Jun-17,15
+Thames-Coromandel District,Sep-17,15
+Thames-Coromandel District,Dec-17,21
+Thames-Coromandel District,Mar-18,21
+Thames-Coromandel District,Jun-18,27
+Thames-Coromandel District,Sep-18,30
+Thames-Coromandel District,Dec-18,33
+Thames-Coromandel District,Mar-19,36
+Thames-Coromandel District,Jun-19,42
+Thames-Coromandel District,Sep-19,60
+Thames-Coromandel District,Dec-19,63
+Thames-Coromandel District,Mar-20,60
+Thames-Coromandel District,Jun-20,69
+Thames-Coromandel District,Sep-20,81
+Thames-Coromandel District,Dec-20,78
+Thames-Coromandel District,Mar-21,84
+Thames-Coromandel District,Jun-21,90
+Thames-Coromandel District,Sep-21,99
+Thames-Coromandel District,Dec-21,117
+Thames-Coromandel District,Mar-22,108
+Thames-Coromandel District,Jun-22,108
+Timaru District,Jun-17,24
+Timaru District,Sep-17,30
+Timaru District,Dec-17,27
+Timaru District,Mar-18,36
+Timaru District,Jun-18,36
+Timaru District,Sep-18,39
+Timaru District,Dec-18,36
+Timaru District,Mar-19,48
+Timaru District,Jun-19,54
+Timaru District,Sep-19,57
+Timaru District,Dec-19,57
+Timaru District,Mar-20,60
+Timaru District,Jun-20,78
+Timaru District,Sep-20,87
+Timaru District,Dec-20,90
+Timaru District,Mar-21,99
+Timaru District,Jun-21,99
+Timaru District,Sep-21,81
+Timaru District,Dec-21,105
+Timaru District,Mar-22,117
+Timaru District,Jun-22,105
+Upper Hutt City,Jun-17,51
+Upper Hutt City,Sep-17,45
+Upper Hutt City,Dec-17,54
+Upper Hutt City,Mar-18,72
+Upper Hutt City,Jun-18,75
+Upper Hutt City,Sep-18,78
+Upper Hutt City,Dec-18,111
+Upper Hutt City,Mar-19,99
+Upper Hutt City,Jun-19,117
+Upper Hutt City,Sep-19,156
+Upper Hutt City,Dec-19,153
+Upper Hutt City,Mar-20,159
+Upper Hutt City,Jun-20,165
+Upper Hutt City,Sep-20,177
+Upper Hutt City,Dec-20,180
+Upper Hutt City,Mar-21,174
+Upper Hutt City,Jun-21,180
+Upper Hutt City,Sep-21,198
+Upper Hutt City,Dec-21,210
+Upper Hutt City,Mar-22,219
+Upper Hutt City,Jun-22,225
+Waikato District,Jun-17,33
+Waikato District,Sep-17,33
+Waikato District,Dec-17,30
+Waikato District,Mar-18,60
+Waikato District,Jun-18,75
+Waikato District,Sep-18,81
+Waikato District,Dec-18,105
+Waikato District,Mar-19,117
+Waikato District,Jun-19,159
+Waikato District,Sep-19,171
+Waikato District,Dec-19,183
+Waikato District,Mar-20,183
+Waikato District,Jun-20,210
+Waikato District,Sep-20,228
+Waikato District,Dec-20,234
+Waikato District,Mar-21,234
+Waikato District,Jun-21,243
+Waikato District,Sep-21,246
+Waikato District,Dec-21,255
+Waikato District,Mar-22,270
+Waikato District,Jun-22,282
+Waimakariri District,Jun-17,21
+Waimakariri District,Sep-17,24
+Waimakariri District,Dec-17,27
+Waimakariri District,Mar-18,39
+Waimakariri District,Jun-18,36
+Waimakariri District,Sep-18,42
+Waimakariri District,Dec-18,48
+Waimakariri District,Mar-19,45
+Waimakariri District,Jun-19,39
+Waimakariri District,Sep-19,45
+Waimakariri District,Dec-19,36
+Waimakariri District,Mar-20,48
+Waimakariri District,Jun-20,66
+Waimakariri District,Sep-20,78
+Waimakariri District,Dec-20,87
+Waimakariri District,Mar-21,99
+Waimakariri District,Jun-21,96
+Waimakariri District,Sep-21,84
+Waimakariri District,Dec-21,84
+Waimakariri District,Mar-22,93
+Waimakariri District,Jun-22,96
+Waimate District,Jun-17,0
+Waimate District,Sep-17,0
+Waimate District,Dec-17,0
+Waimate District,Mar-18,0
+Waimate District,Jun-18,0
+Waimate District,Sep-18,0
+Waimate District,Dec-18,0
+Waimate District,Mar-19,3
+Waimate District,Jun-19,3
+Waimate District,Sep-19,0
+Waimate District,Dec-19,0
+Waimate District,Mar-20,3
+Waimate District,Jun-20,6
+Waimate District,Sep-20,3
+Waimate District,Dec-20,9
+Waimate District,Mar-21,15
+Waimate District,Jun-21,12
+Waimate District,Sep-21,9
+Waimate District,Dec-21,15
+Waimate District,Mar-22,15
+Waimate District,Jun-22,9
+Waipā District,Jun-17,24
+Waipā District,Sep-17,12
+Waipā District,Dec-17,15
+Waipā District,Mar-18,21
+Waipā District,Jun-18,27
+Waipā District,Sep-18,27
+Waipā District,Dec-18,33
+Waipā District,Mar-19,48
+Waipā District,Jun-19,54
+Waipā District,Sep-19,63
+Waipā District,Dec-19,66
+Waipā District,Mar-20,75
+Waipā District,Jun-20,81
+Waipā District,Sep-20,78
+Waipā District,Dec-20,93
+Waipā District,Mar-21,102
+Waipā District,Jun-21,102
+Waipā District,Sep-21,99
+Waipā District,Dec-21,90
+Waipā District,Mar-22,105
+Waipā District,Jun-22,102
+Wairoa District,Jun-17,6
+Wairoa District,Sep-17,12
+Wairoa District,Dec-17,9
+Wairoa District,Mar-18,12
+Wairoa District,Jun-18,15
+Wairoa District,Sep-18,21
+Wairoa District,Dec-18,21
+Wairoa District,Mar-19,24
+Wairoa District,Jun-19,27
+Wairoa District,Sep-19,36
+Wairoa District,Dec-19,39
+Wairoa District,Mar-20,42
+Wairoa District,Jun-20,51
+Wairoa District,Sep-20,75
+Wairoa District,Dec-20,84
+Wairoa District,Mar-21,84
+Wairoa District,Jun-21,87
+Wairoa District,Sep-21,87
+Wairoa District,Dec-21,84
+Wairoa District,Mar-22,87
+Wairoa District,Jun-22,81
+Waitaki District,Jun-17,6
+Waitaki District,Sep-17,9
+Waitaki District,Dec-17,9
+Waitaki District,Mar-18,18
+Waitaki District,Jun-18,15
+Waitaki District,Sep-18,12
+Waitaki District,Dec-18,15
+Waitaki District,Mar-19,18
+Waitaki District,Jun-19,18
+Waitaki District,Sep-19,21
+Waitaki District,Dec-19,21
+Waitaki District,Mar-20,18
+Waitaki District,Jun-20,27
+Waitaki District,Sep-20,30
+Waitaki District,Dec-20,33
+Waitaki District,Mar-21,33
+Waitaki District,Jun-21,33
+Waitaki District,Sep-21,21
+Waitaki District,Dec-21,33
+Waitaki District,Mar-22,33
+Waitaki District,Jun-22,33
+Waitomo District,Jun-17,9
+Waitomo District,Sep-17,9
+Waitomo District,Dec-17,9
+Waitomo District,Mar-18,9
+Waitomo District,Jun-18,12
+Waitomo District,Sep-18,15
+Waitomo District,Dec-18,18
+Waitomo District,Mar-19,18
+Waitomo District,Jun-19,27
+Waitomo District,Sep-19,30
+Waitomo District,Dec-19,30
+Waitomo District,Mar-20,24
+Waitomo District,Jun-20,33
+Waitomo District,Sep-20,42
+Waitomo District,Dec-20,48
+Waitomo District,Mar-21,60
+Waitomo District,Jun-21,54
+Waitomo District,Sep-21,54
+Waitomo District,Dec-21,57
+Waitomo District,Mar-22,60
+Waitomo District,Jun-22,69
+Wellington City,Jun-17,225
+Wellington City,Sep-17,270
+Wellington City,Dec-17,294
+Wellington City,Mar-18,339
+Wellington City,Jun-18,357
+Wellington City,Sep-18,336
+Wellington City,Dec-18,387
+Wellington City,Mar-19,363
+Wellington City,Jun-19,426
+Wellington City,Sep-19,483
+Wellington City,Dec-19,510
+Wellington City,Mar-20,594
+Wellington City,Jun-20,753
+Wellington City,Sep-20,771
+Wellington City,Dec-20,810
+Wellington City,Mar-21,846
+Wellington City,Jun-21,906
+Wellington City,Sep-21,909
+Wellington City,Dec-21,864
+Wellington City,Mar-22,864
+Wellington City,Jun-22,858
+Western Bay Of Plenty District,Jun-17,30
+Western Bay Of Plenty District,Sep-17,27
+Western Bay Of Plenty District,Dec-17,30
+Western Bay Of Plenty District,Mar-18,42
+Western Bay Of Plenty District,Jun-18,39
+Western Bay Of Plenty District,Sep-18,48
+Western Bay Of Plenty District,Dec-18,57
+Western Bay Of Plenty District,Mar-19,57
+Western Bay Of Plenty District,Jun-19,90
+Western Bay Of Plenty District,Sep-19,87
+Western Bay Of Plenty District,Dec-19,102
+Western Bay Of Plenty District,Mar-20,99
+Western Bay Of Plenty District,Jun-20,90
+Western Bay Of Plenty District,Sep-20,129
+Western Bay Of Plenty District,Dec-20,153
+Western Bay Of Plenty District,Mar-21,159
+Western Bay Of Plenty District,Jun-21,180
+Western Bay Of Plenty District,Sep-21,159
+Western Bay Of Plenty District,Dec-21,183
+Western Bay Of Plenty District,Mar-22,207
+Western Bay Of Plenty District,Jun-22,222
+Westland District,Jun-17,3
+Westland District,Sep-17,3
+Westland District,Dec-17,3
+Westland District,Mar-18,6
+Westland District,Jun-18,9
+Westland District,Sep-18,6
+Westland District,Dec-18,12
+Westland District,Mar-19,15
+Westland District,Jun-19,15
+Westland District,Sep-19,18
+Westland District,Dec-19,21
+Westland District,Mar-20,18
+Westland District,Jun-20,24
+Westland District,Sep-20,21
+Westland District,Dec-20,27
+Westland District,Mar-21,33
+Westland District,Jun-21,30
+Westland District,Sep-21,21
+Westland District,Dec-21,30
+Westland District,Mar-22,33
+Westland District,Jun-22,30
+Whakatāne District,Jun-17,54
+Whakatāne District,Sep-17,42
+Whakatāne District,Dec-17,57
+Whakatāne District,Mar-18,72
+Whakatāne District,Jun-18,90
+Whakatāne District,Sep-18,81
+Whakatāne District,Dec-18,81
+Whakatāne District,Mar-19,96
+Whakatāne District,Jun-19,111
+Whakatāne District,Sep-19,117
+Whakatāne District,Dec-19,144
+Whakatāne District,Mar-20,171
+Whakatāne District,Jun-20,180
+Whakatāne District,Sep-20,210
+Whakatāne District,Dec-20,234
+Whakatāne District,Mar-21,240
+Whakatāne District,Jun-21,276
+Whakatāne District,Sep-21,279
+Whakatāne District,Dec-21,288
+Whakatāne District,Mar-22,303
+Whakatāne District,Jun-22,339
+Whanganui District,Jun-17,57
+Whanganui District,Sep-17,57
+Whanganui District,Dec-17,66
+Whanganui District,Mar-18,72
+Whanganui District,Jun-18,87
+Whanganui District,Sep-18,99
+Whanganui District,Dec-18,99
+Whanganui District,Mar-19,96
+Whanganui District,Jun-19,120
+Whanganui District,Sep-19,159
+Whanganui District,Dec-19,177
+Whanganui District,Mar-20,180
+Whanganui District,Jun-20,198
+Whanganui District,Sep-20,270
+Whanganui District,Dec-20,333
+Whanganui District,Mar-21,360
+Whanganui District,Jun-21,363
+Whanganui District,Sep-21,342
+Whanganui District,Dec-21,366
+Whanganui District,Mar-22,381
+Whanganui District,Jun-22,384
+Whangārei District,Jun-17,90
+Whangārei District,Sep-17,105
+Whangārei District,Dec-17,111
+Whangārei District,Mar-18,168
+Whangārei District,Jun-18,183
+Whangārei District,Sep-18,207
+Whangārei District,Dec-18,225
+Whangārei District,Mar-19,228
+Whangārei District,Jun-19,255
+Whangārei District,Sep-19,285
+Whangārei District,Dec-19,321
+Whangārei District,Mar-20,339
+Whangārei District,Jun-20,420
+Whangārei District,Sep-20,501
+Whangārei District,Dec-20,513
+Whangārei District,Mar-21,585
+Whangārei District,Jun-21,603
+Whangārei District,Sep-21,645
+Whangārei District,Dec-21,708
+Whangārei District,Mar-22,711
+Whangārei District,Jun-22,678
+Total,Jun-17,5352
+Total,Sep-17,5844
+Total,Dec-17,6183
+Total,Mar-18,7890
+Total,Jun-18,8703
+Total,Sep-18,9537
+Total,Dec-18,10713
+Total,Mar-19,11067
+Total,Jun-19,12309
+Total,Sep-19,13965
+Total,Dec-19,14868
+Total,Mar-20,16308
+Total,Jun-20,18522
+Total,Sep-20,21414
+Total,Dec-20,22521
+Total,Mar-21,23688
+Total,Jun-21,24474
+Total,Sep-21,24546
+Total,Dec-21,25524
+Total,Mar-22,26868
+Total,Jun-22,26664

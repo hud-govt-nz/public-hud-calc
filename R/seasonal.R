@@ -1,10 +1,3 @@
-#' Sample wide data
-#'
-#' Jobs Online data in wide format
-#' @name sample_wide
-#' @export
-sample_wide <- readr::read_csv("R/sample-data/jobs-online-wide.csv", show_col_types = FALSE)
-
 #' Seasonal adjustment
 #'
 #' Makes seasonally adjusted column from [period, value] dataframe.

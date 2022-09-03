@@ -1,0 +1,19 @@
+regc_code,regc_name,regc_short_name,regc_match_name,island
+1,Northland Region,Northland,northland,North Island
+2,Auckland Region,Auckland,auckland,North Island
+3,Waikato Region,Waikato,waikato,North Island
+4,Bay of Plenty Region,Bay of Plenty,bay of plenty,North Island
+5,Gisborne Region,Gisborne,gisborne,North Island
+6,Hawke's Bay Region,Hawke's Bay,hawke's bay,North Island
+7,Taranaki Region,Taranaki,taranaki,North Island
+8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu-whanganui,North Island
+9,Wellington Region,Wellington,wellington,North Island
+12,West Coast Region,West Coast,west coast,South Island
+13,Canterbury Region,Canterbury,canterbury,South Island
+14,Otago Region,Otago,otago,South Island
+15,Southland Region,Southland,southland,South Island
+16,Tasman Region,Tasman,tasman,South Island
+17,Nelson Region,Nelson,nelson,South Island
+18,Marlborough Region,Marlborough,marlborough,South Island
+99,Area Outside Region,Area Outside,area outside,NA
+99,New Zealand,New Zealand,new zealand,New Zealand
