@@ -1,28 +1,33 @@
+#' Get TAs
+#' @name get_ta
+#' @export
+get_ta <- function() {
+  find_path() %>%
+    paste0("/parsed/ta.csv") %>%
+    read_csv(show_col_types = FALSE)
+}
+
 #' TA matcher
 #'
 #' Matches TA details by ta_code or ta_match_name. Does a lot of cleaning and
 #' simplification to resolve potential issues with name matches.
-#' @name get_ta
+#' @name match_ta
 #' @param src_ta Column of target TAs
 #' @param out_col Name of column to extract
 #' @param match_col Name of column to match against ("ta_match_name" or "ta_code")
 #' @export
-get_ta <- function(src_ta, out_col = "ta_code", match_col = "ta_match_name") {
-  ta_df <-
-    find_path() %>%
-    paste0("/parsed/ta.csv") %>%
-    read_csv(show_col_types = FALSE)
+match_ta <- function(src_ta, out_col = "ta_code", match_col = "ta_match_name") {
   if (match_col == "ta_match_name") {
     joined_df <-
       tibble(src_ta) %>%
       mutate(ta_match_name = scrub(src_ta)) %>%
-      left_join(ta_df, by = match_col)
+      left_join(get_ta(), by = match_col)
   }
   else if (match_col == "ta_code") {
     joined_df <-
       tibble(src_ta) %>%
       mutate(ta_code = src_ta) %>%
-      left_join(ta_df, by = match_col)
+      left_join(get_ta(), by = match_col)
   }
   else {
     stop("I can only match by TA code or TA name!")
@@ -36,31 +41,36 @@ get_ta <- function(src_ta, out_col = "ta_code", match_col = "ta_match_name") {
 }
 
 
+#' Get regions
+#' @name get_regc
+#' @export
+get_regc <- function() {
+  find_path() %>%
+    paste0("/parsed/regc.csv") %>%
+    read_csv(show_col_types = FALSE)
+}
+
 #' Region matcher
 #'
 #' Matches region details by regc_code or regc_match_name. Does a lot of cleaning and
 #' simplification to resolve potential issues with name matches.
-#' @name get_regc
+#' @name match_regc
 #' @param src_regc Column of target regions
 #' @param out_col Name of column to extract
 #' @param match_col Name of column to match against ("regc_match_name" or "regc_code")
 #' @export
-get_regc <- function(src_regc, out_col = "regc_code", match_col = "regc_match_name") {
-  regc_df <-
-    find_path() %>%
-    paste0("/parsed/regc.csv") %>%
-    read_csv(show_col_types = FALSE)
+match_regc <- function(src_regc, out_col = "regc_code", match_col = "regc_match_name") {
   if (match_col == "regc_match_name") {
     joined_df <-
       tibble(src_regc) %>%
       mutate(regc_match_name = scrub(src_regc)) %>%
-      left_join(regc_df, by = match_col)
+      left_join(get_regc(), by = match_col)
   }
   else if (match_col == "regc_code") {
     joined_df <-
       tibble(src_regc) %>%
       mutate(regc_code = src_regc) %>%
-      left_join(regc_df, by = match_col)
+      left_join(get_regc(), by = match_col)
   }
   else {
     stop("I can only match by regc code or regc name!")

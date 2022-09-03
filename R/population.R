@@ -1,22 +1,27 @@
+#' Get population
+#' @name get_population
+#' @export
+get_population <- function() {
+  find_path() %>%
+    paste0("/parsed/population.csv") %>%
+    read_csv(show_col_types = FALSE)
+}
+
 #' Population provider
 #'
 #' For a given set of TA/region/local boards + period, provide monthly total population count.
 #' Monthly data is interpolated from population estimates.
-#' @name get_population
+#' @name match_population
 #' @param area Column of area
 #' @param period Column of period, or a single period
 #' @param area_type Type of area ("regc", "ta", "akl_board")
 #' @export
-get_population <- function (area, period, area_type) {
-  pop_df <-
-    find_path() %>%
-    paste0("/parsed/population.csv") %>%
-    read_csv(show_col_types = FALSE)
+match_population <- function (area, period, area_type) {
   if (area_type == "regc") {
-    match_name <- get_regc(area, "regc_match_name")
+    match_name <- match_regc(area, "regc_match_name")
   }
   else if (area_type == "ta") {
-    match_name <- get_ta(area, "ta_match_name")
+    match_name <- match_ta(area, "ta_match_name")
   }
   else {
     stop("I can only match by 'ta' or 'regc'!")
@@ -25,7 +30,7 @@ get_population <- function (area, period, area_type) {
     mutate(
       period = as.Date(period),
       area_match_name = match_name) %>%
-    left_join(filter(pop_df, area_type == !!area_type),
+    left_join(get_population() %>% filter(area_type == !!area_type),
               by = c("area_match_name", "period")) %>%
     pull(total)
 }

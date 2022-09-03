@@ -9,24 +9,24 @@ df_base <- calc_test_data()
 # Clean names and population adjustments for TAs
 df_base %>%
   mutate(
-    ta_code = get_ta(ta, "ta_code"),
-    ta_short_name = get_ta(ta, "ta_short_name"),
-    ta_name = get_ta(ta, "ta_name"),
-    pop = get_population(ta, period, "ta"), # Use interpolated population estimate
+    ta_code = match_ta(ta, "ta_code"),
+    ta_short_name = match_ta(ta, "ta_short_name"),
+    ta_name = match_ta(ta, "ta_name"),
+    pop = match_population(ta, period, "ta"), # Use interpolated population estimate
     per_10k = 10000 * value / pop,
-    pop_2018 = get_population(ta, "2018-01-01", "ta"), # Use 2018 population estimate
+    pop_2018 = match_population(ta, "2018-01-01", "ta"), # Use 2018 population estimate
     per_10k_2018 = 10000 * value / pop_2018)
 
 # Aggregate TAs into regions and population adjust
 df_base %>%
-  mutate(region = get_ta(ta, "regc_name")) %>%
+  mutate(region = match_ta(ta, "regc_name")) %>%
   group_by(region, period) %>%
   summarise(value = sum(value)) %>%
   ungroup() %>%
   group_by(region) %>%
   mutate(
     sadj = make_seasonal(value, period),
-    pop = get_population(region, period, "regc"),
+    pop = match_population(region, period, "regc"),
     per_10k = 10000 * value / pop,
     per_10k_sadj = 10000 * sadj / pop)
 
@@ -46,12 +46,12 @@ SMALL_REGIONS <-
     "Rest of South Island" = "Marlborough")
 
 df_base %>%
-  mutate(region = get_ta(ta, "regc_short_name")) %>%
+  mutate(region = match_ta(ta, "regc_short_name")) %>%
   # Aggregate TAs into regions
   group_by(region, period) %>%
   summarise(value = sum(value)) %>%
   ungroup() %>%
-  mutate(pop = get_population(region, period, "regc")) %>% # Much faster outside group
+  mutate(pop = match_population(region, period, "regc")) %>% # Much faster outside group
   # Rename regions, then aggregate again
   mutate(region = factor(region) %>% fct_recode(!!!SMALL_REGIONS)) %>%
   group_by(region, period) %>%

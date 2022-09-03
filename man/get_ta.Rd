@@ -2,18 +2,10 @@
 % Please edit documentation in R/areas.R
 \name{get_ta}
 \alias{get_ta}
-\title{TA matcher}
+\title{Get TAs}
 \usage{
-get_ta(src_ta, out_col = "ta_code", match_col = "ta_match_name")
-}
-\arguments{
-\item{src_ta}{Column of target TAs}
-
-\item{out_col}{Name of column to extract}
-
-\item{match_col}{Name of column to match against ("ta_match_name" or "ta_code")}
+get_ta()
 }
 \description{
-Matches TA details by ta_code or ta_match_name. Does a lot of cleaning and
-simplification to resolve potential issues with name matches.
+Get TAs
 }

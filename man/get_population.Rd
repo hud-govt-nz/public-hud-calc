@@ -2,18 +2,10 @@
 % Please edit documentation in R/population.R
 \name{get_population}
 \alias{get_population}
-\title{Population provider}
+\title{Get population}
 \usage{
-get_population(area, period, area_type)
-}
-\arguments{
-\item{area}{Column of area}
-
-\item{period}{Column of period, or a single period}
-
-\item{area_type}{Type of area ("regc", "ta", "akl_board")}
+get_population()
 }
 \description{
-For a given set of TA/region/local boards + period, provide monthly total population count.
-Monthly data is interpolated from population estimates.
+Get population
 }

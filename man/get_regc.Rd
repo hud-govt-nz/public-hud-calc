@@ -2,18 +2,10 @@
 % Please edit documentation in R/areas.R
 \name{get_regc}
 \alias{get_regc}
-\title{Region matcher}
+\title{Get regions}
 \usage{
-get_regc(src_regc, out_col = "regc_code", match_col = "regc_match_name")
-}
-\arguments{
-\item{src_regc}{Column of target regions}
-
-\item{out_col}{Name of column to extract}
-
-\item{match_col}{Name of column to match against ("regc_match_name" or "regc_code")}
+get_regc()
 }
 \description{
-Matches region details by regc_code or regc_match_name. Does a lot of cleaning and
-simplification to resolve potential issues with name matches.
+Get regions
 }
