@@ -2,10 +2,10 @@ ta_code,ta_name,ta_short_name,ta_match_name,regc_code,regc_name,regc_short_name,
 1,Far North District,Far North,far north,1,Northland Region,Northland,northland,1,North Island
 2,Whangarei District,Whangarei,whangarei,1,Northland Region,Northland,northland,1,North Island
 3,Kaipara District,Kaipara,kaipara,1,Northland Region,Northland,northland,1,North Island
-11,Thames-Coromandel District,Thames-Coromandel,thames-coromandel,3,Waikato Region,Waikato,waikato,1,North Island
+11,Thames-Coromandel District,Thames-Coromandel,thames coromandel,3,Waikato Region,Waikato,waikato,1,North Island
 12,Hauraki District,Hauraki,hauraki,3,Waikato Region,Waikato,waikato,1,North Island
 13,Waikato District,Waikato,waikato,3,Waikato Region,Waikato,waikato,1,North Island
-15,Matamata-Piako District,Matamata-Piako,matamata-piako,3,Waikato Region,Waikato,waikato,1,North Island
+15,Matamata-Piako District,Matamata-Piako,matamata piako,3,Waikato Region,Waikato,waikato,1,North Island
 16,Hamilton City,Hamilton,hamilton,3,Waikato Region,Waikato,waikato,1,North Island
 17,Waipa District,Waipa,waipa,3,Waikato Region,Waikato,waikato,1,North Island
 18,Ōtorohanga District,Ōtorohanga,otorohanga,3,Waikato Region,Waikato,waikato,1,North Island
@@ -19,20 +19,20 @@ ta_code,ta_name,ta_short_name,ta_match_name,regc_code,regc_name,regc_short_name,
 26,Kawerau District,Kawerau,kawerau,4,Bay of Plenty Region,Bay of Plenty,bay of plenty,1,North Island
 27,Ōpōtiki District,Ōpōtiki,opotiki,4,Bay of Plenty Region,Bay of Plenty,bay of plenty,1,North Island
 28,Gisborne District,Gisborne,gisborne,5,Gisborne Region,Gisborne,gisborne,1,North Island
-29,Wairoa District,Wairoa,wairoa,6,Hawke's Bay Region,Hawke's Bay,hawke's bay,1,North Island
-30,Hastings District,Hastings,hastings,6,Hawke's Bay Region,Hawke's Bay,hawke's bay,1,North Island
-31,Napier City,Napier,napier,6,Hawke's Bay Region,Hawke's Bay,hawke's bay,1,North Island
-32,Central Hawke's Bay District,Central Hawke's Bay,central hawke's bay,6,Hawke's Bay Region,Hawke's Bay,hawke's bay,1,North Island
+29,Wairoa District,Wairoa,wairoa,6,Hawke's Bay Region,Hawke's Bay,hawkes bay,1,North Island
+30,Hastings District,Hastings,hastings,6,Hawke's Bay Region,Hawke's Bay,hawkes bay,1,North Island
+31,Napier City,Napier,napier,6,Hawke's Bay Region,Hawke's Bay,hawkes bay,1,North Island
+32,Central Hawke's Bay District,Central Hawke's Bay,central hawkes bay,6,Hawke's Bay Region,Hawke's Bay,hawkes bay,1,North Island
 33,New Plymouth District,New Plymouth,new plymouth,7,Taranaki Region,Taranaki,taranaki,1,North Island
 34,Stratford District,Stratford,stratford,7,Taranaki Region,Taranaki,taranaki,0.6813,North Island
 35,South Taranaki District,South Taranaki,south taranaki,7,Taranaki Region,Taranaki,taranaki,1,North Island
-36,Ruapehu District,Ruapehu,ruapehu,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu-whanganui,1,North Island
-37,Whanganui District,Whanganui,whanganui,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu-whanganui,1,North Island
-38,Rangitikei District,Rangitikei,rangitikei,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu-whanganui,0.8637,North Island
-39,Manawatu District,Manawatu,manawatu,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu-whanganui,1,North Island
-40,Palmerston North City,Palmerston North,palmerston north,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu-whanganui,1,North Island
-41,Tararua District,Tararua,tararua,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu-whanganui,0.9842,North Island
-42,Horowhenua District,Horowhenua,horowhenua,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu-whanganui,1,North Island
+36,Ruapehu District,Ruapehu,ruapehu,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,1,North Island
+37,Whanganui District,Whanganui,whanganui,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,1,North Island
+38,Rangitikei District,Rangitikei,rangitikei,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,0.8637,North Island
+39,Manawatu District,Manawatu,manawatu,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,1,North Island
+40,Palmerston North City,Palmerston North,palmerston north,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,1,North Island
+41,Tararua District,Tararua,tararua,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,0.9842,North Island
+42,Horowhenua District,Horowhenua,horowhenua,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,1,North Island
 43,Kapiti Coast District,Kapiti Coast,kapiti coast,9,Wellington Region,Wellington,wellington,1,North Island
 44,Porirua City,Porirua,porirua,9,Wellington Region,Wellington,wellington,1,North Island
 45,Upper Hutt City,Upper Hutt,upper hutt,9,Wellington Region,Wellington,wellington,1,North Island
@@ -59,7 +59,7 @@ ta_code,ta_name,ta_short_name,ta_match_name,regc_code,regc_name,regc_short_name,
 67,Chatham Islands Territory,Chatham Islands,chatham islands,99,Area Outside Region,Area Outside,area outside,1,NA
 68,Waitaki District,Waitaki,waitaki,13,Canterbury Region,Canterbury,canterbury,0.5961,South Island
 69,Central Otago District,Central Otago,central otago,14,Otago Region,Otago,otago,1,South Island
-70,Queenstown-Lakes District,Queenstown-Lakes,queenstown-lakes,14,Otago Region,Otago,otago,1,South Island
+70,Queenstown-Lakes District,Queenstown-Lakes,queenstown lakes,14,Otago Region,Otago,otago,1,South Island
 71,Dunedin City,Dunedin,dunedin,14,Otago Region,Otago,otago,1,South Island
 72,Clutha District,Clutha,clutha,14,Otago Region,Otago,otago,1,South Island
 73,Southland District,Southland,southland,15,Southland Region,Southland,southland,1,South Island

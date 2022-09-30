@@ -88,8 +88,11 @@ match_regc <- function(src_regc, out_col = "regc_code", match_col = "regc_match_
 scrub <- function(raw) {
   raw %>%
     tolower() %>%
+    str_replace("wanganui", "whanganui") %>%
     str_replace("tauranga district/tauranga city", "tauranga") %>%
     str_replace("total", "new zealand") %>%
+    str_replace("'", "") %>%
+    str_replace("-", " ") %>%
     str_replace(" (district|region|city|territory)", "") %>%
     str_replace_all("ā", "a") %>%
     str_replace_all("ē", "e") %>%
@@ -111,6 +114,8 @@ prep_areas <- function() {
       ta_match_name =
         TA2022_V1_00_NAME_ASCII %>%
         tolower() %>%
+        str_replace("'", "") %>%
+        str_replace("-", " ") %>%
         str_replace(" (district|city|territory)", ""),
       regc_code = REGC2022_V1_00,
       regc_name = REGC2022_V1_00_NAME,
@@ -120,6 +125,8 @@ prep_areas <- function() {
       regc_match_name =
         REGC2022_V1_00_NAME_ASCII %>%
         tolower() %>%
+        str_replace("'", "") %>%
+        str_replace("-", " ") %>%
         str_replace(" (region)", ""),
       regc_match_perc = MATCH_PERC,
       island = ISLAND,
