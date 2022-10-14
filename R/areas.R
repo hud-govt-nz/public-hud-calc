@@ -127,12 +127,102 @@ match_regc <- function(src_regc, out_col = "regc_code", match_col = "regc_match_
 }
 
 
+#' Get regions/TAs/LBs/islands/NZ
+#' @name get_area
+#' @export
+get_area <- function() {
+  data.frame() %>%
+    rbind(get_ta() %>%
+          transmute(
+            area_type = "ta",
+            area_code = ta_code,
+            area_name = ta_name,
+            area_short_name = ta_short_name,
+            area_match_name = ta_match_name)) %>%
+    rbind(get_talb() %>%
+          transmute(
+            area_type = "talb",
+            area_code = talb_code,
+            area_name = talb_name,
+            area_short_name = talb_short_name,
+            area_match_name = talb_match_name)) %>%
+    rbind(get_regc() %>%
+          transmute(
+            area_type = "regc",
+            area_code = regc_code,
+            area_name = regc_name,
+            area_short_name = regc_short_name,
+            area_match_name = regc_match_name)) %>%
+    add_row(
+        area_type = "island",
+        area_code = "91",
+        area_name = "North Island",
+        area_short_name = "North Island",
+        area_match_name = "north island") %>%
+    add_row(
+        area_type = "island",
+        area_code = "92",
+        area_name = "South Island",
+        area_short_name = "South Island",
+        area_match_name = "south island") %>%
+    add_row(
+        area_type = "nz",
+        area_code = "99",
+        area_name = "New Zealand",
+        area_short_name = "New Zealand",
+        area_match_name = "new zealand")
+}
+
+
+#' Unknown/multi-level area matcher
+#'
+#' Matches region/TA/local board details by match_name,
+#' without knowing what type of area it is.
+#' @name match_area
+#' @param src_area Column of target areas
+#' @param out_col Name of column to extract
+#' @export
+match_area <- function(src_area, out_col = "area_name") {
+  raw_df <-
+    tibble(src_area) %>%
+    mutate(
+      src_area_cleaned =
+        src_area %>%
+          tolower() %>%
+          str_replace("total", "new zealand") %>%
+          str_trim(),
+      area_type =
+        case_when(
+          str_detect(src_area_cleaned, "new zealand") ~ "nz",
+          str_detect(src_area_cleaned, "north island|south island") ~ "island",
+          str_detect(src_area_cleaned, ".* region") ~ "regc",
+          str_detect(src_area_cleaned, "^auckland$|.* (city|district|territory)") ~ "ta",
+          str_detect(src_area_cleaned, ".* (local board area)") ~ "talb"),
+      area_match_name = scrub(src_area))
+
+  # Look for local boards being present and Auckland being missing, treat this as TALB
+  if ("ta" %in% raw_df$area_type &
+      "talb" %in% raw_df$area_type &
+      !any(str_detect(raw_df$src_area_cleaned, "^auckland$"))) {
+    raw_df <-
+      raw_df %>%
+      mutate(area_level = str_replace(area_type, "^ta$", "talb"))
+  }
+  raw_df %>%
+    left_join(get_area(), by=c("area_type", "area_match_name")) %>%
+    pull(out_col)
+}
+
+
 # Scrubs names to make them easier to match
 scrub <- function(raw) {
   raw %>%
     tolower() %>%
     str_replace("wanganui", "whanganui") %>%
     str_replace("tauranga district/tauranga city", "tauranga") %>%
+    str_replace("^great barrier", "aotea/great barrier") %>%
+    str_replace("north island.*", "north island") %>%
+    str_replace("south island.*", "north island") %>%
     str_replace("total", "new zealand") %>%
     str_replace("'", "") %>%
     str_replace("-", " ") %>%
@@ -141,7 +231,8 @@ scrub <- function(raw) {
     str_replace_all("ē", "e") %>%
     str_replace_all("ī", "i") %>%
     str_replace_all("ō", "o") %>%
-    str_replace_all("ū", "u")
+    str_replace_all("ū", "u") %>%
+    str_trim()
 }
 
 
