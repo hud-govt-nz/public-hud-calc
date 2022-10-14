@@ -11,7 +11,7 @@ install_github("hud-govt-nz/hud-calc")
 
 ## Usage
 * `make_seasonal`: One-line seasonal adjustments - interprets dates automagically.
-* `match_ta`/`match_regc`: Turn TAs and regions into reliable, consistent names or code.
+* `match_ta`/`match_talb`/`match_regc`: Turn TAs/TA-local boards/regions into reliable, consistent names or code.
 * `get_pop`: Provides population estimate for any month + NZ/region/TA/local board combination.
 
 ```R

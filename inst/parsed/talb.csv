@@ -1,0 +1,90 @@
+talb_code,talb_name,talb_short_name,talb_match_name,regc_code,regc_name,regc_short_name,regc_match_name,regc_match_perc,island
+00100,Far North District,Far North,far north,1,Northland Region,Northland,northland,1,North Island
+00200,Whangarei District,Whangarei,whangarei,1,Northland Region,Northland,northland,1,North Island
+00300,Kaipara District,Kaipara,kaipara,1,Northland Region,Northland,northland,1,North Island
+01100,Thames-Coromandel District,Thames-Coromandel,thames coromandel,3,Waikato Region,Waikato,waikato,1,North Island
+01200,Hauraki District,Hauraki,hauraki,3,Waikato Region,Waikato,waikato,1,North Island
+01300,Waikato District,Waikato,waikato,3,Waikato Region,Waikato,waikato,1,North Island
+01500,Matamata-Piako District,Matamata-Piako,matamata piako,3,Waikato Region,Waikato,waikato,1,North Island
+01600,Hamilton City,Hamilton,hamilton,3,Waikato Region,Waikato,waikato,1,North Island
+01700,Waipa District,Waipa,waipa,3,Waikato Region,Waikato,waikato,1,North Island
+01800,Ōtorohanga District,Ōtorohanga,otorohanga,3,Waikato Region,Waikato,waikato,1,North Island
+01900,South Waikato District,South Waikato,south waikato,3,Waikato Region,Waikato,waikato,1,North Island
+02000,Waitomo District,Waitomo,waitomo,3,Waikato Region,Waikato,waikato,0.9487,North Island
+02100,Taupo District,Taupo,taupo,3,Waikato Region,Waikato,waikato,0.73740000000000006,North Island
+02200,Western Bay of Plenty District,Western Bay of Plenty,western bay of plenty,4,Bay of Plenty Region,Bay of Plenty,bay of plenty,1,North Island
+02300,Tauranga City,Tauranga,tauranga,4,Bay of Plenty Region,Bay of Plenty,bay of plenty,1,North Island
+02400,Rotorua District,Rotorua,rotorua,4,Bay of Plenty Region,Bay of Plenty,bay of plenty,0.6152,North Island
+02500,Whakatane District,Whakatane,whakatane,4,Bay of Plenty Region,Bay of Plenty,bay of plenty,1,North Island
+02600,Kawerau District,Kawerau,kawerau,4,Bay of Plenty Region,Bay of Plenty,bay of plenty,1,North Island
+02700,Ōpōtiki District,Ōpōtiki,opotiki,4,Bay of Plenty Region,Bay of Plenty,bay of plenty,1,North Island
+02800,Gisborne District,Gisborne,gisborne,5,Gisborne Region,Gisborne,gisborne,1,North Island
+02900,Wairoa District,Wairoa,wairoa,6,Hawke's Bay Region,Hawke's Bay,hawkes bay,1,North Island
+03000,Hastings District,Hastings,hastings,6,Hawke's Bay Region,Hawke's Bay,hawkes bay,1,North Island
+03100,Napier City,Napier,napier,6,Hawke's Bay Region,Hawke's Bay,hawkes bay,1,North Island
+03200,Central Hawke's Bay District,Central Hawke's Bay,central hawkes bay,6,Hawke's Bay Region,Hawke's Bay,hawkes bay,1,North Island
+03300,New Plymouth District,New Plymouth,new plymouth,7,Taranaki Region,Taranaki,taranaki,1,North Island
+03400,Stratford District,Stratford,stratford,7,Taranaki Region,Taranaki,taranaki,0.6813,North Island
+03500,South Taranaki District,South Taranaki,south taranaki,7,Taranaki Region,Taranaki,taranaki,1,North Island
+03600,Ruapehu District,Ruapehu,ruapehu,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,1,North Island
+03700,Whanganui District,Whanganui,whanganui,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,1,North Island
+03800,Rangitikei District,Rangitikei,rangitikei,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,0.8637,North Island
+03900,Manawatu District,Manawatu,manawatu,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,1,North Island
+04000,Palmerston North City,Palmerston North,palmerston north,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,1,North Island
+04100,Tararua District,Tararua,tararua,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,0.9842,North Island
+04200,Horowhenua District,Horowhenua,horowhenua,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,1,North Island
+04300,Kapiti Coast District,Kapiti Coast,kapiti coast,9,Wellington Region,Wellington,wellington,1,North Island
+04400,Porirua City,Porirua,porirua,9,Wellington Region,Wellington,wellington,1,North Island
+04500,Upper Hutt City,Upper Hutt,upper hutt,9,Wellington Region,Wellington,wellington,1,North Island
+04600,Lower Hutt City,Lower Hutt,lower hutt,9,Wellington Region,Wellington,wellington,1,North Island
+04700,Wellington City,Wellington,wellington,9,Wellington Region,Wellington,wellington,1,North Island
+04800,Masterton District,Masterton,masterton,9,Wellington Region,Wellington,wellington,1,North Island
+04900,Carterton District,Carterton,carterton,9,Wellington Region,Wellington,wellington,1,North Island
+05000,South Wairarapa District,South Wairarapa,south wairarapa,9,Wellington Region,Wellington,wellington,1,North Island
+05100,Tasman District,Tasman,tasman,16,Tasman Region,Tasman,tasman,1,South Island
+05200,Nelson City,Nelson,nelson,17,Nelson Region,Nelson,nelson,1,South Island
+05300,Marlborough District,Marlborough,marlborough,18,Marlborough Region,Marlborough,marlborough,1,South Island
+05400,Kaikoura District,Kaikoura,kaikoura,13,Canterbury Region,Canterbury,canterbury,1,South Island
+05500,Buller District,Buller,buller,12,West Coast Region,West Coast,west coast,1,South Island
+05600,Grey District,Grey,grey,12,West Coast Region,West Coast,west coast,1,South Island
+05700,Westland District,Westland,westland,12,West Coast Region,West Coast,west coast,1,South Island
+05800,Hurunui District,Hurunui,hurunui,13,Canterbury Region,Canterbury,canterbury,1,South Island
+05900,Waimakariri District,Waimakariri,waimakariri,13,Canterbury Region,Canterbury,canterbury,1,South Island
+06000,Christchurch City,Christchurch,christchurch,13,Canterbury Region,Canterbury,canterbury,1,South Island
+06200,Selwyn District,Selwyn,selwyn,13,Canterbury Region,Canterbury,canterbury,1,South Island
+06300,Ashburton District,Ashburton,ashburton,13,Canterbury Region,Canterbury,canterbury,1,South Island
+06400,Timaru District,Timaru,timaru,13,Canterbury Region,Canterbury,canterbury,1,South Island
+06500,Mackenzie District,Mackenzie,mackenzie,13,Canterbury Region,Canterbury,canterbury,1,South Island
+06600,Waimate District,Waimate,waimate,13,Canterbury Region,Canterbury,canterbury,1,South Island
+06700,Chatham Islands Territory,Chatham Islands,chatham islands,99,Area Outside Region,Area Outside,area outside,1,NA
+06800,Waitaki District,Waitaki,waitaki,13,Canterbury Region,Canterbury,canterbury,0.5961,South Island
+06900,Central Otago District,Central Otago,central otago,14,Otago Region,Otago,otago,1,South Island
+07000,Queenstown-Lakes District,Queenstown-Lakes,queenstown lakes,14,Otago Region,Otago,otago,1,South Island
+07100,Dunedin City,Dunedin,dunedin,14,Otago Region,Otago,otago,1,South Island
+07200,Clutha District,Clutha,clutha,14,Otago Region,Otago,otago,1,South Island
+07300,Southland District,Southland,southland,15,Southland Region,Southland,southland,1,South Island
+07400,Gore District,Gore,gore,15,Southland Region,Southland,southland,1,South Island
+07500,Invercargill City,Invercargill,invercargill,15,Southland Region,Southland,southland,1,South Island
+07601,Rodney Local Board Area,Rodney,rodney,NA,NA,NA,NA,NA,NA
+07602,Hibiscus and Bays Local Board Area,Hibiscus and Bays,hibiscus and bays,NA,NA,NA,NA,NA,NA
+07603,Upper Harbour Local Board Area,Upper Harbour,upper harbour,NA,NA,NA,NA,NA,NA
+07604,Kaipātiki Local Board Area,Kaipātiki,kaipatiki,NA,NA,NA,NA,NA,NA
+07605,Devonport-Takapuna Local Board Area,Devonport-Takapuna,devonport takapuna,NA,NA,NA,NA,NA,NA
+07606,Henderson-Massey Local Board Area,Henderson-Massey,henderson massey,NA,NA,NA,NA,NA,NA
+07607,Waitākere Ranges Local Board Area,Waitākere Ranges,waitakere ranges,NA,NA,NA,NA,NA,NA
+07608,Aotea/Great Barrier Local Board Area,Aotea/Great Barrier,aotea/great barrier,NA,NA,NA,NA,NA,NA
+07609,Waiheke Local Board Area,Waiheke,waiheke,NA,NA,NA,NA,NA,NA
+07610,Waitematā Local Board Area,Waitematā,waitemata,NA,NA,NA,NA,NA,NA
+07611,Whau Local Board Area,Whau,whau,NA,NA,NA,NA,NA,NA
+07612,Albert-Eden Local Board Area,Albert-Eden,albert eden,NA,NA,NA,NA,NA,NA
+07613,Puketāpapa Local Board Area,Puketāpapa,puketapapa,NA,NA,NA,NA,NA,NA
+07614,Ōrākei Local Board Area,Ōrākei,orakei,NA,NA,NA,NA,NA,NA
+07615,Maungakiekie-Tāmaki Local Board Area,Maungakiekie-Tāmaki,maungakiekie tamaki,NA,NA,NA,NA,NA,NA
+07616,Howick Local Board Area,Howick,howick,NA,NA,NA,NA,NA,NA
+07617,Māngere-Ōtāhuhu Local Board Area,Māngere-Ōtāhuhu,mangere otahuhu,NA,NA,NA,NA,NA,NA
+07618,Ōtara-Papatoetoe Local Board Area,Ōtara-Papatoetoe,otara papatoetoe,NA,NA,NA,NA,NA,NA
+07619,Manurewa Local Board Area,Manurewa,manurewa,NA,NA,NA,NA,NA,NA
+07620,Papakura Local Board Area,Papakura,papakura,NA,NA,NA,NA,NA,NA
+07621,Franklin Local Board Area,Franklin,franklin,NA,NA,NA,NA,NA,NA
+99900,Area Outside Territorial Authority,Area Outside Territorial Authority,area outside territorial authority,NA,NA,NA,NA,NA,NA
+09900,New Zealand,New Zealand,new zealand,99,New Zealand,New Zealand,new zealand,NA,New Zealand

@@ -1,69 +1,70 @@
 ta_code,ta_name,ta_short_name,ta_match_name,regc_code,regc_name,regc_short_name,regc_match_name,regc_match_perc,island
-1,Far North District,Far North,far north,1,Northland Region,Northland,northland,1,North Island
-2,Whangarei District,Whangarei,whangarei,1,Northland Region,Northland,northland,1,North Island
-3,Kaipara District,Kaipara,kaipara,1,Northland Region,Northland,northland,1,North Island
-11,Thames-Coromandel District,Thames-Coromandel,thames coromandel,3,Waikato Region,Waikato,waikato,1,North Island
-12,Hauraki District,Hauraki,hauraki,3,Waikato Region,Waikato,waikato,1,North Island
-13,Waikato District,Waikato,waikato,3,Waikato Region,Waikato,waikato,1,North Island
-15,Matamata-Piako District,Matamata-Piako,matamata piako,3,Waikato Region,Waikato,waikato,1,North Island
-16,Hamilton City,Hamilton,hamilton,3,Waikato Region,Waikato,waikato,1,North Island
-17,Waipa District,Waipa,waipa,3,Waikato Region,Waikato,waikato,1,North Island
-18,Ōtorohanga District,Ōtorohanga,otorohanga,3,Waikato Region,Waikato,waikato,1,North Island
-19,South Waikato District,South Waikato,south waikato,3,Waikato Region,Waikato,waikato,1,North Island
-20,Waitomo District,Waitomo,waitomo,3,Waikato Region,Waikato,waikato,0.9487,North Island
-21,Taupo District,Taupo,taupo,3,Waikato Region,Waikato,waikato,0.73740000000000006,North Island
-22,Western Bay of Plenty District,Western Bay of Plenty,western bay of plenty,4,Bay of Plenty Region,Bay of Plenty,bay of plenty,1,North Island
-23,Tauranga City,Tauranga,tauranga,4,Bay of Plenty Region,Bay of Plenty,bay of plenty,1,North Island
-24,Rotorua District,Rotorua,rotorua,4,Bay of Plenty Region,Bay of Plenty,bay of plenty,0.6152,North Island
-25,Whakatane District,Whakatane,whakatane,4,Bay of Plenty Region,Bay of Plenty,bay of plenty,1,North Island
-26,Kawerau District,Kawerau,kawerau,4,Bay of Plenty Region,Bay of Plenty,bay of plenty,1,North Island
-27,Ōpōtiki District,Ōpōtiki,opotiki,4,Bay of Plenty Region,Bay of Plenty,bay of plenty,1,North Island
-28,Gisborne District,Gisborne,gisborne,5,Gisborne Region,Gisborne,gisborne,1,North Island
-29,Wairoa District,Wairoa,wairoa,6,Hawke's Bay Region,Hawke's Bay,hawkes bay,1,North Island
-30,Hastings District,Hastings,hastings,6,Hawke's Bay Region,Hawke's Bay,hawkes bay,1,North Island
-31,Napier City,Napier,napier,6,Hawke's Bay Region,Hawke's Bay,hawkes bay,1,North Island
-32,Central Hawke's Bay District,Central Hawke's Bay,central hawkes bay,6,Hawke's Bay Region,Hawke's Bay,hawkes bay,1,North Island
-33,New Plymouth District,New Plymouth,new plymouth,7,Taranaki Region,Taranaki,taranaki,1,North Island
-34,Stratford District,Stratford,stratford,7,Taranaki Region,Taranaki,taranaki,0.6813,North Island
-35,South Taranaki District,South Taranaki,south taranaki,7,Taranaki Region,Taranaki,taranaki,1,North Island
-36,Ruapehu District,Ruapehu,ruapehu,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,1,North Island
-37,Whanganui District,Whanganui,whanganui,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,1,North Island
-38,Rangitikei District,Rangitikei,rangitikei,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,0.8637,North Island
-39,Manawatu District,Manawatu,manawatu,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,1,North Island
-40,Palmerston North City,Palmerston North,palmerston north,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,1,North Island
-41,Tararua District,Tararua,tararua,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,0.9842,North Island
-42,Horowhenua District,Horowhenua,horowhenua,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,1,North Island
-43,Kapiti Coast District,Kapiti Coast,kapiti coast,9,Wellington Region,Wellington,wellington,1,North Island
-44,Porirua City,Porirua,porirua,9,Wellington Region,Wellington,wellington,1,North Island
-45,Upper Hutt City,Upper Hutt,upper hutt,9,Wellington Region,Wellington,wellington,1,North Island
-46,Lower Hutt City,Lower Hutt,lower hutt,9,Wellington Region,Wellington,wellington,1,North Island
-47,Wellington City,Wellington,wellington,9,Wellington Region,Wellington,wellington,1,North Island
-48,Masterton District,Masterton,masterton,9,Wellington Region,Wellington,wellington,1,North Island
-49,Carterton District,Carterton,carterton,9,Wellington Region,Wellington,wellington,1,North Island
-50,South Wairarapa District,South Wairarapa,south wairarapa,9,Wellington Region,Wellington,wellington,1,North Island
-51,Tasman District,Tasman,tasman,16,Tasman Region,Tasman,tasman,1,South Island
-52,Nelson City,Nelson,nelson,17,Nelson Region,Nelson,nelson,1,South Island
-53,Marlborough District,Marlborough,marlborough,18,Marlborough Region,Marlborough,marlborough,1,South Island
-54,Kaikoura District,Kaikoura,kaikoura,13,Canterbury Region,Canterbury,canterbury,1,South Island
-55,Buller District,Buller,buller,12,West Coast Region,West Coast,west coast,1,South Island
-56,Grey District,Grey,grey,12,West Coast Region,West Coast,west coast,1,South Island
-57,Westland District,Westland,westland,12,West Coast Region,West Coast,west coast,1,South Island
-58,Hurunui District,Hurunui,hurunui,13,Canterbury Region,Canterbury,canterbury,1,South Island
-59,Waimakariri District,Waimakariri,waimakariri,13,Canterbury Region,Canterbury,canterbury,1,South Island
-60,Christchurch City,Christchurch,christchurch,13,Canterbury Region,Canterbury,canterbury,1,South Island
-62,Selwyn District,Selwyn,selwyn,13,Canterbury Region,Canterbury,canterbury,1,South Island
-63,Ashburton District,Ashburton,ashburton,13,Canterbury Region,Canterbury,canterbury,1,South Island
-64,Timaru District,Timaru,timaru,13,Canterbury Region,Canterbury,canterbury,1,South Island
-65,Mackenzie District,Mackenzie,mackenzie,13,Canterbury Region,Canterbury,canterbury,1,South Island
-66,Waimate District,Waimate,waimate,13,Canterbury Region,Canterbury,canterbury,1,South Island
-67,Chatham Islands Territory,Chatham Islands,chatham islands,99,Area Outside Region,Area Outside,area outside,1,NA
-68,Waitaki District,Waitaki,waitaki,13,Canterbury Region,Canterbury,canterbury,0.5961,South Island
-69,Central Otago District,Central Otago,central otago,14,Otago Region,Otago,otago,1,South Island
-70,Queenstown-Lakes District,Queenstown-Lakes,queenstown lakes,14,Otago Region,Otago,otago,1,South Island
-71,Dunedin City,Dunedin,dunedin,14,Otago Region,Otago,otago,1,South Island
-72,Clutha District,Clutha,clutha,14,Otago Region,Otago,otago,1,South Island
-73,Southland District,Southland,southland,15,Southland Region,Southland,southland,1,South Island
-74,Gore District,Gore,gore,15,Southland Region,Southland,southland,1,South Island
-75,Invercargill City,Invercargill,invercargill,15,Southland Region,Southland,southland,1,South Island
-76,Auckland,Auckland,auckland,2,Auckland Region,Auckland,auckland,1,North Island
-99,New Zealand,New Zealand,new zealand,99,New Zealand,New Zealand,new zealand,NA,New Zealand
+001,Far North District,Far North,far north,1,Northland Region,Northland,northland,1,North Island
+002,Whangarei District,Whangarei,whangarei,1,Northland Region,Northland,northland,1,North Island
+003,Kaipara District,Kaipara,kaipara,1,Northland Region,Northland,northland,1,North Island
+011,Thames-Coromandel District,Thames-Coromandel,thames coromandel,3,Waikato Region,Waikato,waikato,1,North Island
+012,Hauraki District,Hauraki,hauraki,3,Waikato Region,Waikato,waikato,1,North Island
+013,Waikato District,Waikato,waikato,3,Waikato Region,Waikato,waikato,1,North Island
+015,Matamata-Piako District,Matamata-Piako,matamata piako,3,Waikato Region,Waikato,waikato,1,North Island
+016,Hamilton City,Hamilton,hamilton,3,Waikato Region,Waikato,waikato,1,North Island
+017,Waipa District,Waipa,waipa,3,Waikato Region,Waikato,waikato,1,North Island
+018,Ōtorohanga District,Ōtorohanga,otorohanga,3,Waikato Region,Waikato,waikato,1,North Island
+019,South Waikato District,South Waikato,south waikato,3,Waikato Region,Waikato,waikato,1,North Island
+020,Waitomo District,Waitomo,waitomo,3,Waikato Region,Waikato,waikato,0.9487,North Island
+021,Taupo District,Taupo,taupo,3,Waikato Region,Waikato,waikato,0.73740000000000006,North Island
+022,Western Bay of Plenty District,Western Bay of Plenty,western bay of plenty,4,Bay of Plenty Region,Bay of Plenty,bay of plenty,1,North Island
+023,Tauranga City,Tauranga,tauranga,4,Bay of Plenty Region,Bay of Plenty,bay of plenty,1,North Island
+024,Rotorua District,Rotorua,rotorua,4,Bay of Plenty Region,Bay of Plenty,bay of plenty,0.6152,North Island
+025,Whakatane District,Whakatane,whakatane,4,Bay of Plenty Region,Bay of Plenty,bay of plenty,1,North Island
+026,Kawerau District,Kawerau,kawerau,4,Bay of Plenty Region,Bay of Plenty,bay of plenty,1,North Island
+027,Ōpōtiki District,Ōpōtiki,opotiki,4,Bay of Plenty Region,Bay of Plenty,bay of plenty,1,North Island
+028,Gisborne District,Gisborne,gisborne,5,Gisborne Region,Gisborne,gisborne,1,North Island
+029,Wairoa District,Wairoa,wairoa,6,Hawke's Bay Region,Hawke's Bay,hawkes bay,1,North Island
+030,Hastings District,Hastings,hastings,6,Hawke's Bay Region,Hawke's Bay,hawkes bay,1,North Island
+031,Napier City,Napier,napier,6,Hawke's Bay Region,Hawke's Bay,hawkes bay,1,North Island
+032,Central Hawke's Bay District,Central Hawke's Bay,central hawkes bay,6,Hawke's Bay Region,Hawke's Bay,hawkes bay,1,North Island
+033,New Plymouth District,New Plymouth,new plymouth,7,Taranaki Region,Taranaki,taranaki,1,North Island
+034,Stratford District,Stratford,stratford,7,Taranaki Region,Taranaki,taranaki,0.6813,North Island
+035,South Taranaki District,South Taranaki,south taranaki,7,Taranaki Region,Taranaki,taranaki,1,North Island
+036,Ruapehu District,Ruapehu,ruapehu,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,1,North Island
+037,Whanganui District,Whanganui,whanganui,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,1,North Island
+038,Rangitikei District,Rangitikei,rangitikei,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,0.8637,North Island
+039,Manawatu District,Manawatu,manawatu,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,1,North Island
+040,Palmerston North City,Palmerston North,palmerston north,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,1,North Island
+041,Tararua District,Tararua,tararua,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,0.9842,North Island
+042,Horowhenua District,Horowhenua,horowhenua,8,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,1,North Island
+043,Kapiti Coast District,Kapiti Coast,kapiti coast,9,Wellington Region,Wellington,wellington,1,North Island
+044,Porirua City,Porirua,porirua,9,Wellington Region,Wellington,wellington,1,North Island
+045,Upper Hutt City,Upper Hutt,upper hutt,9,Wellington Region,Wellington,wellington,1,North Island
+046,Lower Hutt City,Lower Hutt,lower hutt,9,Wellington Region,Wellington,wellington,1,North Island
+047,Wellington City,Wellington,wellington,9,Wellington Region,Wellington,wellington,1,North Island
+048,Masterton District,Masterton,masterton,9,Wellington Region,Wellington,wellington,1,North Island
+049,Carterton District,Carterton,carterton,9,Wellington Region,Wellington,wellington,1,North Island
+050,South Wairarapa District,South Wairarapa,south wairarapa,9,Wellington Region,Wellington,wellington,1,North Island
+051,Tasman District,Tasman,tasman,16,Tasman Region,Tasman,tasman,1,South Island
+052,Nelson City,Nelson,nelson,17,Nelson Region,Nelson,nelson,1,South Island
+053,Marlborough District,Marlborough,marlborough,18,Marlborough Region,Marlborough,marlborough,1,South Island
+054,Kaikoura District,Kaikoura,kaikoura,13,Canterbury Region,Canterbury,canterbury,1,South Island
+055,Buller District,Buller,buller,12,West Coast Region,West Coast,west coast,1,South Island
+056,Grey District,Grey,grey,12,West Coast Region,West Coast,west coast,1,South Island
+057,Westland District,Westland,westland,12,West Coast Region,West Coast,west coast,1,South Island
+058,Hurunui District,Hurunui,hurunui,13,Canterbury Region,Canterbury,canterbury,1,South Island
+059,Waimakariri District,Waimakariri,waimakariri,13,Canterbury Region,Canterbury,canterbury,1,South Island
+060,Christchurch City,Christchurch,christchurch,13,Canterbury Region,Canterbury,canterbury,1,South Island
+062,Selwyn District,Selwyn,selwyn,13,Canterbury Region,Canterbury,canterbury,1,South Island
+063,Ashburton District,Ashburton,ashburton,13,Canterbury Region,Canterbury,canterbury,1,South Island
+064,Timaru District,Timaru,timaru,13,Canterbury Region,Canterbury,canterbury,1,South Island
+065,Mackenzie District,Mackenzie,mackenzie,13,Canterbury Region,Canterbury,canterbury,1,South Island
+066,Waimate District,Waimate,waimate,13,Canterbury Region,Canterbury,canterbury,1,South Island
+067,Chatham Islands Territory,Chatham Islands,chatham islands,99,Area Outside Region,Area Outside,area outside,1,NA
+068,Waitaki District,Waitaki,waitaki,13,Canterbury Region,Canterbury,canterbury,0.5961,South Island
+069,Central Otago District,Central Otago,central otago,14,Otago Region,Otago,otago,1,South Island
+070,Queenstown-Lakes District,Queenstown-Lakes,queenstown lakes,14,Otago Region,Otago,otago,1,South Island
+071,Dunedin City,Dunedin,dunedin,14,Otago Region,Otago,otago,1,South Island
+072,Clutha District,Clutha,clutha,14,Otago Region,Otago,otago,1,South Island
+073,Southland District,Southland,southland,15,Southland Region,Southland,southland,1,South Island
+074,Gore District,Gore,gore,15,Southland Region,Southland,southland,1,South Island
+075,Invercargill City,Invercargill,invercargill,15,Southland Region,Southland,southland,1,South Island
+076,Auckland,Auckland,auckland,2,Auckland Region,Auckland,auckland,1,North Island
+999,Area Outside Territorial Authority,Area Outside Territorial Authority,area outside territorial authority,NA,NA,NA,NA,NA,NA
+099,New Zealand,New Zealand,new zealand,99,New Zealand,New Zealand,new zealand,NA,New Zealand
