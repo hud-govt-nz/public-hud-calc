@@ -4,7 +4,7 @@
 \alias{match_population}
 \title{Population provider}
 \usage{
-match_population(area, period, area_type)
+match_population(area, period, area_type = "auto", method = "nearest_est")
 }
 \arguments{
 \item{area}{Column of area}
@@ -12,6 +12,8 @@ match_population(area, period, area_type)
 \item{period}{Column of period, or a single period}
 
 \item{area_type}{Type of area ("regc", "ta", "akl_board")}
+
+\item{method}{"nearest_est" or "interpolate_proj"}
 }
 \description{
 For a given set of TA/region/local boards + period, provide monthly total population count.

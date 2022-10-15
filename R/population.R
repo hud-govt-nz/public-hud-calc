@@ -1,9 +1,10 @@
 #' Get population
 #' @name get_population
+#' @param method "nearest_est" or "interpolate_proj"
 #' @export
-get_population <- function() {
+get_population <- function(method = "nearest_est") {
   find_path() %>%
-    paste0("/parsed/population.csv") %>%
+    paste0("/parsed/pop_", method, ".csv") %>%
     read_csv(show_col_types = FALSE)
 }
 
@@ -15,28 +16,85 @@ get_population <- function() {
 #' @param area Column of area
 #' @param period Column of period, or a single period
 #' @param area_type Type of area ("regc", "ta", "akl_board")
+#' @param method "nearest_est" or "interpolate_proj"
 #' @export
-match_population <- function (area, period, area_type) {
-  if (area_type == "regc") {
-    match_name <- match_regc(area, "regc_match_name")
+match_population <- function (area, period, area_type = "auto", method = "nearest_est") {
+  joined_df <-
+    tibble(area, period) %>%
+    mutate(period = as.Date(period),
+           area_type = area_type)
+
+  if (area_type == "auto") {
+    joined_df <-
+      joined_df %>%
+      mutate(area_type = match_area(area, "area_type"),
+             area_match_name = match_area(area, "area_match_name"))
+  }
+  else if (area_type == "regc") {
+    joined_df <-
+      joined_df %>%
+      mutate(area_match_name = match_regc(area, "regc_match_name"))
   }
   else if (area_type == "ta") {
-    match_name <- match_ta(area, "ta_match_name")
+    joined_df <-
+      joined_df %>%
+      mutate(area_match_name = match_ta(area, "ta_match_name"))
+  }
+  else if (area_type == "talb") {
+    joined_df <-
+      joined_df %>%
+      mutate(area_match_name = match_talb(area, "talb_match_name"))
   }
   else {
-    stop("I can only match by 'ta' or 'regc'!")
+    stop("I can only match by 'regc', 'ta' or 'talb'! If unsure, use 'auto'.")
   }
-  tibble(area, period) %>%
-    mutate(
-      period = as.Date(period),
-      area_match_name = match_name) %>%
-    left_join(get_population() %>% filter(area_type == !!area_type),
-              by = c("area_match_name", "period")) %>%
+  joined_df %>%
+    left_join(get_population(method),
+              by = c("area_type", "area_match_name", "period")) %>%
     pull(total)
 }
 
+prep_population <- function(start_date = "1996-01-01", end_date = "2048-01-01") {
+  pop_proj <-
+    prep_population_proj() %>%
+    select(area_name, area_short_name, area_match_name, area_type,
+           period, `0-14`, `15-39`, `40-64`, `65+`, total, median_age) %>%
+    write_csv("inst/parsed/pop_projections.csv")
+  pop_est <-
+    prep_population_est() %>%
+    select(area_name, area_short_name, area_match_name, area_type,
+           period, `0-14`, `15-39`, `40-64`, `65+`, total, median_age)
+  # Combine projection and estimates history (they're the same thing!)
+  # TODO: Should stitch together historical estimates properly
+  pop_est <-
+    pop_proj %>%
+    filter(period < min(pop_est$period)) %>%
+    rbind(pop_est) %>% arrange(area_type, area_name, period) %>%
+    write_csv("inst/parsed/pop_estimates.csv")
 
-prep_population <- function() {
+  # Method 1: Use nearest 30 June estimate
+  pop_est %>%
+    mutate(period = as.character(period) %>% parse_date("%Y")) %>%
+    group_by(area_type, area_name, area_short_name, area_match_name) %>%
+    complete(period = seq(as.Date(start_date), as.Date(end_date), by = "month")) %>%
+    fill(`0-14`, `15-39`, `40-64`, `65+`, total, median_age, .direction = c("downup")) %>%
+    ungroup() %>%
+    write_csv("inst/parsed/pop_nearest_est.csv")
+
+  # Method 2: Interpolate projections
+  pop_proj %>%
+    mutate(period = as.character(period) %>% parse_date("%Y")) %>%
+    group_by(area_type, area_name, area_short_name, area_match_name) %>%
+    complete(period = seq(as.Date(start_date), as.Date(end_date), by = "month")) %>%
+    mutate_at(vars(`0-14`, `15-39`, `40-64`, `65+`, total, median_age),
+              zoo::na.approx, na.rm = FALSE) %>%
+    ungroup() %>%
+    write_csv("inst/parsed/pop_interpolate_proj.csv")
+
+  # TODO: Should use estimates to adjust projections then interpolate
+}
+
+prep_population_proj <- function() {
   SRC_FN <- "sources/subnational-population-projections-2018base-2048.xlsx"
   SHEETS <-
     c("regc" = "Table 4",
@@ -46,45 +104,40 @@ prep_population <- function() {
     c("area_name", "period", "0-14", "15–39", "40–64", "65+",
       "total", "births", "deaths",
       "natural_inc", "net_migration", "median_age")
-  raw_pop_df <- data.frame()
+  raw_pop_proj <- data.frame()
   for (area_type in names(SHEETS)) {
     read_excel(SRC_FN, SHEETS[area_type], skip = 6, col_names = COLUMNS) %>%
-      mutate(area_type = area_type) %>%
       filter(!is.na(period)) %>%
       fill(area_name, .direction = c("down")) %>%
-      mutate(
-        area_name = str_replace(area_name, "\\s*\\(\\d+\\)\\s*$", ""),
-        area_short_name = str_replace(area_name, "\\s*(region|city|district|territory|local board area)\\s*$", ""),
-        area_match_name = area_short_name %>%
-                          tolower() %>%
-                          str_replace_all("ā", "a") %>%
-                          str_replace_all("ē", "e") %>%
-                          str_replace_all("ī", "i") %>%
-                          str_replace_all("ō", "o") %>%
-                          str_replace_all("ū", "u")) %>%
-      mutate_at(vars(-area_type,
-                     -area_name,
-                     -area_short_name,
-                     -area_match_name),
+      mutate_at(vars(-area_name),
                 ~replace(., . == "...", NA) %>%
                 as.numeric()) %>%
-      rbind(raw_pop_df) -> raw_pop_df
+      rbind(raw_pop_proj) -> raw_pop_proj
   }
-  raw_pop_df %>%
-    # Add regc level NZ data to TA
+  # Add regc level NZ data to TA
+  raw_pop_proj %>%
     filter(area_name == "New Zealand") %>%
-    mutate(area_type = "ta") %>%
-    rbind(raw_pop_df) %>%
-    # Interpolate to monthly level
-    mutate(period = as.character(period) %>% parse_date("%Y")) %>%
-    group_by(area_type, area_name, area_short_name, area_match_name) %>%
-    complete(period =  seq(as.Date("1996-01-01"), as.Date("2048-01-01"), by = "month")) %>%
-    mutate_at(vars(-area_type,
-                   -area_name,
-                   -area_short_name,
-                   -area_match_name,
-                   -period),
-              zoo::na.approx, na.rm = FALSE) %>%
-    ungroup() %>%
-    write_csv("inst/parsed/population.csv")
+    rbind(raw_pop_proj) %>%
+    rename(`15-39` = `15–39`, `40-64` = `40–64`) %>%
+    mutate(area_type = match_area(area_name, "area_type"),
+           area_name = match_area(area_name, "area_name"),
+           area_short_name = match_area(area_name, "area_short_name"),
+           area_match_name = match_area(area_name, "area_match_name"))
+}
+
+prep_population_est <- function() {
+  SRC_FN <- "sources/snpe-at30june21-population-by-broad-age-group.csv"
+  read_csv(SRC_FN) %>%
+    transmute(area_name = name,
+              period = year,
+              `0-14` = a0014,
+              `15-39` = a1539,
+              `40-64` = a4064,
+              `65+` = a6500,
+              `total` = atot,
+              `median_age` = medage) %>%
+    mutate(area_type = match_area(area_name, "area_type"),
+           area_name = match_area(area_name, "area_name"),
+           area_short_name = match_area(area_name, "area_short_name"),
+           area_match_name = match_area(area_name, "area_match_name"))
 }

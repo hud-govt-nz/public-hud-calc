@@ -4,7 +4,10 @@
 \alias{get_population}
 \title{Get population}
 \usage{
-get_population()
+get_population(method = "nearest_est")
+}
+\arguments{
+\item{method}{"nearest_est" or "interpolate_proj"}
 }
 \description{
 Get population
