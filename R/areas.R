@@ -222,7 +222,7 @@ scrub <- function(raw) {
     str_replace("tauranga district/tauranga city", "tauranga") %>%
     str_replace("^great barrier", "aotea/great barrier") %>%
     str_replace("north island.*", "north island") %>%
-    str_replace("south island.*", "north island") %>%
+    str_replace("south island.*", "south island") %>%
     str_replace("total", "new zealand") %>%
     str_replace("'", "") %>%
     str_replace("-", " ") %>%
