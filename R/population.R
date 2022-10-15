@@ -57,12 +57,12 @@ match_population <- function (area, period, area_type = "auto", method = "neares
 prep_population <- function(start_date = "1996-01-01", end_date = "2048-01-01") {
   pop_proj <-
     prep_population_proj() %>%
-    select(area_name, area_short_name, area_match_name, area_type,
+    select(area_type, area_name, area_short_name, area_match_name,
            period, `0-14`, `15-39`, `40-64`, `65+`, total, median_age) %>%
     write_csv("inst/parsed/pop_projections.csv")
   pop_est <-
     prep_population_est() %>%
-    select(area_name, area_short_name, area_match_name, area_type,
+    select(area_type, area_name, area_short_name, area_match_name,
            period, `0-14`, `15-39`, `40-64`, `65+`, total, median_age)
   # Combine projection and estimates history (they're the same thing!)
   # TODO: Should stitch together historical estimates properly

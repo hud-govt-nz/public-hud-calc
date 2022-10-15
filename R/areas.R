@@ -218,6 +218,7 @@ match_area <- function(src_area, out_col = "area_name") {
 scrub <- function(raw) {
   raw %>%
     tolower() %>%
+    str_replace("\\(\\d+\\)", "") %>%
     str_replace("wanganui", "whanganui") %>%
     str_replace("tauranga district/tauranga city", "tauranga") %>%
     str_replace("^great barrier", "aotea/great barrier") %>%
