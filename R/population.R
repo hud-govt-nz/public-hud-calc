@@ -86,8 +86,10 @@ prep_population <- function(start_date = "1996-01-01", end_date = "2048-01-01") 
     mutate(period = as.character(period) %>% parse_date("%Y")) %>%
     group_by(area_type, area_name, area_short_name, area_match_name) %>%
     complete(period = seq(as.Date(start_date), as.Date(end_date), by = "month")) %>%
-    mutate_at(vars(`0-14`, `15-39`, `40-64`, `65+`, total, median_age),
-              zoo::na.approx, na.rm = FALSE) %>%
+    mutate_at(vars(`0-14`, `15-39`, `40-64`, `65+`, total),
+              ~ round(zoo::na.approx(., na.rm = FALSE))) %>%
+    mutate_at(vars(median_age),
+              ~ round(zoo::na.approx(., na.rm = FALSE), 1)) %>%
     ungroup() %>%
     write_csv("inst/parsed/pop_interpolate_proj.csv")
 
