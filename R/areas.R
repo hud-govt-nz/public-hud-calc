@@ -301,7 +301,7 @@ prep_areas <- function() {
     transmute(
       regc_code = REGC2022_V1_00,
       regc_name = REGC2022_V1_00_NAME,
-      regc_short_name = REGC2022_V1_00_NAME %>% str_replace(" (District|City|Territory|Local Board Area)", ""),
+      regc_short_name = REGC2022_V1_00_NAME %>% str_replace(" (Region)", ""),
       regc_match_name = REGC2022_V1_00_NAME_ASCII %>% scrub()
     ) %>%
     left_join(match %>%

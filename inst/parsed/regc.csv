@@ -1,19 +1,19 @@
 regc_code,regc_name,regc_short_name,regc_match_name,island
-01,Northland Region,Northland Region,northland,North Island
-02,Auckland Region,Auckland Region,auckland,North Island
-03,Waikato Region,Waikato Region,waikato,North Island
-04,Bay of Plenty Region,Bay of Plenty Region,bay of plenty,North Island
-05,Gisborne Region,Gisborne Region,gisborne,North Island
-06,Hawke's Bay Region,Hawke's Bay Region,hawkes bay,North Island
-07,Taranaki Region,Taranaki Region,taranaki,North Island
-08,Manawatū-Whanganui Region,Manawatū-Whanganui Region,manawatu whanganui,North Island
-09,Wellington Region,Wellington Region,wellington,North Island
-12,West Coast Region,West Coast Region,west coast,South Island
-13,Canterbury Region,Canterbury Region,canterbury,South Island
-14,Otago Region,Otago Region,otago,South Island
-15,Southland Region,Southland Region,southland,South Island
-16,Tasman Region,Tasman Region,tasman,South Island
-17,Nelson Region,Nelson Region,nelson,South Island
-18,Marlborough Region,Marlborough Region,marlborough,South Island
-99,Area Outside Region,Area Outside Region,area outside,NA
+01,Northland Region,Northland,northland,North Island
+02,Auckland Region,Auckland,auckland,North Island
+03,Waikato Region,Waikato,waikato,North Island
+04,Bay of Plenty Region,Bay of Plenty,bay of plenty,North Island
+05,Gisborne Region,Gisborne,gisborne,North Island
+06,Hawke's Bay Region,Hawke's Bay,hawkes bay,North Island
+07,Taranaki Region,Taranaki,taranaki,North Island
+08,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,North Island
+09,Wellington Region,Wellington,wellington,North Island
+12,West Coast Region,West Coast,west coast,South Island
+13,Canterbury Region,Canterbury,canterbury,South Island
+14,Otago Region,Otago,otago,South Island
+15,Southland Region,Southland,southland,South Island
+16,Tasman Region,Tasman,tasman,South Island
+17,Nelson Region,Nelson,nelson,South Island
+18,Marlborough Region,Marlborough,marlborough,South Island
+99,Area Outside Region,Area Outside,area outside,NA
 99,New Zealand,New Zealand,new zealand,New Zealand
