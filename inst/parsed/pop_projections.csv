@@ -967,182 +967,182 @@ ta,Invercargill City,Invercargill,invercargill,2033,9600,18000,18400,13900,59900
 ta,Invercargill City,Invercargill,invercargill,2038,9400,17900,18500,14800,60500,44.1
 ta,Invercargill City,Invercargill,invercargill,2043,9300,17700,18600,15400,61000,44.8
 ta,Invercargill City,Invercargill,invercargill,2048,9300,17200,18900,15800,61200,45.3
-regc,Northland Region,Northland Region,northland,1996,37200,46600,39900,16900,140700,33.7
-regc,Northland Region,Northland Region,northland,2001,36300,43200,45800,19100,144400,36.6
-regc,Northland Region,Northland Region,northland,2006,35300,43500,51800,22100,152700,38.8
-regc,Northland Region,Northland Region,northland,2013,36400,42900,56500,28900,164700,41.5
-regc,Northland Region,Northland Region,northland,2018,38600,50100,61200,36000,185800,42.3
-regc,Northland Region,Northland Region,northland,2023,39600,53100,62800,43700,199300,43.3
-regc,Northland Region,Northland Region,northland,2028,38100,55200,62800,51800,207800,44.4
-regc,Northland Region,Northland Region,northland,2033,37300,55400,64200,58200,215100,45.7
-regc,Northland Region,Northland Region,northland,2038,37400,55800,64800,63400,221300,46.9
-regc,Northland Region,Northland Region,northland,2043,38100,56500,66300,65800,226700,47.6
-regc,Northland Region,Northland Region,northland,2048,39000,56700,68300,67100,231200,48
-regc,Auckland Region,Auckland Region,auckland,1996,255600,451400,296500,112300,1115800,32.1
-regc,Auckland Region,Auckland Region,auckland,2001,277800,469900,351000,119600,1218300,33.2
-regc,Auckland Region,Auckland Region,auckland,2006,298200,525100,415600,134000,1373000,33.8
-regc,Auckland Region,Auckland Region,auckland,2013,311500,539400,472500,169800,1493200,34.8
-regc,Auckland Region,Auckland Region,auckland,2018,324100,630300,503400,197000,1654800,34.6
-regc,Auckland Region,Auckland Region,auckland,2023,329600,677100,533600,238400,1778700,35.7
-regc,Auckland Region,Auckland Region,auckland,2028,325600,714500,565200,286500,1891800,37.1
-regc,Auckland Region,Auckland Region,auckland,2033,326700,723700,618200,333200,2001800,38.5
-regc,Auckland Region,Auckland Region,auckland,2038,335700,729200,666000,376200,2107000,39.6
-regc,Auckland Region,Auckland Region,auckland,2043,344900,743400,717000,402500,2207800,40.5
-regc,Auckland Region,Auckland Region,auckland,2048,353000,754000,761900,434000,2302900,41.3
-regc,Waikato Region,Waikato Region,waikato,1996,89500,136100,94600,38600,358800,31.8
-regc,Waikato Region,Waikato Region,waikato,2001,89500,128700,107600,42500,368400,33.8
-regc,Waikato Region,Waikato Region,waikato,2006,88700,133000,122600,48900,393200,35.5
-regc,Waikato Region,Waikato Region,waikato,2013,92500,134500,136100,61600,424600,37.1
-regc,Waikato Region,Waikato Region,waikato,2018,98900,154900,146900,74800,475600,37.1
-regc,Waikato Region,Waikato Region,waikato,2023,102200,163100,155100,90400,510800,38.5
-regc,Waikato Region,Waikato Region,waikato,2028,99900,169100,159800,107100,535900,39.9
-regc,Waikato Region,Waikato Region,waikato,2033,98500,170700,168100,121500,558700,41.3
-regc,Waikato Region,Waikato Region,waikato,2038,98700,173200,172400,134900,579300,42.4
-regc,Waikato Region,Waikato Region,waikato,2043,100500,176800,178000,142800,598100,43.1
-regc,Waikato Region,Waikato Region,waikato,2048,102600,178300,184400,149800,615100,43.6
-regc,Bay of Plenty Region,Bay of Plenty Region,bay of plenty,1996,57700,80300,62900,29700,230600,33.6
-regc,Bay of Plenty Region,Bay of Plenty Region,bay of plenty,2001,60400,78500,74000,33900,246900,35.8
-regc,Bay of Plenty Region,Bay of Plenty Region,bay of plenty,2006,60300,80600,85200,39200,265300,37.7
-regc,Bay of Plenty Region,Bay of Plenty Region,bay of plenty,2013,60400,78700,92400,48200,279700,40.2
-regc,Bay of Plenty Region,Bay of Plenty Region,bay of plenty,2018,65600,95300,101400,58500,320800,39.9
-regc,Bay of Plenty Region,Bay of Plenty Region,bay of plenty,2023,68100,101100,108100,69600,346900,41.1
-regc,Bay of Plenty Region,Bay of Plenty Region,bay of plenty,2028,65800,104000,110400,81400,361700,42.4
-regc,Bay of Plenty Region,Bay of Plenty Region,bay of plenty,2033,63700,104200,115200,91300,374400,43.9
-regc,Bay of Plenty Region,Bay of Plenty Region,bay of plenty,2038,62900,105300,116500,100800,385500,45.3
-regc,Bay of Plenty Region,Bay of Plenty Region,bay of plenty,2043,63600,106500,118500,106800,395500,46.1
-regc,Bay of Plenty Region,Bay of Plenty Region,bay of plenty,2048,65000,106300,121800,111200,404300,46.6
-regc,Gisborne Region,Gisborne Region,gisborne,1996,13100,16700,12100,5200,47200,31.4
-regc,Gisborne Region,Gisborne Region,gisborne,2001,12600,14800,12900,5200,45500,32.8
-regc,Gisborne Region,Gisborne Region,gisborne,2006,11900,14400,14200,5500,46000,34.6
-regc,Gisborne Region,Gisborne Region,gisborne,2013,11700,14000,14900,6400,47000,35.9
-regc,Gisborne Region,Gisborne Region,gisborne,2018,11600,15000,15400,7500,49500,36.6
-regc,Gisborne Region,Gisborne Region,gisborne,2023,11600,15700,15700,8900,51900,37.9
-regc,Gisborne Region,Gisborne Region,gisborne,2028,11100,15900,15600,10500,53100,39.4
-regc,Gisborne Region,Gisborne Region,gisborne,2033,10800,15500,16100,11700,54000,41.1
-regc,Gisborne Region,Gisborne Region,gisborne,2038,10500,15200,16200,12700,54600,42.4
-regc,Gisborne Region,Gisborne Region,gisborne,2043,10400,14900,16500,13100,55000,43.4
-regc,Gisborne Region,Gisborne Region,gisborne,2048,10400,14500,16900,13400,55200,44.1
-regc,Hawke's Bay Region,Hawke's Bay Region,hawkes bay,1996,36100,51500,40500,18500,146600,33.7
-regc,Hawke's Bay Region,Hawke's Bay Region,hawkes bay,2001,35900,47100,44800,19500,147300,35.7
-regc,Hawke's Bay Region,Hawke's Bay Region,hawkes bay,2006,34600,46700,49800,21000,152100,37.5
-regc,Hawke's Bay Region,Hawke's Bay Region,hawkes bay,2013,34500,44000,53200,26200,158000,40.2
-regc,Hawke's Bay Region,Hawke's Bay Region,hawkes bay,2018,35700,50100,55600,31000,172400,40.2
-regc,Hawke's Bay Region,Hawke's Bay Region,hawkes bay,2023,35800,52200,57500,36200,181800,41.4
-regc,Hawke's Bay Region,Hawke's Bay Region,hawkes bay,2028,34000,54000,57200,42300,187500,42.6
-regc,Hawke's Bay Region,Hawke's Bay Region,hawkes bay,2033,33100,53300,58800,47100,192400,43.9
-regc,Hawke's Bay Region,Hawke's Bay Region,hawkes bay,2038,33100,52800,58900,51600,196400,45.2
-regc,Hawke's Bay Region,Hawke's Bay Region,hawkes bay,2043,33400,52500,59800,54000,199600,46.1
-regc,Hawke's Bay Region,Hawke's Bay Region,hawkes bay,2048,33700,51900,61200,55300,202100,46.6
-regc,Taranaki Region,Taranaki Region,taranaki,1996,26800,38800,29500,13900,109000,33.6
-regc,Taranaki Region,Taranaki Region,taranaki,2001,25000,34000,32000,14800,105700,36.3
-regc,Taranaki Region,Taranaki Region,taranaki,2006,23100,33600,34700,15900,107300,38
-regc,Taranaki Region,Taranaki Region,taranaki,2013,24100,33400,37900,18200,113600,39.6
-regc,Taranaki Region,Taranaki Region,taranaki,2018,25100,35900,39400,20800,121200,39.7
-regc,Taranaki Region,Taranaki Region,taranaki,2023,25600,36500,40300,24300,126700,40.8
-regc,Taranaki Region,Taranaki Region,taranaki,2028,24600,37000,40200,28500,130200,42.1
-regc,Taranaki Region,Taranaki Region,taranaki,2033,23700,36600,40900,31700,133000,43.5
-regc,Taranaki Region,Taranaki Region,taranaki,2038,23100,37100,40400,34600,135200,44.8
-regc,Taranaki Region,Taranaki Region,taranaki,2043,23100,37400,40400,36100,137000,45.3
-regc,Taranaki Region,Taranaki Region,taranaki,2048,23400,37000,40800,37100,138300,45.5
-regc,Manawatū-Whanganui Region,Manawatū-Whanganui Region,manawatu whanganui,1996,55900,90100,60000,28600,234500,32.1
-regc,Manawatū-Whanganui Region,Manawatū-Whanganui Region,manawatu whanganui,2001,52600,78900,65900,30100,227500,34.7
-regc,Manawatū-Whanganui Region,Manawatū-Whanganui Region,manawatu whanganui,2006,49400,75700,71700,32500,229400,36.6
-regc,Manawatū-Whanganui Region,Manawatū-Whanganui Region,manawatu whanganui,2013,47500,71300,74500,38000,231200,38.8
-regc,Manawatū-Whanganui Region,Manawatū-Whanganui Region,manawatu whanganui,2018,48900,77700,77100,43800,247500,38.9
-regc,Manawatū-Whanganui Region,Manawatū-Whanganui Region,manawatu whanganui,2023,50000,79000,78500,51200,258700,40.1
-regc,Manawatū-Whanganui Region,Manawatū-Whanganui Region,manawatu whanganui,2028,48300,79600,77500,59700,265000,41.5
-regc,Manawatū-Whanganui Region,Manawatū-Whanganui Region,manawatu whanganui,2033,46800,78100,78700,66300,269900,43
-regc,Manawatū-Whanganui Region,Manawatū-Whanganui Region,manawatu whanganui,2038,45500,77400,78900,71500,273200,44.4
-regc,Manawatū-Whanganui Region,Manawatū-Whanganui Region,manawatu whanganui,2043,45000,77600,79000,73900,275500,45.3
-regc,Manawatū-Whanganui Region,Manawatū-Whanganui Region,manawatu whanganui,2048,45000,77000,79500,75300,276700,45.6
-regc,Wellington Region,Wellington Region,wellington,1996,94400,171600,115400,45500,426900,32.7
-regc,Wellington Region,Wellington Region,wellington,2001,96200,166900,129100,48000,440200,34.2
-regc,Wellington Region,Wellington Region,wellington,2006,94900,173200,145100,53100,466300,35.3
-regc,Wellington Region,Wellington Region,wellington,2013,95000,167900,159700,64100,486700,37.1
-regc,Wellington Region,Wellington Region,wellington,2018,95400,188400,167900,74200,525900,37
-regc,Wellington Region,Wellington Region,wellington,2023,95400,195500,175300,88000,554200,38.2
-regc,Wellington Region,Wellington Region,wellington,2028,90200,201000,175100,103900,570200,39.3
-regc,Wellington Region,Wellington Region,wellington,2033,87800,198900,179500,118000,584200,40.6
-regc,Wellington Region,Wellington Region,wellington,2038,87300,196200,181800,130600,595800,41.7
-regc,Wellington Region,Wellington Region,wellington,2043,87500,194400,186300,137100,605300,42.6
-regc,Wellington Region,Wellington Region,wellington,2048,87400,192000,191000,141900,612200,43.3
-regc,Tasman Region,Tasman Region,tasman,1996,9100,13300,11600,4800,38800,35.3
-regc,Tasman Region,Tasman Region,tasman,2001,9700,13100,14100,5500,42400,37.8
-regc,Tasman Region,Tasman Region,tasman,2006,9700,12900,16900,6200,45800,40.3
-regc,Tasman Region,Tasman Region,tasman,2013,9700,11700,18700,8700,48800,44
-regc,Tasman Region,Tasman Region,tasman,2018,9600,13300,19900,11200,54000,46
-regc,Tasman Region,Tasman Region,tasman,2023,9200,14100,20400,14000,57700,48.2
-regc,Tasman Region,Tasman Region,tasman,2028,8700,14400,20100,16700,59900,50.2
-regc,Tasman Region,Tasman Region,tasman,2033,8500,14000,20000,19100,61600,51.5
-regc,Tasman Region,Tasman Region,tasman,2038,8500,13800,19400,21300,62900,52.6
-regc,Tasman Region,Tasman Region,tasman,2043,8500,13200,19500,22400,63700,53.5
-regc,Tasman Region,Tasman Region,tasman,2048,8400,12600,20000,22900,64000,54.4
-regc,Nelson Region,Nelson Region,nelson,1996,8500,15300,11500,5800,41200,35
-regc,Nelson Region,Nelson Region,nelson,2001,8900,14500,13400,6100,42900,37.2
-regc,Nelson Region,Nelson Region,nelson,2006,8400,14100,15400,6400,44300,39.4
-regc,Nelson Region,Nelson Region,nelson,2013,9200,13600,17500,8400,48700,42.2
-regc,Nelson Region,Nelson Region,nelson,2018,9200,15300,18200,10000,52700,43
-regc,Nelson Region,Nelson Region,nelson,2023,9300,15500,18600,12200,55500,44.6
-regc,Nelson Region,Nelson Region,nelson,2028,8700,15500,18200,14500,56900,46.2
-regc,Nelson Region,Nelson Region,nelson,2033,8200,15100,18100,16400,57800,47.7
-regc,Nelson Region,Nelson Region,nelson,2038,7900,14900,17500,18000,58300,49.1
-regc,Nelson Region,Nelson Region,nelson,2043,7800,14800,17200,18700,58500,50.4
-regc,Nelson Region,Nelson Region,nelson,2048,7700,14400,17200,19000,58300,51.1
-regc,Marlborough Region,Marlborough Region,marlborough,1996,8700,13400,11600,5600,39200,36
-regc,Marlborough Region,Marlborough Region,marlborough,2001,8500,12300,13700,6300,40700,39.4
-regc,Marlborough Region,Marlborough Region,marlborough,2006,8000,12700,15800,7100,43600,41.8
-regc,Marlborough Region,Marlborough Region,marlborough,2013,8100,11600,15900,9100,44700,44.6
-regc,Marlborough Region,Marlborough Region,marlborough,2018,8400,12900,16600,10800,48700,45.2
-regc,Marlborough Region,Marlborough Region,marlborough,2023,8500,13000,16800,12700,51000,46.8
-regc,Marlborough Region,Marlborough Region,marlborough,2028,7900,13100,16600,14500,52000,48.3
-regc,Marlborough Region,Marlborough Region,marlborough,2033,7500,12600,16800,15800,52700,49.5
-regc,Marlborough Region,Marlborough Region,marlborough,2038,7200,12100,16800,16800,52900,50.6
-regc,Marlborough Region,Marlborough Region,marlborough,2043,7100,11900,16600,17300,52900,51.9
-regc,Marlborough Region,Marlborough Region,marlborough,2048,7000,11600,16500,17600,52700,52.9
-regc,West Coast Region,West Coast Region,west coast,1996,7900,11800,9500,4000,33200,34.5
-regc,West Coast Region,West Coast Region,west coast,2001,7000,9500,10400,4100,31100,38.1
-regc,West Coast Region,West Coast Region,west coast,2006,6500,9400,11700,4500,32100,40.3
-regc,West Coast Region,West Coast Region,west coast,2013,6300,8900,12400,5300,33000,42.6
-regc,West Coast Region,West Coast Region,west coast,2018,5700,8600,11900,6300,32400,45.5
-regc,West Coast Region,West Coast Region,west coast,2023,5300,8600,11100,7500,32500,46.7
-regc,West Coast Region,West Coast Region,west coast,2028,5000,8500,10300,8800,32600,47.5
-regc,West Coast Region,West Coast Region,west coast,2033,4800,7800,10200,9700,32500,48.4
-regc,West Coast Region,West Coast Region,west coast,2038,4600,7500,9900,10100,32100,49.5
-regc,West Coast Region,West Coast Region,west coast,2043,4400,7100,10100,9900,31400,50.9
-regc,West Coast Region,West Coast Region,west coast,2048,4200,6700,10200,9600,30600,51.8
-regc,Canterbury Region,Canterbury Region,canterbury,1996,97900,184300,134300,64000,480400,34.4
-regc,Canterbury Region,Canterbury Region,canterbury,2001,100100,176100,152800,67700,496700,36.4
-regc,Canterbury Region,Canterbury Region,canterbury,2006,104700,185000,175600,74700,540000,37.6
-regc,Canterbury Region,Canterbury Region,canterbury,2013,105700,179700,191700,85800,562900,39.5
-regc,Canterbury Region,Canterbury Region,canterbury,2018,111600,211800,201200,98200,622800,38.4
-regc,Canterbury Region,Canterbury Region,canterbury,2023,113200,222700,210800,114500,661300,39.4
-regc,Canterbury Region,Canterbury Region,canterbury,2028,110000,228500,217400,134000,689900,40.7
-regc,Canterbury Region,Canterbury Region,canterbury,2033,108100,226400,230600,151000,716000,42.1
-regc,Canterbury Region,Canterbury Region,canterbury,2038,107700,227900,237300,166800,739700,43.4
-regc,Canterbury Region,Canterbury Region,canterbury,2043,108900,230100,246600,175800,761300,44.2
-regc,Canterbury Region,Canterbury Region,canterbury,2048,110400,229700,255800,184600,780500,44.8
-regc,Otago Region,Otago Region,otago,1996,37400,76000,50900,25000,189300,33.6
-regc,Otago Region,Otago Region,otago,2001,35500,70300,56800,25800,188300,35.9
-regc,Otago Region,Otago Region,otago,2006,34800,73800,63600,27500,199800,36.8
-regc,Otago Region,Otago Region,otago,2013,36100,71600,68600,32400,208800,38.7
-regc,Otago Region,Otago Region,otago,2018,38000,86000,73200,37800,235000,37.7
-regc,Otago Region,Otago Region,otago,2023,38600,90800,76500,45100,250900,38.8
-regc,Otago Region,Otago Region,otago,2028,36800,91900,78000,52800,259500,40.3
-regc,Otago Region,Otago Region,otago,2033,35800,90900,81100,59200,267000,41.9
-regc,Otago Region,Otago Region,otago,2038,35500,89800,82800,65300,273300,43.3
-regc,Otago Region,Otago Region,otago,2043,35400,90000,84200,68800,278500,44.3
-regc,Otago Region,Otago Region,otago,2048,35500,89600,85900,71700,282600,44.9
-regc,Southland Region,Southland Region,southland,1996,23600,36300,27500,11600,99000,33.7
-regc,Southland Region,Southland Region,southland,2001,21100,30800,29200,12200,93300,36.6
-regc,Southland Region,Southland Region,southland,2006,19600,29600,31000,13000,93200,38
-regc,Southland Region,Southland Region,southland,2013,19800,29100,32200,14900,96000,39.3
-regc,Southland Region,Southland Region,southland,2018,19800,31000,32900,16800,100500,39.5
-regc,Southland Region,Southland Region,southland,2023,19400,31600,33100,19600,103800,40.7
-regc,Southland Region,Southland Region,southland,2028,18300,31800,32600,23000,105700,42
-regc,Southland Region,Southland Region,southland,2033,17500,31000,33100,25500,107100,43.4
-regc,Southland Region,Southland Region,southland,2038,17000,30400,33200,27300,108000,44.8
-regc,Southland Region,Southland Region,southland,2043,16900,29900,33300,28300,108400,45.7
-regc,Southland Region,Southland Region,southland,2048,16700,28900,33800,28800,108300,46.3
+regc,Northland Region,Northland,northland,1996,37200,46600,39900,16900,140700,33.7
+regc,Northland Region,Northland,northland,2001,36300,43200,45800,19100,144400,36.6
+regc,Northland Region,Northland,northland,2006,35300,43500,51800,22100,152700,38.8
+regc,Northland Region,Northland,northland,2013,36400,42900,56500,28900,164700,41.5
+regc,Northland Region,Northland,northland,2018,38600,50100,61200,36000,185800,42.3
+regc,Northland Region,Northland,northland,2023,39600,53100,62800,43700,199300,43.3
+regc,Northland Region,Northland,northland,2028,38100,55200,62800,51800,207800,44.4
+regc,Northland Region,Northland,northland,2033,37300,55400,64200,58200,215100,45.7
+regc,Northland Region,Northland,northland,2038,37400,55800,64800,63400,221300,46.9
+regc,Northland Region,Northland,northland,2043,38100,56500,66300,65800,226700,47.6
+regc,Northland Region,Northland,northland,2048,39000,56700,68300,67100,231200,48
+regc,Auckland Region,Auckland,auckland,1996,255600,451400,296500,112300,1115800,32.1
+regc,Auckland Region,Auckland,auckland,2001,277800,469900,351000,119600,1218300,33.2
+regc,Auckland Region,Auckland,auckland,2006,298200,525100,415600,134000,1373000,33.8
+regc,Auckland Region,Auckland,auckland,2013,311500,539400,472500,169800,1493200,34.8
+regc,Auckland Region,Auckland,auckland,2018,324100,630300,503400,197000,1654800,34.6
+regc,Auckland Region,Auckland,auckland,2023,329600,677100,533600,238400,1778700,35.7
+regc,Auckland Region,Auckland,auckland,2028,325600,714500,565200,286500,1891800,37.1
+regc,Auckland Region,Auckland,auckland,2033,326700,723700,618200,333200,2001800,38.5
+regc,Auckland Region,Auckland,auckland,2038,335700,729200,666000,376200,2107000,39.6
+regc,Auckland Region,Auckland,auckland,2043,344900,743400,717000,402500,2207800,40.5
+regc,Auckland Region,Auckland,auckland,2048,353000,754000,761900,434000,2302900,41.3
+regc,Waikato Region,Waikato,waikato,1996,89500,136100,94600,38600,358800,31.8
+regc,Waikato Region,Waikato,waikato,2001,89500,128700,107600,42500,368400,33.8
+regc,Waikato Region,Waikato,waikato,2006,88700,133000,122600,48900,393200,35.5
+regc,Waikato Region,Waikato,waikato,2013,92500,134500,136100,61600,424600,37.1
+regc,Waikato Region,Waikato,waikato,2018,98900,154900,146900,74800,475600,37.1
+regc,Waikato Region,Waikato,waikato,2023,102200,163100,155100,90400,510800,38.5
+regc,Waikato Region,Waikato,waikato,2028,99900,169100,159800,107100,535900,39.9
+regc,Waikato Region,Waikato,waikato,2033,98500,170700,168100,121500,558700,41.3
+regc,Waikato Region,Waikato,waikato,2038,98700,173200,172400,134900,579300,42.4
+regc,Waikato Region,Waikato,waikato,2043,100500,176800,178000,142800,598100,43.1
+regc,Waikato Region,Waikato,waikato,2048,102600,178300,184400,149800,615100,43.6
+regc,Bay of Plenty Region,Bay of Plenty,bay of plenty,1996,57700,80300,62900,29700,230600,33.6
+regc,Bay of Plenty Region,Bay of Plenty,bay of plenty,2001,60400,78500,74000,33900,246900,35.8
+regc,Bay of Plenty Region,Bay of Plenty,bay of plenty,2006,60300,80600,85200,39200,265300,37.7
+regc,Bay of Plenty Region,Bay of Plenty,bay of plenty,2013,60400,78700,92400,48200,279700,40.2
+regc,Bay of Plenty Region,Bay of Plenty,bay of plenty,2018,65600,95300,101400,58500,320800,39.9
+regc,Bay of Plenty Region,Bay of Plenty,bay of plenty,2023,68100,101100,108100,69600,346900,41.1
+regc,Bay of Plenty Region,Bay of Plenty,bay of plenty,2028,65800,104000,110400,81400,361700,42.4
+regc,Bay of Plenty Region,Bay of Plenty,bay of plenty,2033,63700,104200,115200,91300,374400,43.9
+regc,Bay of Plenty Region,Bay of Plenty,bay of plenty,2038,62900,105300,116500,100800,385500,45.3
+regc,Bay of Plenty Region,Bay of Plenty,bay of plenty,2043,63600,106500,118500,106800,395500,46.1
+regc,Bay of Plenty Region,Bay of Plenty,bay of plenty,2048,65000,106300,121800,111200,404300,46.6
+regc,Gisborne Region,Gisborne,gisborne,1996,13100,16700,12100,5200,47200,31.4
+regc,Gisborne Region,Gisborne,gisborne,2001,12600,14800,12900,5200,45500,32.8
+regc,Gisborne Region,Gisborne,gisborne,2006,11900,14400,14200,5500,46000,34.6
+regc,Gisborne Region,Gisborne,gisborne,2013,11700,14000,14900,6400,47000,35.9
+regc,Gisborne Region,Gisborne,gisborne,2018,11600,15000,15400,7500,49500,36.6
+regc,Gisborne Region,Gisborne,gisborne,2023,11600,15700,15700,8900,51900,37.9
+regc,Gisborne Region,Gisborne,gisborne,2028,11100,15900,15600,10500,53100,39.4
+regc,Gisborne Region,Gisborne,gisborne,2033,10800,15500,16100,11700,54000,41.1
+regc,Gisborne Region,Gisborne,gisborne,2038,10500,15200,16200,12700,54600,42.4
+regc,Gisborne Region,Gisborne,gisborne,2043,10400,14900,16500,13100,55000,43.4
+regc,Gisborne Region,Gisborne,gisborne,2048,10400,14500,16900,13400,55200,44.1
+regc,Hawke's Bay Region,Hawke's Bay,hawkes bay,1996,36100,51500,40500,18500,146600,33.7
+regc,Hawke's Bay Region,Hawke's Bay,hawkes bay,2001,35900,47100,44800,19500,147300,35.7
+regc,Hawke's Bay Region,Hawke's Bay,hawkes bay,2006,34600,46700,49800,21000,152100,37.5
+regc,Hawke's Bay Region,Hawke's Bay,hawkes bay,2013,34500,44000,53200,26200,158000,40.2
+regc,Hawke's Bay Region,Hawke's Bay,hawkes bay,2018,35700,50100,55600,31000,172400,40.2
+regc,Hawke's Bay Region,Hawke's Bay,hawkes bay,2023,35800,52200,57500,36200,181800,41.4
+regc,Hawke's Bay Region,Hawke's Bay,hawkes bay,2028,34000,54000,57200,42300,187500,42.6
+regc,Hawke's Bay Region,Hawke's Bay,hawkes bay,2033,33100,53300,58800,47100,192400,43.9
+regc,Hawke's Bay Region,Hawke's Bay,hawkes bay,2038,33100,52800,58900,51600,196400,45.2
+regc,Hawke's Bay Region,Hawke's Bay,hawkes bay,2043,33400,52500,59800,54000,199600,46.1
+regc,Hawke's Bay Region,Hawke's Bay,hawkes bay,2048,33700,51900,61200,55300,202100,46.6
+regc,Taranaki Region,Taranaki,taranaki,1996,26800,38800,29500,13900,109000,33.6
+regc,Taranaki Region,Taranaki,taranaki,2001,25000,34000,32000,14800,105700,36.3
+regc,Taranaki Region,Taranaki,taranaki,2006,23100,33600,34700,15900,107300,38
+regc,Taranaki Region,Taranaki,taranaki,2013,24100,33400,37900,18200,113600,39.6
+regc,Taranaki Region,Taranaki,taranaki,2018,25100,35900,39400,20800,121200,39.7
+regc,Taranaki Region,Taranaki,taranaki,2023,25600,36500,40300,24300,126700,40.8
+regc,Taranaki Region,Taranaki,taranaki,2028,24600,37000,40200,28500,130200,42.1
+regc,Taranaki Region,Taranaki,taranaki,2033,23700,36600,40900,31700,133000,43.5
+regc,Taranaki Region,Taranaki,taranaki,2038,23100,37100,40400,34600,135200,44.8
+regc,Taranaki Region,Taranaki,taranaki,2043,23100,37400,40400,36100,137000,45.3
+regc,Taranaki Region,Taranaki,taranaki,2048,23400,37000,40800,37100,138300,45.5
+regc,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,1996,55900,90100,60000,28600,234500,32.1
+regc,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,2001,52600,78900,65900,30100,227500,34.7
+regc,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,2006,49400,75700,71700,32500,229400,36.6
+regc,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,2013,47500,71300,74500,38000,231200,38.8
+regc,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,2018,48900,77700,77100,43800,247500,38.9
+regc,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,2023,50000,79000,78500,51200,258700,40.1
+regc,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,2028,48300,79600,77500,59700,265000,41.5
+regc,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,2033,46800,78100,78700,66300,269900,43
+regc,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,2038,45500,77400,78900,71500,273200,44.4
+regc,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,2043,45000,77600,79000,73900,275500,45.3
+regc,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,2048,45000,77000,79500,75300,276700,45.6
+regc,Wellington Region,Wellington,wellington,1996,94400,171600,115400,45500,426900,32.7
+regc,Wellington Region,Wellington,wellington,2001,96200,166900,129100,48000,440200,34.2
+regc,Wellington Region,Wellington,wellington,2006,94900,173200,145100,53100,466300,35.3
+regc,Wellington Region,Wellington,wellington,2013,95000,167900,159700,64100,486700,37.1
+regc,Wellington Region,Wellington,wellington,2018,95400,188400,167900,74200,525900,37
+regc,Wellington Region,Wellington,wellington,2023,95400,195500,175300,88000,554200,38.2
+regc,Wellington Region,Wellington,wellington,2028,90200,201000,175100,103900,570200,39.3
+regc,Wellington Region,Wellington,wellington,2033,87800,198900,179500,118000,584200,40.6
+regc,Wellington Region,Wellington,wellington,2038,87300,196200,181800,130600,595800,41.7
+regc,Wellington Region,Wellington,wellington,2043,87500,194400,186300,137100,605300,42.6
+regc,Wellington Region,Wellington,wellington,2048,87400,192000,191000,141900,612200,43.3
+regc,Tasman Region,Tasman,tasman,1996,9100,13300,11600,4800,38800,35.3
+regc,Tasman Region,Tasman,tasman,2001,9700,13100,14100,5500,42400,37.8
+regc,Tasman Region,Tasman,tasman,2006,9700,12900,16900,6200,45800,40.3
+regc,Tasman Region,Tasman,tasman,2013,9700,11700,18700,8700,48800,44
+regc,Tasman Region,Tasman,tasman,2018,9600,13300,19900,11200,54000,46
+regc,Tasman Region,Tasman,tasman,2023,9200,14100,20400,14000,57700,48.2
+regc,Tasman Region,Tasman,tasman,2028,8700,14400,20100,16700,59900,50.2
+regc,Tasman Region,Tasman,tasman,2033,8500,14000,20000,19100,61600,51.5
+regc,Tasman Region,Tasman,tasman,2038,8500,13800,19400,21300,62900,52.6
+regc,Tasman Region,Tasman,tasman,2043,8500,13200,19500,22400,63700,53.5
+regc,Tasman Region,Tasman,tasman,2048,8400,12600,20000,22900,64000,54.4
+regc,Nelson Region,Nelson,nelson,1996,8500,15300,11500,5800,41200,35
+regc,Nelson Region,Nelson,nelson,2001,8900,14500,13400,6100,42900,37.2
+regc,Nelson Region,Nelson,nelson,2006,8400,14100,15400,6400,44300,39.4
+regc,Nelson Region,Nelson,nelson,2013,9200,13600,17500,8400,48700,42.2
+regc,Nelson Region,Nelson,nelson,2018,9200,15300,18200,10000,52700,43
+regc,Nelson Region,Nelson,nelson,2023,9300,15500,18600,12200,55500,44.6
+regc,Nelson Region,Nelson,nelson,2028,8700,15500,18200,14500,56900,46.2
+regc,Nelson Region,Nelson,nelson,2033,8200,15100,18100,16400,57800,47.7
+regc,Nelson Region,Nelson,nelson,2038,7900,14900,17500,18000,58300,49.1
+regc,Nelson Region,Nelson,nelson,2043,7800,14800,17200,18700,58500,50.4
+regc,Nelson Region,Nelson,nelson,2048,7700,14400,17200,19000,58300,51.1
+regc,Marlborough Region,Marlborough,marlborough,1996,8700,13400,11600,5600,39200,36
+regc,Marlborough Region,Marlborough,marlborough,2001,8500,12300,13700,6300,40700,39.4
+regc,Marlborough Region,Marlborough,marlborough,2006,8000,12700,15800,7100,43600,41.8
+regc,Marlborough Region,Marlborough,marlborough,2013,8100,11600,15900,9100,44700,44.6
+regc,Marlborough Region,Marlborough,marlborough,2018,8400,12900,16600,10800,48700,45.2
+regc,Marlborough Region,Marlborough,marlborough,2023,8500,13000,16800,12700,51000,46.8
+regc,Marlborough Region,Marlborough,marlborough,2028,7900,13100,16600,14500,52000,48.3
+regc,Marlborough Region,Marlborough,marlborough,2033,7500,12600,16800,15800,52700,49.5
+regc,Marlborough Region,Marlborough,marlborough,2038,7200,12100,16800,16800,52900,50.6
+regc,Marlborough Region,Marlborough,marlborough,2043,7100,11900,16600,17300,52900,51.9
+regc,Marlborough Region,Marlborough,marlborough,2048,7000,11600,16500,17600,52700,52.9
+regc,West Coast Region,West Coast,west coast,1996,7900,11800,9500,4000,33200,34.5
+regc,West Coast Region,West Coast,west coast,2001,7000,9500,10400,4100,31100,38.1
+regc,West Coast Region,West Coast,west coast,2006,6500,9400,11700,4500,32100,40.3
+regc,West Coast Region,West Coast,west coast,2013,6300,8900,12400,5300,33000,42.6
+regc,West Coast Region,West Coast,west coast,2018,5700,8600,11900,6300,32400,45.5
+regc,West Coast Region,West Coast,west coast,2023,5300,8600,11100,7500,32500,46.7
+regc,West Coast Region,West Coast,west coast,2028,5000,8500,10300,8800,32600,47.5
+regc,West Coast Region,West Coast,west coast,2033,4800,7800,10200,9700,32500,48.4
+regc,West Coast Region,West Coast,west coast,2038,4600,7500,9900,10100,32100,49.5
+regc,West Coast Region,West Coast,west coast,2043,4400,7100,10100,9900,31400,50.9
+regc,West Coast Region,West Coast,west coast,2048,4200,6700,10200,9600,30600,51.8
+regc,Canterbury Region,Canterbury,canterbury,1996,97900,184300,134300,64000,480400,34.4
+regc,Canterbury Region,Canterbury,canterbury,2001,100100,176100,152800,67700,496700,36.4
+regc,Canterbury Region,Canterbury,canterbury,2006,104700,185000,175600,74700,540000,37.6
+regc,Canterbury Region,Canterbury,canterbury,2013,105700,179700,191700,85800,562900,39.5
+regc,Canterbury Region,Canterbury,canterbury,2018,111600,211800,201200,98200,622800,38.4
+regc,Canterbury Region,Canterbury,canterbury,2023,113200,222700,210800,114500,661300,39.4
+regc,Canterbury Region,Canterbury,canterbury,2028,110000,228500,217400,134000,689900,40.7
+regc,Canterbury Region,Canterbury,canterbury,2033,108100,226400,230600,151000,716000,42.1
+regc,Canterbury Region,Canterbury,canterbury,2038,107700,227900,237300,166800,739700,43.4
+regc,Canterbury Region,Canterbury,canterbury,2043,108900,230100,246600,175800,761300,44.2
+regc,Canterbury Region,Canterbury,canterbury,2048,110400,229700,255800,184600,780500,44.8
+regc,Otago Region,Otago,otago,1996,37400,76000,50900,25000,189300,33.6
+regc,Otago Region,Otago,otago,2001,35500,70300,56800,25800,188300,35.9
+regc,Otago Region,Otago,otago,2006,34800,73800,63600,27500,199800,36.8
+regc,Otago Region,Otago,otago,2013,36100,71600,68600,32400,208800,38.7
+regc,Otago Region,Otago,otago,2018,38000,86000,73200,37800,235000,37.7
+regc,Otago Region,Otago,otago,2023,38600,90800,76500,45100,250900,38.8
+regc,Otago Region,Otago,otago,2028,36800,91900,78000,52800,259500,40.3
+regc,Otago Region,Otago,otago,2033,35800,90900,81100,59200,267000,41.9
+regc,Otago Region,Otago,otago,2038,35500,89800,82800,65300,273300,43.3
+regc,Otago Region,Otago,otago,2043,35400,90000,84200,68800,278500,44.3
+regc,Otago Region,Otago,otago,2048,35500,89600,85900,71700,282600,44.9
+regc,Southland Region,Southland,southland,1996,23600,36300,27500,11600,99000,33.7
+regc,Southland Region,Southland,southland,2001,21100,30800,29200,12200,93300,36.6
+regc,Southland Region,Southland,southland,2006,19600,29600,31000,13000,93200,38
+regc,Southland Region,Southland,southland,2013,19800,29100,32200,14900,96000,39.3
+regc,Southland Region,Southland,southland,2018,19800,31000,32900,16800,100500,39.5
+regc,Southland Region,Southland,southland,2023,19400,31600,33100,19600,103800,40.7
+regc,Southland Region,Southland,southland,2028,18300,31800,32600,23000,105700,42
+regc,Southland Region,Southland,southland,2033,17500,31000,33100,25500,107100,43.4
+regc,Southland Region,Southland,southland,2038,17000,30400,33200,27300,108000,44.8
+regc,Southland Region,Southland,southland,2043,16900,29900,33300,28300,108400,45.7
+regc,Southland Region,Southland,southland,2048,16700,28900,33800,28800,108300,46.3
 island,North Island,North Island,north island,1996,666300,1083200,751300,309200,2810100,32.5
 island,North Island,North Island,north island,2001,686300,1061900,863200,332900,2944300,34.1
 island,North Island,North Island,north island,2006,696400,1125900,990700,372200,3185100,35.2
