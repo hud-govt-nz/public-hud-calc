@@ -74,7 +74,7 @@ prep_population <- function(start_date = "1996-01-01", end_date = "2048-01-01") 
 
   # Method 1: Use nearest 30 June estimate
   pop_est %>%
-    mutate(period = as.character(period) %>% parse_date("%Y")) %>%
+    mutate(period = as.character(period) %>% parse_date("%Y")) %>% # Treat 30 June data as 1 Jan data, so a simple filldown can fill the whole year with 30 June data
     group_by(area_type, area_name, area_short_name, area_match_name) %>%
     complete(period = seq(as.Date(start_date), as.Date(end_date), by = "month")) %>%
     fill(`0-14`, `15-39`, `40-64`, `65+`, total, median_age, .direction = c("downup")) %>%
@@ -83,7 +83,7 @@ prep_population <- function(start_date = "1996-01-01", end_date = "2048-01-01") 
 
   # Method 2: Interpolate projections
   pop_proj %>%
-    mutate(period = as.character(period) %>% parse_date("%Y")) %>%
+    mutate(period = paste0(as.character(period), "-07-01") %>% parse_date("%Y-%m-%d")) %>% # Treat 30 June data as 1 July data for interpolation
     group_by(area_type, area_name, area_short_name, area_match_name) %>%
     complete(period = seq(as.Date(start_date), as.Date(end_date), by = "month")) %>%
     mutate_at(vars(`0-14`, `15-39`, `40-64`, `65+`, total),
