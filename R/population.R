@@ -141,5 +141,6 @@ prep_population_est <- function() {
     mutate(area_type = match_area(area_name, "area_type"),
            area_name = match_area(area_name, "area_name"),
            area_short_name = match_area(area_name, "area_short_name"),
-           area_match_name = match_area(area_name, "area_match_name"))
+           area_match_name = match_area(area_name, "area_match_name")) %>%
+    unique()
 }
