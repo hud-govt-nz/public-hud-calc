@@ -16,7 +16,7 @@ df_base %>%
     per_10k = 10000 * value / pop,
     pop_proj = match_population(ta, period, "auto", method = "interpolate_proj"), # Use 2018 population estimate
     per_10k_proj = 10000 * value / pop_proj,
-    pop_2018 = match_population(ta, "2018-01-01", "ta"), # Use 2018 population estimate
+    pop_2018 = match_population(ta, "2018-01-01", "auto"), # Use 2018 population estimate
     per_10k_2018 = 10000 * value / pop_2018)
 
 # Aggregate TAs into regions and population adjust
