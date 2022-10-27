@@ -3,9 +3,22 @@
 #' @param method "nearest_est" or "interpolate_proj"
 #' @export
 get_population <- function(method = "nearest_est") {
-  find_path() %>%
+  base_df <-
+    find_path() %>%
     paste0("/parsed/pop_", method, ".csv") %>%
     read_csv(show_col_types = FALSE)
+
+  # Repeat the island/national level data for each area_type
+  base_df %>%
+    rbind(base_df %>%
+          filter(area_type %in% c("island", "nz")) %>%
+          mutate(area_type = "regc")) %>%
+    rbind(base_df %>%
+          filter(area_type %in% c("island", "nz")) %>%
+          mutate(area_type = "ta")) %>%
+    rbind(base_df %>%
+          filter(area_type %in% c("island", "nz")) %>%
+          mutate(area_type = "talb"))
 }
 
 #' Population provider
