@@ -1,1178 +1,1178 @@
 area_type,area_name,area_short_name,area_match_name,period,0-14,15-39,40-64,65+,total,median_age
-talb,Rodney Local Board Area,Rodney,rodney,1996,9300,12900,12400,4300,39000,35.9
-talb,Rodney Local Board Area,Rodney,rodney,2001,10400,13400,15200,5100,44100,37.7
-talb,Rodney Local Board Area,Rodney,rodney,2006,11500,14700,18700,6100,51000,39.3
-talb,Rodney Local Board Area,Rodney,rodney,2013,11900,14700,21700,9000,57300,42.3
-talb,Rodney Local Board Area,Rodney,rodney,2018,13600,19400,24700,11400,69100,42
-talb,Rodney Local Board Area,Rodney,rodney,2023,14600,22200,26600,14100,77600,42
-talb,Rodney Local Board Area,Rodney,rodney,2028,16000,25000,28700,17900,87600,42.3
-talb,Rodney Local Board Area,Rodney,rodney,2033,17600,28000,32300,21700,99600,42.8
-talb,Rodney Local Board Area,Rodney,rodney,2038,19400,31100,35700,25500,111700,43.4
-talb,Rodney Local Board Area,Rodney,rodney,2043,21300,34100,40300,28100,123800,43.8
-talb,Rodney Local Board Area,Rodney,rodney,2048,23100,36800,45000,30900,135800,44.3
-talb,Hibiscus and Bays Local Board Area,Hibiscus and Bays,hibiscus and bays,1996,14200,22700,21200,9900,68000,37.4
-talb,Hibiscus and Bays Local Board Area,Hibiscus and Bays,hibiscus and bays,2001,15600,23700,24900,10900,75100,38.6
-talb,Hibiscus and Bays Local Board Area,Hibiscus and Bays,hibiscus and bays,2006,17100,26100,29500,12600,85200,39.6
-talb,Hibiscus and Bays Local Board Area,Hibiscus and Bays,hibiscus and bays,2013,17700,26500,33400,16400,94000,42.1
-talb,Hibiscus and Bays Local Board Area,Hibiscus and Bays,hibiscus and bays,2018,20000,32900,36600,18900,108500,41
-talb,Hibiscus and Bays Local Board Area,Hibiscus and Bays,hibiscus and bays,2023,21300,34500,39100,22800,117700,41.8
-talb,Hibiscus and Bays Local Board Area,Hibiscus and Bays,hibiscus and bays,2028,20900,35500,40200,26800,123500,43.1
-talb,Hibiscus and Bays Local Board Area,Hibiscus and Bays,hibiscus and bays,2033,19700,35600,40800,30400,126500,44.5
-talb,Hibiscus and Bays Local Board Area,Hibiscus and Bays,hibiscus and bays,2038,19000,35700,40400,33800,128900,45.8
-talb,Hibiscus and Bays Local Board Area,Hibiscus and Bays,hibiscus and bays,2043,18900,35900,40500,35600,130900,46.7
-talb,Hibiscus and Bays Local Board Area,Hibiscus and Bays,hibiscus and bays,2048,19100,35700,40000,37700,132400,47.3
-talb,Upper Harbour Local Board Area,Upper Harbour,upper harbour,1996,5700,10500,6600,1600,24300,32.2
-talb,Upper Harbour Local Board Area,Upper Harbour,upper harbour,2001,7800,13200,10400,2300,33700,33.5
-talb,Upper Harbour Local Board Area,Upper Harbour,upper harbour,2006,9600,16800,14800,3900,45100,35.1
-talb,Upper Harbour Local Board Area,Upper Harbour,upper harbour,2013,11000,20400,19500,5900,56800,35.8
-talb,Upper Harbour Local Board Area,Upper Harbour,upper harbour,2018,12000,25900,21000,8000,66800,35.7
-talb,Upper Harbour Local Board Area,Upper Harbour,upper harbour,2023,13500,28400,23300,10600,75900,36.9
-talb,Upper Harbour Local Board Area,Upper Harbour,upper harbour,2028,14800,31600,26200,13300,86000,37.8
-talb,Upper Harbour Local Board Area,Upper Harbour,upper harbour,2033,15900,34100,30000,16000,95900,38.8
-talb,Upper Harbour Local Board Area,Upper Harbour,upper harbour,2038,17000,36000,34400,18300,105800,39.9
-talb,Upper Harbour Local Board Area,Upper Harbour,upper harbour,2043,18000,38700,38900,19800,115400,40.6
-talb,Upper Harbour Local Board Area,Upper Harbour,upper harbour,2048,18900,41300,42200,22500,124900,41.2
-talb,Kaipātiki Local Board Area,Kaipātiki,kaipatiki,1996,15500,31300,21200,6800,74700,32.5
-talb,Kaipātiki Local Board Area,Kaipātiki,kaipatiki,2001,16300,31500,23100,7200,78200,33.7
-talb,Kaipātiki Local Board Area,Kaipātiki,kaipatiki,2006,16200,34300,25200,7900,83600,34.1
-talb,Kaipātiki Local Board Area,Kaipātiki,kaipatiki,2013,16800,33400,26800,9900,87000,35
-talb,Kaipātiki Local Board Area,Kaipātiki,kaipatiki,2018,17000,37900,27300,10700,92900,34.7
-talb,Kaipātiki Local Board Area,Kaipātiki,kaipatiki,2023,17700,38500,28900,12200,97300,35.7
-talb,Kaipātiki Local Board Area,Kaipātiki,kaipatiki,2028,17200,38500,30200,13400,99400,37
-talb,Kaipātiki Local Board Area,Kaipātiki,kaipatiki,2033,16600,37300,32700,14500,101100,38.3
-talb,Kaipātiki Local Board Area,Kaipātiki,kaipatiki,2038,16100,36100,34800,15400,102500,39.4
-talb,Kaipātiki Local Board Area,Kaipātiki,kaipatiki,2043,15700,36300,36000,15600,103600,39.9
-talb,Kaipātiki Local Board Area,Kaipātiki,kaipatiki,2048,15500,36300,36000,16900,104700,40.4
-talb,Devonport-Takapuna Local Board Area,Devonport-Takapuna,devonport takapuna,1996,9500,19300,14800,8000,51600,36.2
-talb,Devonport-Takapuna Local Board Area,Devonport-Takapuna,devonport takapuna,2001,9600,18500,16700,7600,52300,37.8
-talb,Devonport-Takapuna Local Board Area,Devonport-Takapuna,devonport takapuna,2006,10000,19500,18700,7500,55700,38
-talb,Devonport-Takapuna Local Board Area,Devonport-Takapuna,devonport takapuna,2013,10700,19100,20000,8800,58500,39.3
-talb,Devonport-Takapuna Local Board Area,Devonport-Takapuna,devonport takapuna,2018,10600,20300,20000,9600,60500,39.2
-talb,Devonport-Takapuna Local Board Area,Devonport-Takapuna,devonport takapuna,2023,10400,21300,20200,10800,62700,39.6
-talb,Devonport-Takapuna Local Board Area,Devonport-Takapuna,devonport takapuna,2028,10100,23000,20500,12100,65700,39.8
-talb,Devonport-Takapuna Local Board Area,Devonport-Takapuna,devonport takapuna,2033,10200,23700,21400,13400,68800,40.4
-talb,Devonport-Takapuna Local Board Area,Devonport-Takapuna,devonport takapuna,2038,10600,24300,22400,14500,71800,40.9
-talb,Devonport-Takapuna Local Board Area,Devonport-Takapuna,devonport takapuna,2043,11100,25000,23800,15000,74800,41.2
-talb,Devonport-Takapuna Local Board Area,Devonport-Takapuna,devonport takapuna,2048,11400,25200,25400,15600,77600,41.8
-talb,Henderson-Massey Local Board Area,Henderson-Massey,henderson massey,1996,21100,34100,20200,6800,82200,30.1
-talb,Henderson-Massey Local Board Area,Henderson-Massey,henderson massey,2001,23000,35700,24100,8100,90900,31.4
-talb,Henderson-Massey Local Board Area,Henderson-Massey,henderson massey,2006,25000,39700,29400,9700,103700,32.4
-talb,Henderson-Massey Local Board Area,Henderson-Massey,henderson massey,2013,26300,41600,33800,11800,113500,33.1
-talb,Henderson-Massey Local Board Area,Henderson-Massey,henderson massey,2018,27600,48000,36100,12900,124600,33.1
-talb,Henderson-Massey Local Board Area,Henderson-Massey,henderson massey,2023,28700,50800,39100,15500,134100,34.6
-talb,Henderson-Massey Local Board Area,Henderson-Massey,henderson massey,2028,28500,52500,42700,18800,142500,36.2
-talb,Henderson-Massey Local Board Area,Henderson-Massey,henderson massey,2033,28000,53000,47400,22000,150500,37.6
-talb,Henderson-Massey Local Board Area,Henderson-Massey,henderson massey,2038,28200,53700,51100,25200,158200,38.8
-talb,Henderson-Massey Local Board Area,Henderson-Massey,henderson massey,2043,28700,55100,54200,27600,165700,39.6
-talb,Henderson-Massey Local Board Area,Henderson-Massey,henderson massey,2048,29600,56100,56700,30500,172900,40.3
-talb,Waitākere Ranges Local Board Area,Waitākere Ranges,waitakere ranges,1996,10800,16900,11600,2800,42100,31.9
-talb,Waitākere Ranges Local Board Area,Waitākere Ranges,waitakere ranges,2001,11200,16500,13500,3200,44200,33.4
-talb,Waitākere Ranges Local Board Area,Waitākere Ranges,waitakere ranges,2006,11400,17100,15500,3500,47500,34.5
-talb,Waitākere Ranges Local Board Area,Waitākere Ranges,waitakere ranges,2013,11500,16600,17900,4800,50700,36.5
-talb,Waitākere Ranges Local Board Area,Waitākere Ranges,waitakere ranges,2018,11500,18200,18800,5700,54200,36.7
-talb,Waitākere Ranges Local Board Area,Waitākere Ranges,waitakere ranges,2023,11500,18700,19300,7300,56900,37.8
-talb,Waitākere Ranges Local Board Area,Waitākere Ranges,waitakere ranges,2028,10900,19200,18800,9400,58300,39
-talb,Waitākere Ranges Local Board Area,Waitākere Ranges,waitakere ranges,2033,10500,18800,19000,11200,59500,40.5
-talb,Waitākere Ranges Local Board Area,Waitākere Ranges,waitakere ranges,2038,10300,18400,18800,12900,60300,41.7
-talb,Waitākere Ranges Local Board Area,Waitākere Ranges,waitakere ranges,2043,10200,18100,18800,13700,60900,42.5
-talb,Waitākere Ranges Local Board Area,Waitākere Ranges,waitakere ranges,2048,10200,17800,19000,14100,61100,43.1
-talb,Aotea/Great Barrier Local Board Area,Aotea/Great Barrier,aotea/great barrier,1996,320,410,400,90,1230,35.4
-talb,Aotea/Great Barrier Local Board Area,Aotea/Great Barrier,aotea/great barrier,2001,240,280,480,100,1100,41.5
-talb,Aotea/Great Barrier Local Board Area,Aotea/Great Barrier,aotea/great barrier,2006,140,190,450,150,940,48.7
-talb,Aotea/Great Barrier Local Board Area,Aotea/Great Barrier,aotea/great barrier,2013,160,150,430,210,950,53.2
-talb,Aotea/Great Barrier Local Board Area,Aotea/Great Barrier,aotea/great barrier,2018,140,190,410,230,960,52.4
-talb,Aotea/Great Barrier Local Board Area,Aotea/Great Barrier,aotea/great barrier,2023,160,180,390,300,1030,54.2
-talb,Aotea/Great Barrier Local Board Area,Aotea/Great Barrier,aotea/great barrier,2028,160,190,360,370,1080,55.8
-talb,Aotea/Great Barrier Local Board Area,Aotea/Great Barrier,aotea/great barrier,2033,160,190,370,400,1120,56.7
-talb,Aotea/Great Barrier Local Board Area,Aotea/Great Barrier,aotea/great barrier,2038,150,200,360,440,1150,57.1
-talb,Aotea/Great Barrier Local Board Area,Aotea/Great Barrier,aotea/great barrier,2043,150,210,360,450,1180,57.2
-talb,Aotea/Great Barrier Local Board Area,Aotea/Great Barrier,aotea/great barrier,2048,160,230,360,450,1200,57.4
-talb,Waiheke Local Board Area,Waiheke,waiheke,1996,1340,2000,2360,980,6680,39.9
-talb,Waiheke Local Board Area,Waiheke,waiheke,2001,1510,2120,2880,1040,7560,41.1
-talb,Waiheke Local Board Area,Waiheke,waiheke,2006,1530,2380,3180,1060,8150,41.2
-talb,Waiheke Local Board Area,Waiheke,waiheke,2013,1510,2090,3440,1590,8630,45.1
-talb,Waiheke Local Board Area,Waiheke,waiheke,2018,1460,2390,3570,1950,9360,46.4
-talb,Waiheke Local Board Area,Waiheke,waiheke,2023,1320,2630,3550,2340,9830,48.1
-talb,Waiheke Local Board Area,Waiheke,waiheke,2028,1250,2700,3550,2750,10250,49.2
-talb,Waiheke Local Board Area,Waiheke,waiheke,2033,1250,2550,3700,3150,10650,49.7
-talb,Waiheke Local Board Area,Waiheke,waiheke,2038,1250,2400,3800,3450,10900,50.7
-talb,Waiheke Local Board Area,Waiheke,waiheke,2043,1250,2350,3900,3600,11100,52.2
-talb,Waiheke Local Board Area,Waiheke,waiheke,2048,1200,2250,4150,3600,11200,53.6
-talb,Waitematā Local Board Area,Waitematā,waitemata,1996,6300,24200,11000,3400,44900,31.3
-talb,Waitematā Local Board Area,Waitematā,waitemata,2001,6300,29200,13600,3400,52500,31.3
-talb,Waitematā Local Board Area,Waitematā,waitemata,2006,6900,38600,17300,3800,66600,30.6
-talb,Waitematā Local Board Area,Waitematā,waitemata,2013,8500,46000,21500,5400,81300,30.6
-talb,Waitematā Local Board Area,Waitematā,waitemata,2018,8100,50400,22900,7000,88500,31.5
-talb,Waitematā Local Board Area,Waitematā,waitemata,2023,7300,54600,23900,8800,94700,32.9
-talb,Waitematā Local Board Area,Waitematā,waitemata,2028,7100,58000,26600,11100,102800,34.1
-talb,Waitematā Local Board Area,Waitematā,waitemata,2033,7600,58900,32000,13400,111900,34.9
-talb,Waitematā Local Board Area,Waitematā,waitemata,2038,8400,60700,36000,15600,120700,36
-talb,Waitematā Local Board Area,Waitematā,waitemata,2043,8900,62300,41100,17000,129200,37.3
-talb,Waitematā Local Board Area,Waitematā,waitemata,2048,9300,63000,46300,18800,137400,38.6
-talb,Whau Local Board Area,Whau,whau,1996,13200,24300,15300,6900,59700,32.5
-talb,Whau Local Board Area,Whau,whau,2001,14700,26000,18100,7400,66200,33.5
-talb,Whau Local Board Area,Whau,whau,2006,15000,28800,21000,8400,73100,33.9
-talb,Whau Local Board Area,Whau,whau,2013,15300,28800,23200,9400,76700,34.6
-talb,Whau Local Board Area,Whau,whau,2018,15700,33700,24700,10000,84100,34.3
-talb,Whau Local Board Area,Whau,whau,2023,15800,35800,26300,11600,89500,35.5
-talb,Whau Local Board Area,Whau,whau,2028,15700,37100,28600,13600,95000,37
-talb,Whau Local Board Area,Whau,whau,2033,15700,37200,31700,15800,100500,38.4
-talb,Whau Local Board Area,Whau,whau,2038,16200,37300,34700,17700,105900,39.7
-talb,Whau Local Board Area,Whau,whau,2043,16600,37800,37500,19200,111000,40.7
-talb,Whau Local Board Area,Whau,whau,2048,17000,38200,39600,21100,115900,41.6
-talb,Albert-Eden Local Board Area,Albert-Eden,albert eden,1996,16400,40100,20600,8900,86100,31.9
-talb,Albert-Eden Local Board Area,Albert-Eden,albert eden,2001,17100,40300,24300,8200,90000,32.8
-talb,Albert-Eden Local Board Area,Albert-Eden,albert eden,2006,17800,42800,27900,7800,96200,32.7
-talb,Albert-Eden Local Board Area,Albert-Eden,albert eden,2013,18600,40500,31800,9100,100000,33.9
-talb,Albert-Eden Local Board Area,Albert-Eden,albert eden,2018,17100,43800,32400,10400,103700,34.1
-talb,Albert-Eden Local Board Area,Albert-Eden,albert eden,2023,15200,47800,31600,12300,106900,34.5
-talb,Albert-Eden Local Board Area,Albert-Eden,albert eden,2028,13800,51100,31600,14700,111200,35.7
-talb,Albert-Eden Local Board Area,Albert-Eden,albert eden,2033,14100,51300,33900,17300,116500,36.8
-talb,Albert-Eden Local Board Area,Albert-Eden,albert eden,2038,15100,50600,36500,19300,121600,37.8
-talb,Albert-Eden Local Board Area,Albert-Eden,albert eden,2043,15700,50400,40200,20000,126300,38.8
-talb,Albert-Eden Local Board Area,Albert-Eden,albert eden,2048,15900,49700,44700,20300,130600,39.9
-talb,Puketāpapa Local Board Area,Puketāpapa,puketapapa,1996,10200,18200,12000,5800,46100,32.8
-talb,Puketāpapa Local Board Area,Puketāpapa,puketapapa,2001,10700,19300,14100,5700,49800,33.6
-talb,Puketāpapa Local Board Area,Puketāpapa,puketapapa,2006,10700,21200,16200,5900,53900,33.6
-talb,Puketāpapa Local Board Area,Puketāpapa,puketapapa,2013,10600,21800,17500,6400,56300,34.1
-talb,Puketāpapa Local Board Area,Puketāpapa,puketapapa,2018,10500,25400,17700,7300,60900,33.8
-talb,Puketāpapa Local Board Area,Puketāpapa,puketapapa,2023,10400,27400,17900,8900,64600,34.8
-talb,Puketāpapa Local Board Area,Puketāpapa,puketapapa,2028,10500,28900,18900,10600,68800,36.5
-talb,Puketāpapa Local Board Area,Puketāpapa,puketapapa,2033,10800,28300,22100,11900,73000,38.2
-talb,Puketāpapa Local Board Area,Puketāpapa,puketapapa,2038,11300,27800,25400,12700,77100,39.6
-talb,Puketāpapa Local Board Area,Puketāpapa,puketapapa,2043,11500,28300,28000,13100,81000,40.5
-talb,Puketāpapa Local Board Area,Puketāpapa,puketapapa,2048,11700,28700,30200,14000,84600,41.4
-talb,Ōrākei Local Board Area,Ōrākei,orakei,1996,13000,27200,21400,9400,70900,35.8
-talb,Ōrākei Local Board Area,Ōrākei,orakei,2001,13300,26200,24000,9500,73000,37.5
-talb,Ōrākei Local Board Area,Ōrākei,orakei,2006,14600,27000,26500,10200,78400,38
-talb,Ōrākei Local Board Area,Ōrākei,orakei,2013,15900,26100,29400,12300,83700,39.9
-talb,Ōrākei Local Board Area,Ōrākei,orakei,2018,15700,28200,30000,13800,87700,39.9
-talb,Ōrākei Local Board Area,Ōrākei,orakei,2023,14500,31200,29200,16300,91300,39.9
-talb,Ōrākei Local Board Area,Ōrākei,orakei,2028,14000,34100,29500,18600,96200,40
-talb,Ōrākei Local Board Area,Ōrākei,orakei,2033,14400,35100,31000,20600,101100,40.7
-talb,Ōrākei Local Board Area,Ōrākei,orakei,2038,15300,35600,32600,22300,105800,41.3
-talb,Ōrākei Local Board Area,Ōrākei,orakei,2043,15900,36000,35300,23100,110300,41.9
-talb,Ōrākei Local Board Area,Ōrākei,orakei,2048,16300,35800,38700,23700,114500,42.8
-talb,Maungakiekie-Tāmaki Local Board Area,Maungakiekie-Tāmaki,maungakiekie tamaki,1996,14900,26200,14000,6700,61700,30.9
-talb,Maungakiekie-Tāmaki Local Board Area,Maungakiekie-Tāmaki,maungakiekie tamaki,2001,15500,27900,16700,6300,66400,31.7
-talb,Maungakiekie-Tāmaki Local Board Area,Maungakiekie-Tāmaki,maungakiekie tamaki,2006,15600,29600,19000,6100,70400,32.3
-talb,Maungakiekie-Tāmaki Local Board Area,Maungakiekie-Tāmaki,maungakiekie tamaki,2013,16100,28800,21300,7500,73700,33.2
-talb,Maungakiekie-Tāmaki Local Board Area,Maungakiekie-Tāmaki,maungakiekie tamaki,2018,15800,33800,22400,8500,80500,33.1
-talb,Maungakiekie-Tāmaki Local Board Area,Maungakiekie-Tāmaki,maungakiekie tamaki,2023,15000,38100,23600,9900,86600,34
-talb,Maungakiekie-Tāmaki Local Board Area,Maungakiekie-Tāmaki,maungakiekie tamaki,2028,14700,41500,26100,11600,93800,35.3
-talb,Maungakiekie-Tāmaki Local Board Area,Maungakiekie-Tāmaki,maungakiekie tamaki,2033,15300,42300,30600,13100,101300,36.7
-talb,Maungakiekie-Tāmaki Local Board Area,Maungakiekie-Tāmaki,maungakiekie tamaki,2038,16900,41900,35300,14700,108800,37.9
-talb,Maungakiekie-Tāmaki Local Board Area,Maungakiekie-Tāmaki,maungakiekie tamaki,2043,17800,42200,40100,16000,116100,39.1
-talb,Maungakiekie-Tāmaki Local Board Area,Maungakiekie-Tāmaki,maungakiekie tamaki,2048,18100,42700,44400,17700,123000,40.3
-talb,Howick Local Board Area,Howick,howick,1996,16700,29900,26000,8400,80900,35.1
-talb,Howick Local Board Area,Howick,howick,2001,20700,34600,32100,10000,97300,35.9
-talb,Howick Local Board Area,Howick,howick,2006,24500,42900,39600,12100,119100,35.8
-talb,Howick Local Board Area,Howick,howick,2013,26300,45800,46200,16800,135000,37.5
-talb,Howick Local Board Area,Howick,howick,2018,28400,52300,48700,20100,149400,37.3
-talb,Howick Local Board Area,Howick,howick,2023,29500,53400,52800,24800,160500,38.9
-talb,Howick Local Board Area,Howick,howick,2028,28600,54600,55100,29500,167800,40.3
-talb,Howick Local Board Area,Howick,howick,2033,27400,55100,57700,34200,174400,41.7
-talb,Howick Local Board Area,Howick,howick,2038,27000,55800,59000,38500,180400,42.9
-talb,Howick Local Board Area,Howick,howick,2043,27300,56600,60700,41300,185900,43.7
-talb,Howick Local Board Area,Howick,howick,2048,27900,56900,61000,45100,190900,44.2
-talb,Māngere-Ōtāhuhu Local Board Area,Māngere-Ōtāhuhu,mangere otahuhu,1996,18500,25300,13600,4000,61400,26.7
-talb,Māngere-Ōtāhuhu Local Board Area,Māngere-Ōtāhuhu,mangere otahuhu,2001,20000,25200,15100,4300,64600,27.2
-talb,Māngere-Ōtāhuhu Local Board Area,Māngere-Ōtāhuhu,mangere otahuhu,2006,21200,28200,18100,4900,72500,27.4
-talb,Māngere-Ōtāhuhu Local Board Area,Māngere-Ōtāhuhu,mangere otahuhu,2013,21300,27900,20100,6000,75300,28
-talb,Māngere-Ōtāhuhu Local Board Area,Māngere-Ōtāhuhu,mangere otahuhu,2018,21400,32300,22100,7000,82700,29.1
-talb,Māngere-Ōtāhuhu Local Board Area,Māngere-Ōtāhuhu,mangere otahuhu,2023,21200,34600,24500,8500,88700,31.4
-talb,Māngere-Ōtāhuhu Local Board Area,Māngere-Ōtāhuhu,mangere otahuhu,2028,20000,36200,26000,10400,92500,33.1
-talb,Māngere-Ōtāhuhu Local Board Area,Māngere-Ōtāhuhu,mangere otahuhu,2033,19400,36500,27700,12700,96300,34.6
-talb,Māngere-Ōtāhuhu Local Board Area,Māngere-Ōtāhuhu,mangere otahuhu,2038,19800,36000,29400,14700,99800,36
-talb,Māngere-Ōtāhuhu Local Board Area,Māngere-Ōtāhuhu,mangere otahuhu,2043,20300,35400,31400,16100,103100,37.1
-talb,Māngere-Ōtāhuhu Local Board Area,Māngere-Ōtāhuhu,mangere otahuhu,2048,20400,35200,33100,17300,105900,38.3
-talb,Ōtara-Papatoetoe Local Board Area,Ōtara-Papatoetoe,otara papatoetoe,1996,19200,27900,15200,5500,67800,27.6
-talb,Ōtara-Papatoetoe Local Board Area,Ōtara-Papatoetoe,otara papatoetoe,2001,20500,27300,16900,5700,70400,28.4
-talb,Ōtara-Papatoetoe Local Board Area,Ōtara-Papatoetoe,otara papatoetoe,2006,21200,30000,19500,5900,76600,28.7
-talb,Ōtara-Papatoetoe Local Board Area,Ōtara-Papatoetoe,otara papatoetoe,2013,20800,31300,21300,6800,80300,29.1
-talb,Ōtara-Papatoetoe Local Board Area,Ōtara-Papatoetoe,otara papatoetoe,2018,21600,38500,23100,7400,90500,29.2
-talb,Ōtara-Papatoetoe Local Board Area,Ōtara-Papatoetoe,otara papatoetoe,2023,22000,41500,25400,8800,97700,31.4
-talb,Ōtara-Papatoetoe Local Board Area,Ōtara-Papatoetoe,otara papatoetoe,2028,21200,42400,27300,10500,101500,33.3
-talb,Ōtara-Papatoetoe Local Board Area,Ōtara-Papatoetoe,otara papatoetoe,2033,20500,40500,30800,12200,104000,35.3
-talb,Ōtara-Papatoetoe Local Board Area,Ōtara-Papatoetoe,otara papatoetoe,2038,19900,38200,33900,13900,106000,36.7
-talb,Ōtara-Papatoetoe Local Board Area,Ōtara-Papatoetoe,otara papatoetoe,2043,19400,37500,35800,14800,107500,37.9
-talb,Ōtara-Papatoetoe Local Board Area,Ōtara-Papatoetoe,otara papatoetoe,2048,18800,37000,37000,15900,108600,39.1
-talb,Manurewa Local Board Area,Manurewa,manurewa,1996,17700,25400,13200,3800,60100,27.7
-talb,Manurewa Local Board Area,Manurewa,manurewa,2001,20200,27300,16900,4600,69100,29
-talb,Manurewa Local Board Area,Manurewa,manurewa,2006,23300,31200,21400,5700,81600,28.8
-talb,Manurewa Local Board Area,Manurewa,manurewa,2013,23500,32000,24300,7200,87000,29.5
-talb,Manurewa Local Board Area,Manurewa,manurewa,2018,25500,40300,26800,8300,100900,29.6
-talb,Manurewa Local Board Area,Manurewa,manurewa,2023,26200,43300,29800,10300,109600,31.7
-talb,Manurewa Local Board Area,Manurewa,manurewa,2028,25100,44700,31400,12800,114000,33.5
-talb,Manurewa Local Board Area,Manurewa,manurewa,2033,24400,44100,34300,15300,118000,35.2
-talb,Manurewa Local Board Area,Manurewa,manurewa,2038,24300,42700,36800,17800,121700,36.4
-talb,Manurewa Local Board Area,Manurewa,manurewa,2043,24400,42600,38700,19200,124900,37.4
-talb,Manurewa Local Board Area,Manurewa,manurewa,2048,24300,42300,40400,20500,127600,38.5
-talb,Papakura Local Board Area,Papakura,papakura,1996,9700,15100,9700,3500,38000,30.3
-talb,Papakura Local Board Area,Papakura,papakura,2001,10000,14400,10800,3800,38900,31.6
-talb,Papakura Local Board Area,Papakura,papakura,2006,10800,15600,12400,4400,43100,32.4
-talb,Papakura Local Board Area,Papakura,papakura,2013,11800,16700,14200,5400,48200,32.6
-talb,Papakura Local Board Area,Papakura,papakura,2018,14300,23900,16700,6300,61100,31.8
-talb,Papakura Local Board Area,Papakura,papakura,2023,16500,26500,19400,7600,70000,33.5
-talb,Papakura Local Board Area,Papakura,papakura,2028,17500,27600,22300,9600,77000,35.1
-talb,Papakura Local Board Area,Papakura,papakura,2033,17500,27700,25100,11400,81700,36.5
-talb,Papakura Local Board Area,Papakura,papakura,2038,17300,28600,27100,13100,86100,37.4
-talb,Papakura Local Board Area,Papakura,papakura,2043,17500,30100,28700,14300,90500,38
-talb,Papakura Local Board Area,Papakura,papakura,2048,18200,31400,29600,15800,95000,38.4
-talb,Franklin Local Board Area,Franklin,franklin,1996,12200,17600,13800,4800,48400,33.3
-talb,Franklin Local Board Area,Franklin,franklin,2001,13100,17300,17100,5300,52900,35.7
-talb,Franklin Local Board Area,Franklin,franklin,2006,14400,18600,21200,6400,60600,37.4
-talb,Franklin Local Board Area,Franklin,franklin,2013,15200,19100,24800,9300,68300,39.9
-talb,Franklin Local Board Area,Franklin,franklin,2018,16100,22600,27400,11600,77700,40.2
-talb,Franklin Local Board Area,Franklin,franklin,2023,16700,25700,28800,14600,85700,40.5
-talb,Franklin Local Board Area,Franklin,franklin,2028,17800,30000,30600,18500,96900,40.5
-talb,Franklin Local Board Area,Franklin,franklin,2033,19700,33400,33800,22500,109400,41
-talb,Franklin Local Board Area,Franklin,franklin,2038,22100,36100,37500,26300,122000,41.6
-talb,Franklin Local Board Area,Franklin,franklin,2043,24300,38500,42600,29100,134500,42.2
-talb,Franklin Local Board Area,Franklin,franklin,2048,26100,41300,47900,31600,146900,42.9
-ta,Far North District,Far North,far north,1996,15200,17700,15600,6100,54500,33.4
-ta,Far North District,Far North,far north,2001,14900,16400,18100,7000,56400,36.3
-ta,Far North District,Far North,far north,2006,13800,15700,20000,7900,57500,39
-ta,Far North District,Far North,far north,2013,13800,15100,21300,10500,60600,42
-ta,Far North District,Far North,far north,2018,14500,17600,22800,13000,67900,42.8
-ta,Far North District,Far North,far north,2023,14700,18700,23200,15700,72400,44
-ta,Far North District,Far North,far north,2028,14000,19500,22900,18600,75000,45.1
-ta,Far North District,Far North,far north,2033,13600,19600,23200,21000,77300,46.1
-ta,Far North District,Far North,far north,2038,13700,19500,23200,22700,79100,47.3
-ta,Far North District,Far North,far north,2043,13900,19500,23700,23500,80600,48.1
-ta,Far North District,Far North,far north,2048,14100,19400,24400,23800,81700,48.5
-ta,Whangarei District,Whangarei,whangarei,1996,17300,23300,19100,8700,68400,33.9
-ta,Whangarei District,Whangarei,whangarei,2001,17000,21600,21700,9800,70000,36.6
-ta,Whangarei District,Whangarei,whangarei,2006,17200,22800,25200,11400,76500,38.4
-ta,Whangarei District,Whangarei,whangarei,2013,18400,22700,28000,14500,83700,40.7
-ta,Whangarei District,Whangarei,whangarei,2018,19500,26600,30300,17800,94100,41.1
-ta,Whangarei District,Whangarei,whangarei,2023,20000,28400,31400,21200,101000,41.9
-ta,Whangarei District,Whangarei,whangarei,2028,19200,29500,31800,24900,105500,43
-ta,Whangarei District,Whangarei,whangarei,2033,18900,29800,32900,28000,109500,44.3
-ta,Whangarei District,Whangarei,whangarei,2038,19000,30100,33400,30500,113100,45.5
-ta,Whangarei District,Whangarei,whangarei,2043,19500,30800,34400,31700,116400,46.1
-ta,Whangarei District,Whangarei,whangarei,2048,20100,30800,35800,32600,119300,46.3
-ta,Kaipara District,Kaipara,kaipara,1996,4700,5700,5200,2200,17800,34.4
-ta,Kaipara District,Kaipara,kaipara,2001,4450,5150,6000,2350,17950,37.7
-ta,Kaipara District,Kaipara,kaipara,2006,4250,4950,6550,2800,18550,40.2
-ta,Kaipara District,Kaipara,kaipara,2013,4200,5000,7300,4000,20500,44.1
-ta,Kaipara District,Kaipara,kaipara,2018,4600,5900,8100,5200,23700,45.7
-ta,Kaipara District,Kaipara,kaipara,2023,4900,6000,8200,6800,25900,47.7
-ta,Kaipara District,Kaipara,kaipara,2028,4900,6100,8000,8200,27200,49.5
-ta,Kaipara District,Kaipara,kaipara,2033,4800,6000,8100,9300,28300,50.8
-ta,Kaipara District,Kaipara,kaipara,2038,4700,6200,8100,10100,29100,51.9
-ta,Kaipara District,Kaipara,kaipara,2043,4700,6300,8200,10500,29800,52.9
-ta,Kaipara District,Kaipara,kaipara,2048,4900,6500,8200,10700,30300,53.4
-ta,Auckland,Auckland,auckland,1996,255600,451400,296500,112300,1115800,32.1
-ta,Auckland,Auckland,auckland,2001,277800,469900,351000,119600,1218300,33.2
-ta,Auckland,Auckland,auckland,2006,298200,525100,415600,134000,1373000,33.8
-ta,Auckland,Auckland,auckland,2013,311500,539400,472500,169800,1493200,34.8
-ta,Auckland,Auckland,auckland,2018,324100,630300,503400,197000,1654800,34.6
-ta,Auckland,Auckland,auckland,2023,329600,677100,533600,238400,1778700,35.7
-ta,Auckland,Auckland,auckland,2028,325600,714500,565200,286500,1891800,37.1
-ta,Auckland,Auckland,auckland,2033,326700,723700,618200,333200,2001800,38.5
-ta,Auckland,Auckland,auckland,2038,335700,729200,666000,376200,2107000,39.6
-ta,Auckland,Auckland,auckland,2043,344900,743400,717000,402500,2207800,40.5
-ta,Auckland,Auckland,auckland,2048,353000,754000,761900,434000,2302900,41.3
-ta,Thames-Coromandel District,Thames-Coromandel,thames coromandel,1996,5200,7100,8200,4800,25400,41
-ta,Thames-Coromandel District,Thames-Coromandel,thames coromandel,2001,5000,6400,9100,5300,25800,44
-ta,Thames-Coromandel District,Thames-Coromandel,thames coromandel,2006,4600,6400,10000,5700,26700,46.4
-ta,Thames-Coromandel District,Thames-Coromandel,thames coromandel,2013,4500,5500,10000,7300,27300,50.7
-ta,Thames-Coromandel District,Thames-Coromandel,thames coromandel,2018,4600,6200,10400,9500,30700,53.4
-ta,Thames-Coromandel District,Thames-Coromandel,thames coromandel,2023,4600,6400,10200,11200,32400,55.1
-ta,Thames-Coromandel District,Thames-Coromandel,thames coromandel,2028,4300,6400,9800,12700,33100,57.1
-ta,Thames-Coromandel District,Thames-Coromandel,thames coromandel,2033,4100,6100,9700,13600,33500,58.7
-ta,Thames-Coromandel District,Thames-Coromandel,thames coromandel,2038,4000,5800,9400,14200,33500,59.5
-ta,Thames-Coromandel District,Thames-Coromandel,thames coromandel,2043,4000,5600,9400,14300,33300,59.9
-ta,Thames-Coromandel District,Thames-Coromandel,thames coromandel,2048,3800,5400,9400,14200,32800,60.3
-ta,Hauraki District,Hauraki,hauraki,1996,5000,6250,5100,2250,18550,33.5
-ta,Hauraki District,Hauraki,hauraki,2001,4550,5150,5700,2550,18000,37.5
-ta,Hauraki District,Hauraki,hauraki,2006,4050,4850,6350,3050,18300,41.1
-ta,Hauraki District,Hauraki,hauraki,2013,3650,4500,6450,4000,18600,45
-ta,Hauraki District,Hauraki,hauraki,2018,3800,5100,6900,4800,20700,46.6
-ta,Hauraki District,Hauraki,hauraki,2023,4000,5100,6900,5800,21800,48.4
-ta,Hauraki District,Hauraki,hauraki,2028,3800,4900,6700,6800,22200,50.3
-ta,Hauraki District,Hauraki,hauraki,2033,3700,4600,6500,7500,22400,51.7
-ta,Hauraki District,Hauraki,hauraki,2038,3400,4400,6400,8100,22300,53.2
-ta,Hauraki District,Hauraki,hauraki,2043,3300,4300,6200,8200,22100,54.6
-ta,Hauraki District,Hauraki,hauraki,2048,3200,4300,6100,8200,21800,55.9
-ta,Waikato District,Waikato,waikato,1996,14300,18800,14300,4600,52000,31.6
-ta,Waikato District,Waikato,waikato,2001,14400,17800,16500,5000,53700,33.7
-ta,Waikato District,Waikato,waikato,2006,15000,18700,20000,5800,59500,35.7
-ta,Waikato District,Waikato,waikato,2013,16000,19200,23500,7800,66500,37.8
-ta,Waikato District,Waikato,waikato,2018,18000,23600,26800,9800,78200,37.3
-ta,Waikato District,Waikato,waikato,2023,18800,25900,28700,12700,86100,38.5
-ta,Waikato District,Waikato,waikato,2028,18900,28000,29900,16000,92800,39.6
-ta,Waikato District,Waikato,waikato,2033,19300,29400,31500,19200,99300,40.7
-ta,Waikato District,Waikato,waikato,2038,20100,31000,32400,22300,105700,41.4
-ta,Waikato District,Waikato,waikato,2043,21100,32400,34100,24300,111900,41.8
-ta,Waikato District,Waikato,waikato,2048,22100,33400,36300,26000,117700,42.2
-ta,Matamata-Piako District,Matamata-Piako,matamata piako,1996,7800,10800,7900,3800,30300,33
-ta,Matamata-Piako District,Matamata-Piako,matamata piako,2001,7500,9600,8900,4200,30300,35.6
-ta,Matamata-Piako District,Matamata-Piako,matamata piako,2006,7100,9400,9800,4900,31200,38
-ta,Matamata-Piako District,Matamata-Piako,matamata piako,2013,7100,9300,10600,5800,32900,40
-ta,Matamata-Piako District,Matamata-Piako,matamata piako,2018,7100,10400,11000,6900,35300,40.6
-ta,Matamata-Piako District,Matamata-Piako,matamata piako,2023,7100,10800,11100,8100,37000,41.6
-ta,Matamata-Piako District,Matamata-Piako,matamata piako,2028,6900,10900,10800,9300,37900,42.7
-ta,Matamata-Piako District,Matamata-Piako,matamata piako,2033,6700,10400,11200,10300,38700,44
-ta,Matamata-Piako District,Matamata-Piako,matamata piako,2038,6500,10100,11500,11100,39200,45.8
-ta,Matamata-Piako District,Matamata-Piako,matamata piako,2043,6300,9900,11900,11300,39500,47.3
-ta,Matamata-Piako District,Matamata-Piako,matamata piako,2048,6200,9800,12100,11500,39600,48.4
-ta,Hamilton City,Hamilton,hamilton,1996,25400,49500,27600,11000,113500,29.4
-ta,Hamilton City,Hamilton,hamilton,2001,27400,49900,32000,11900,121200,30.6
-ta,Hamilton City,Hamilton,hamilton,2006,29100,55300,36900,13500,134800,31.1
-ta,Hamilton City,Hamilton,hamilton,2013,32300,58700,42300,16800,150200,31.8
-ta,Hamilton City,Hamilton,hamilton,2018,35400,67600,46000,19500,168600,32.1
-ta,Hamilton City,Hamilton,hamilton,2023,37200,71500,50800,23600,183000,33.8
-ta,Hamilton City,Hamilton,hamilton,2028,36600,74700,55100,28000,194400,35.3
-ta,Hamilton City,Hamilton,hamilton,2033,36200,76300,60800,32100,205400,36.5
-ta,Hamilton City,Hamilton,hamilton,2038,36600,78600,64200,36700,216000,37.3
-ta,Hamilton City,Hamilton,hamilton,2043,37700,81300,67100,40300,226500,38.1
-ta,Hamilton City,Hamilton,hamilton,2048,39200,82600,70400,44300,236600,38.9
-ta,Waipa District,Waipa,waipa,1996,9500,13800,10300,4700,38400,33.6
-ta,Waipa District,Waipa,waipa,2001,9600,13000,12200,5200,40000,36
-ta,Waipa District,Waipa,waipa,2006,9700,13200,14500,6200,43700,38.3
-ta,Waipa District,Waipa,waipa,2013,10400,13800,16700,7700,48700,40.2
-ta,Waipa District,Waipa,waipa,2018,11200,16100,18000,9700,55000,40.2
-ta,Waipa District,Waipa,waipa,2023,11700,17000,18900,11700,59300,41.4
-ta,Waipa District,Waipa,waipa,2028,11400,17500,19200,13900,62100,42.7
-ta,Waipa District,Waipa,waipa,2033,11300,17900,19600,15800,64600,43.9
-ta,Waipa District,Waipa,waipa,2038,11300,18200,19700,17700,66900,44.9
-ta,Waipa District,Waipa,waipa,2043,11500,18500,20200,18700,68900,45.6
-ta,Waipa District,Waipa,waipa,2048,11800,18700,20800,19500,70700,46
-ta,Ōtorohanga District,Ōtorohanga,otorohanga,1996,2630,3760,2660,890,9960,31.6
-ta,Ōtorohanga District,Ōtorohanga,otorohanga,2001,2460,3490,2730,910,9590,32.4
-ta,Ōtorohanga District,Ōtorohanga,otorohanga,2006,2210,3130,3010,960,9310,35
-ta,Ōtorohanga District,Ōtorohanga,otorohanga,2013,2250,2960,3130,1250,9590,36.4
-ta,Ōtorohanga District,Ōtorohanga,otorohanga,2018,2350,3400,3250,1550,10500,36
-ta,Ōtorohanga District,Ōtorohanga,otorohanga,2023,2400,3500,3350,1800,11050,37.7
-ta,Ōtorohanga District,Ōtorohanga,otorohanga,2028,2300,3450,3400,2150,11300,39.4
-ta,Ōtorohanga District,Ōtorohanga,otorohanga,2033,2200,3400,3550,2400,11550,41.1
-ta,Ōtorohanga District,Ōtorohanga,otorohanga,2038,2200,3300,3600,2600,11750,42.3
-ta,Ōtorohanga District,Ōtorohanga,otorohanga,2043,2250,3350,3600,2700,11900,42.8
-ta,Ōtorohanga District,Ōtorohanga,otorohanga,2048,2300,3300,3650,2750,12000,42.9
-ta,South Waikato District,South Waikato,south waikato,1996,7700,9600,6500,2000,25800,29
-ta,South Waikato District,South Waikato,south waikato,2001,7000,8100,6800,2300,24200,31.8
-ta,South Waikato District,South Waikato,south waikato,2006,6100,7200,7100,2900,23200,34.9
-ta,South Waikato District,South Waikato,south waikato,2013,5500,6700,7400,3600,23200,37.7
-ta,South Waikato District,South Waikato,south waikato,2018,5700,7400,7700,4000,24800,37.3
-ta,South Waikato District,South Waikato,south waikato,2023,5800,7600,7900,4600,25800,38.6
-ta,South Waikato District,South Waikato,south waikato,2028,5500,7600,7800,5400,26400,40
-ta,South Waikato District,South Waikato,south waikato,2033,5300,7300,8000,6000,26800,41.9
-ta,South Waikato District,South Waikato,south waikato,2038,5200,7000,8200,6600,27000,43.6
-ta,South Waikato District,South Waikato,south waikato,2043,5000,6900,8400,6800,27100,45.2
-ta,South Waikato District,South Waikato,south waikato,2048,4900,6800,8500,6900,27100,46.1
-ta,Waitomo District,Waitomo,waitomo,1996,2750,3550,2750,1000,10000,32.3
-ta,Waitomo District,Waitomo,waitomo,2001,2590,3220,2930,1050,9780,34.3
-ta,Waitomo District,Waitomo,waitomo,2006,2480,3010,3080,1100,9680,34.9
-ta,Waitomo District,Waitomo,waitomo,2013,2250,2730,3100,1260,9340,37
-ta,Waitomo District,Waitomo,waitomo,2018,2110,2940,3100,1490,9630,37.9
-ta,Waitomo District,Waitomo,waitomo,2023,1990,2930,3100,1720,9740,39.5
-ta,Waitomo District,Waitomo,waitomo,2028,1870,2910,2970,1980,9730,40.7
-ta,Waitomo District,Waitomo,waitomo,2033,1780,2740,2940,2210,9670,42.4
-ta,Waitomo District,Waitomo,waitomo,2038,1720,2490,3030,2300,9540,44.1
-ta,Waitomo District,Waitomo,waitomo,2043,1640,2310,3100,2290,9330,45.9
-ta,Waitomo District,Waitomo,waitomo,2048,1540,2160,3070,2300,9070,47.3
-ta,Taupo District,Taupo,taupo,1996,8200,11600,8500,3400,31600,32.4
-ta,Taupo District,Taupo,taupo,2001,8000,10800,9900,3900,32500,35.1
-ta,Taupo District,Taupo,taupo,2006,7300,10600,11000,4500,33400,37.4
-ta,Taupo District,Taupo,taupo,2013,7500,9800,11600,5800,34800,40.1
-ta,Taupo District,Taupo,taupo,2018,7800,11000,12500,7300,38600,41.1
-ta,Taupo District,Taupo,taupo,2023,7900,11300,13000,8800,40900,42.7
-ta,Taupo District,Taupo,taupo,2028,7500,11300,12900,10300,42000,44.3
-ta,Taupo District,Taupo,taupo,2033,7200,11100,13000,11500,42800,45.9
-ta,Taupo District,Taupo,taupo,2038,6900,11200,12600,12600,43300,47.3
-ta,Taupo District,Taupo,taupo,2043,6900,11000,12600,13100,43600,48.3
-ta,Taupo District,Taupo,taupo,2048,6900,10800,12700,13400,43800,48.9
-ta,Western Bay of Plenty District,Western Bay of Plenty,western bay of plenty,1996,8600,11000,11200,4800,35600,36.7
-ta,Western Bay of Plenty District,Western Bay of Plenty,western bay of plenty,2001,9400,10700,13300,5600,38900,39
-ta,Western Bay of Plenty District,Western Bay of Plenty,western bay of plenty,2006,9200,11100,15900,6800,42900,41.7
-ta,Western Bay of Plenty District,Western Bay of Plenty,western bay of plenty,2013,9100,10900,16700,8700,45400,44.4
-ta,Western Bay of Plenty District,Western Bay of Plenty,western bay of plenty,2018,9800,14000,18500,11100,53300,44.9
-ta,Western Bay of Plenty District,Western Bay of Plenty,western bay of plenty,2023,10300,14900,19200,13800,58100,46.2
-ta,Western Bay of Plenty District,Western Bay of Plenty,western bay of plenty,2028,10100,15400,19000,16500,60900,47.4
-ta,Western Bay of Plenty District,Western Bay of Plenty,western bay of plenty,2033,9800,15300,19500,18700,63300,48.4
-ta,Western Bay of Plenty District,Western Bay of Plenty,western bay of plenty,2038,9700,15200,19800,20500,65200,49.5
-ta,Western Bay of Plenty District,Western Bay of Plenty,western bay of plenty,2043,9600,15400,20300,21400,66700,50.7
-ta,Western Bay of Plenty District,Western Bay of Plenty,western bay of plenty,2048,9800,15500,20800,22000,68000,51.6
-ta,Tauranga City,Tauranga,tauranga,1996,17300,26900,22200,13600,79900,36.4
-ta,Tauranga City,Tauranga,tauranga,2001,20400,29500,27800,15900,93600,37.8
-ta,Tauranga City,Tauranga,tauranga,2006,22100,33100,33300,18500,107000,38.9
-ta,Tauranga City,Tauranga,tauranga,2013,24800,34100,38300,22700,119900,40.6
-ta,Tauranga City,Tauranga,tauranga,2018,28200,42700,43600,27600,142100,40.1
-ta,Tauranga City,Tauranga,tauranga,2023,29800,46100,48300,32600,156900,41.3
-ta,Tauranga City,Tauranga,tauranga,2028,29000,48300,51200,37800,166300,42.6
-ta,Tauranga City,Tauranga,tauranga,2033,28300,49600,54600,42500,175000,44
-ta,Tauranga City,Tauranga,tauranga,2038,28600,51600,55600,47600,183300,45.3
-ta,Tauranga City,Tauranga,tauranga,2043,29700,53300,57000,51400,191400,45.9
-ta,Tauranga City,Tauranga,tauranga,2048,31100,53900,59200,54800,199100,46.1
-ta,Rotorua District,Rotorua,rotorua,1996,17800,25400,17000,6500,66600,30.7
-ta,Rotorua District,Rotorua,rotorua,2001,17300,23400,19200,7000,66900,32.8
-ta,Rotorua District,Rotorua,rotorua,2006,17000,22500,21000,7600,68100,34.4
-ta,Rotorua District,Rotorua,rotorua,2013,15800,21100,22200,9300,68400,36.8
-ta,Rotorua District,Rotorua,rotorua,2018,16400,24400,23400,10600,74800,36.1
-ta,Rotorua District,Rotorua,rotorua,2023,16600,25500,24400,12400,78900,37.4
-ta,Rotorua District,Rotorua,rotorua,2028,15800,26000,24500,14500,80700,38.8
-ta,Rotorua District,Rotorua,rotorua,2033,15200,25500,25300,16200,82200,40.4
-ta,Rotorua District,Rotorua,rotorua,2038,14800,25300,25300,17900,83400,41.5
-ta,Rotorua District,Rotorua,rotorua,2043,14700,25000,25600,18800,84200,42.3
-ta,Rotorua District,Rotorua,rotorua,2048,14700,24500,26300,19200,84800,43
-ta,Whakatane District,Whakatane,whakatane,1996,9600,12200,8900,3500,34200,31.3
-ta,Whakatane District,Whakatane,whakatane,2001,9300,10900,10000,3800,34100,33.4
-ta,Whakatane District,Whakatane,whakatane,2006,8600,10400,11100,4300,34500,36
-ta,Whakatane District,Whakatane,whakatane,2013,8000,9500,11500,5200,34200,39.1
-ta,Whakatane District,Whakatane,whakatane,2018,8200,10600,12000,6300,37100,39.4
-ta,Whakatane District,Whakatane,whakatane,2023,8200,10900,12100,7500,38800,40.6
-ta,Whakatane District,Whakatane,whakatane,2028,7900,10900,11700,8800,39300,42
-ta,Whakatane District,Whakatane,whakatane,2033,7500,10600,11900,9600,39500,43.4
-ta,Whakatane District,Whakatane,whakatane,2038,7200,10200,11800,10300,39500,45
-ta,Whakatane District,Whakatane,whakatane,2043,7000,10000,11700,10600,39300,46.1
-ta,Whakatane District,Whakatane,whakatane,2048,6900,9600,11800,10600,38900,46.8
-ta,Kawerau District,Kawerau,kawerau,1996,2680,3050,1900,490,8120,26.6
-ta,Kawerau District,Kawerau,kawerau,2001,2290,2390,1950,660,7290,30.1
-ta,Kawerau District,Kawerau,kawerau,2006,1980,2180,2090,890,7150,33.7
-ta,Kawerau District,Kawerau,kawerau,2013,1710,1880,1910,1150,6650,36.2
-ta,Kawerau District,Kawerau,kawerau,2018,1760,2130,2100,1470,7460,37.8
-ta,Kawerau District,Kawerau,kawerau,2023,1780,2200,2190,1740,7910,39.8
-ta,Kawerau District,Kawerau,kawerau,2028,1700,2160,2110,2030,8000,41.7
-ta,Kawerau District,Kawerau,kawerau,2033,1590,2100,2110,2220,8020,43.7
-ta,Kawerau District,Kawerau,kawerau,2038,1500,1990,2110,2360,7970,45.6
-ta,Kawerau District,Kawerau,kawerau,2043,1430,1900,2110,2420,7860,47.4
-ta,Kawerau District,Kawerau,kawerau,2048,1380,1810,2090,2440,7720,49
-ta,Ōpōtiki District,Ōpōtiki,opotiki,1996,2890,3210,2500,1030,9620,31.3
-ta,Ōpōtiki District,Ōpōtiki,opotiki,2001,2720,2780,2830,1170,9490,34.2
-ta,Ōpōtiki District,Ōpōtiki,opotiki,2006,2480,2510,2930,1280,9200,36.7
-ta,Ōpōtiki District,Ōpōtiki,opotiki,2013,2020,2300,2980,1480,8780,40.8
-ta,Ōpōtiki District,Ōpōtiki,opotiki,2018,2140,2720,3120,1680,9670,39.7
-ta,Ōpōtiki District,Ōpōtiki,opotiki,2023,2250,2750,3250,2000,10250,41.2
-ta,Ōpōtiki District,Ōpōtiki,opotiki,2028,2200,2600,3100,2450,10350,43.1
-ta,Ōpōtiki District,Ōpōtiki,opotiki,2033,2100,2400,3200,2700,10400,45.1
-ta,Ōpōtiki District,Ōpōtiki,opotiki,2038,1950,2250,3150,2950,10300,47.5
-ta,Ōpōtiki District,Ōpōtiki,opotiki,2043,1800,2150,3150,3000,10150,49.8
-ta,Ōpōtiki District,Ōpōtiki,opotiki,2048,1750,2100,3060,3000,9910,51.3
-ta,Gisborne District,Gisborne,gisborne,1996,13100,16700,12100,5200,47200,31.4
-ta,Gisborne District,Gisborne,gisborne,2001,12600,14800,12900,5200,45500,32.8
-ta,Gisborne District,Gisborne,gisborne,2006,11900,14400,14200,5500,45900,34.6
-ta,Gisborne District,Gisborne,gisborne,2013,11700,14000,14900,6400,47000,35.9
-ta,Gisborne District,Gisborne,gisborne,2018,11600,15000,15400,7500,49500,36.6
-ta,Gisborne District,Gisborne,gisborne,2023,11600,15700,15700,8900,51900,37.9
-ta,Gisborne District,Gisborne,gisborne,2028,11100,15900,15600,10500,53100,39.4
-ta,Gisborne District,Gisborne,gisborne,2033,10800,15500,16100,11700,54000,41.1
-ta,Gisborne District,Gisborne,gisborne,2038,10500,15200,16200,12700,54600,42.4
-ta,Gisborne District,Gisborne,gisborne,2043,10400,14900,16500,13100,55000,43.4
-ta,Gisborne District,Gisborne,gisborne,2048,10400,14500,16900,13400,55200,44.1
-ta,Wairoa District,Wairoa,wairoa,1996,3000,3550,2650,1000,10200,30.9
-ta,Wairoa District,Wairoa,wairoa,2001,2610,2830,2780,1040,9260,33.7
-ta,Wairoa District,Wairoa,wairoa,2006,2270,2490,2920,1040,8720,36.2
-ta,Wairoa District,Wairoa,wairoa,2013,2090,2260,2700,1270,8300,37.8
-ta,Wairoa District,Wairoa,wairoa,2018,2020,2480,2740,1490,8720,38.4
-ta,Wairoa District,Wairoa,wairoa,2023,1980,2590,2740,1740,9040,39.5
-ta,Wairoa District,Wairoa,wairoa,2028,1860,2650,2640,2000,9150,40.7
-ta,Wairoa District,Wairoa,wairoa,2033,1800,2520,2740,2140,9200,42.3
-ta,Wairoa District,Wairoa,wairoa,2038,1750,2380,2820,2240,9190,44
-ta,Wairoa District,Wairoa,wairoa,2043,1690,2250,2930,2250,9130,45.5
-ta,Wairoa District,Wairoa,wairoa,2048,1620,2140,2990,2260,9010,46.9
-ta,Hastings District,Hastings,hastings,1996,17300,24100,18600,8000,68100,33
-ta,Hastings District,Hastings,hastings,2001,17700,22500,20800,8500,69600,34.8
-ta,Hastings District,Hastings,hastings,2006,17500,22700,23600,9400,73200,36.5
-ta,Hastings District,Hastings,hastings,2013,17600,21600,25700,11700,76700,39.1
-ta,Hastings District,Hastings,hastings,2018,18100,25500,27100,14000,84700,38.7
-ta,Hastings District,Hastings,hastings,2023,18300,26900,28400,16500,90000,39.9
-ta,Hastings District,Hastings,hastings,2028,17500,28000,28400,19500,93500,41.1
-ta,Hastings District,Hastings,hastings,2033,17300,27800,29600,21900,96700,42.5
-ta,Hastings District,Hastings,hastings,2038,17500,27700,30000,24300,99400,43.7
-ta,Hastings District,Hastings,hastings,2043,17700,27700,30800,25600,101800,44.5
-ta,Hastings District,Hastings,hastings,2048,17900,27700,31800,26400,103800,45.1
-ta,Napier City,Napier,napier,1996,12200,19200,15500,8000,54900,35
-ta,Napier City,Napier,napier,2001,12300,17700,16900,8300,55200,37.1
-ta,Napier City,Napier,napier,2006,11900,17600,18400,8800,56800,38.5
-ta,Napier City,Napier,napier,2013,12100,16700,19800,10900,59600,41.2
-ta,Napier City,Napier,napier,2018,12500,18500,20600,12600,64200,41.6
-ta,Napier City,Napier,napier,2023,12400,19000,21300,14400,67100,42.9
-ta,Napier City,Napier,napier,2028,11600,19500,21100,16500,68700,44.2
-ta,Napier City,Napier,napier,2033,11000,19200,21500,18300,70000,45.4
-ta,Napier City,Napier,napier,2038,10900,18900,21200,19900,70900,46.7
-ta,Napier City,Napier,napier,2043,11000,18700,21100,20800,71700,47.7
-ta,Napier City,Napier,napier,2048,11100,18300,21500,21300,72100,48.3
-ta,Central Hawke's Bay District,Central Hawke's Bay,central hawkes bay,1996,3500,4550,3800,1500,13350,33.7
-ta,Central Hawke's Bay District,Central Hawke's Bay,central hawkes bay,2001,3200,4100,4300,1600,13200,36.5
-ta,Central Hawke's Bay District,Central Hawke's Bay,central hawkes bay,2006,2950,3800,4750,1750,13250,39.2
-ta,Central Hawke's Bay District,Central Hawke's Bay,central hawkes bay,2013,2750,3350,4900,2250,13250,43.2
-ta,Central Hawke's Bay District,Central Hawke's Bay,central hawkes bay,2018,3050,3650,5100,2850,14650,43.6
-ta,Central Hawke's Bay District,Central Hawke's Bay,central hawkes bay,2023,3100,3750,5100,3550,15550,45.2
-ta,Central Hawke's Bay District,Central Hawke's Bay,central hawkes bay,2028,2950,3800,5000,4250,16050,46.6
-ta,Central Hawke's Bay District,Central Hawke's Bay,central hawkes bay,2033,2900,3800,5000,4750,16400,47.9
-ta,Central Hawke's Bay District,Central Hawke's Bay,central hawkes bay,2038,2850,3800,4900,5150,16700,49
-ta,Central Hawke's Bay District,Central Hawke's Bay,central hawkes bay,2043,2950,3800,4900,5300,16900,49.7
-ta,Central Hawke's Bay District,Central Hawke's Bay,central hawkes bay,2048,3050,3800,4900,5350,17050,49.8
-ta,New Plymouth District,New Plymouth,new plymouth,1996,16400,24900,19100,9300,69700,34.4
-ta,New Plymouth District,New Plymouth,new plymouth,2001,15600,21700,21100,10100,68400,37.2
-ta,New Plymouth District,New Plymouth,new plymouth,2006,14600,22300,23300,10900,71100,38.7
-ta,New Plymouth District,New Plymouth,new plymouth,2013,15800,22400,26100,12800,77100,40.3
-ta,New Plymouth District,New Plymouth,new plymouth,2018,16800,24600,27200,14700,83300,40.3
-ta,New Plymouth District,New Plymouth,new plymouth,2023,17200,25100,28000,17300,87700,41.4
-ta,New Plymouth District,New Plymouth,new plymouth,2028,16600,25700,28000,20400,90600,42.6
-ta,New Plymouth District,New Plymouth,new plymouth,2033,16100,25700,28700,22600,93100,43.9
-ta,New Plymouth District,New Plymouth,new plymouth,2038,15800,26200,28500,24700,95200,45.1
-ta,New Plymouth District,New Plymouth,new plymouth,2043,16000,26600,28500,26000,97100,45.5
-ta,New Plymouth District,New Plymouth,new plymouth,2048,16400,26500,28900,26900,98600,45.6
-ta,Stratford District,Stratford,stratford,1996,2530,3440,2510,1270,9750,33.1
-ta,Stratford District,Stratford,stratford,2001,2210,2910,2700,1290,9110,35.9
-ta,Stratford District,Stratford,stratford,2006,2070,2760,2910,1380,9120,38
-ta,Stratford District,Stratford,stratford,2013,2030,2750,2970,1460,9210,38.6
-ta,Stratford District,Stratford,stratford,2018,2070,2890,3090,1670,9710,39.2
-ta,Stratford District,Stratford,stratford,2023,2200,2850,3100,1900,10050,39.7
-ta,Stratford District,Stratford,stratford,2028,2200,2800,3000,2250,10250,41
-ta,Stratford District,Stratford,stratford,2033,2150,2650,3050,2500,10400,42.5
-ta,Stratford District,Stratford,stratford,2038,2050,2700,3000,2700,10450,43.8
-ta,Stratford District,Stratford,stratford,2043,1950,2800,2950,2750,10450,44.2
-ta,Stratford District,Stratford,stratford,2048,1950,2850,2900,2750,10400,44
-ta,South Taranaki District,South Taranaki,south taranaki,1996,7900,10600,7900,3400,29800,32
-ta,South Taranaki District,South Taranaki,south taranaki,2001,7200,9400,8200,3500,28400,34.3
-ta,South Taranaki District,South Taranaki,south taranaki,2006,6400,8600,8500,3600,27200,36.2
-ta,South Taranaki District,South Taranaki,south taranaki,2013,6300,8300,8900,4000,27500,37.5
-ta,South Taranaki District,South Taranaki,south taranaki,2018,6300,8400,9200,4400,28300,38.4
-ta,South Taranaki District,South Taranaki,south taranaki,2023,6200,8500,9300,5100,29100,39.5
-ta,South Taranaki District,South Taranaki,south taranaki,2028,5800,8500,9200,5900,29500,41.1
-ta,South Taranaki District,South Taranaki,south taranaki,2033,5500,8300,9200,6700,29700,42.7
-ta,South Taranaki District,South Taranaki,south taranaki,2038,5300,8200,8900,7300,29700,44
-ta,South Taranaki District,South Taranaki,south taranaki,2043,5100,8000,9000,7500,29600,44.9
-ta,South Taranaki District,South Taranaki,south taranaki,2048,5100,7700,9000,7600,29400,45.6
-ta,Ruapehu District,Ruapehu,ruapehu,1996,4950,7000,3950,1400,17300,28.7
-ta,Ruapehu District,Ruapehu,ruapehu,2001,4050,5300,4200,1450,15000,32.4
-ta,Ruapehu District,Ruapehu,ruapehu,2006,3500,4600,4450,1500,14050,34.8
-ta,Ruapehu District,Ruapehu,ruapehu,2013,2900,3750,4200,1600,12450,37.2
-ta,Ruapehu District,Ruapehu,ruapehu,2018,2800,3800,4200,1950,12750,38.6
-ta,Ruapehu District,Ruapehu,ruapehu,2023,2750,3750,4100,2450,13050,40.1
-ta,Ruapehu District,Ruapehu,ruapehu,2028,2550,3650,3950,2850,13050,41.9
-ta,Ruapehu District,Ruapehu,ruapehu,2033,2400,3350,3950,3200,12900,43.8
-ta,Ruapehu District,Ruapehu,ruapehu,2038,2250,3100,3950,3350,12600,46
-ta,Ruapehu District,Ruapehu,ruapehu,2043,2100,3000,3850,3300,12250,47.7
-ta,Ruapehu District,Ruapehu,ruapehu,2048,2000,2800,3800,3250,11850,49
-ta,Whanganui District,Whanganui,whanganui,1996,11000,15800,12400,6900,46000,34.5
-ta,Whanganui District,Whanganui,whanganui,2001,10300,13800,13300,7000,44400,37.2
-ta,Whanganui District,Whanganui,whanganui,2006,9400,12800,14100,7500,43800,39.6
-ta,Whanganui District,Whanganui,whanganui,2013,8800,11800,14600,8300,43500,42
-ta,Whanganui District,Whanganui,whanganui,2018,9100,13100,15100,9500,46800,42.5
-ta,Whanganui District,Whanganui,whanganui,2023,9400,13200,15000,11000,48500,43.4
-ta,Whanganui District,Whanganui,whanganui,2028,9000,13400,14600,12600,49600,44.4
-ta,Whanganui District,Whanganui,whanganui,2033,8900,13000,14700,13900,50400,45.5
-ta,Whanganui District,Whanganui,whanganui,2038,8700,12800,14600,14900,51000,46.8
-ta,Whanganui District,Whanganui,whanganui,2043,8700,12700,14600,15200,51300,47.7
-ta,Whanganui District,Whanganui,whanganui,2048,8700,12800,14600,15300,51400,48.2
-ta,Rangitikei District,Rangitikei,rangitikei,1996,4500,5950,4400,1900,16750,32.6
-ta,Rangitikei District,Rangitikei,rangitikei,2001,3900,4850,4750,2000,15500,35.9
-ta,Rangitikei District,Rangitikei,rangitikei,2006,3400,4450,5100,2200,15150,38.6
-ta,Rangitikei District,Rangitikei,rangitikei,2013,3100,3950,4950,2500,14550,41.2
-ta,Rangitikei District,Rangitikei,rangitikei,2018,3150,4400,5000,2850,15450,41
-ta,Rangitikei District,Rangitikei,rangitikei,2023,3250,4500,4850,3350,16000,41.6
-ta,Rangitikei District,Rangitikei,rangitikei,2028,3200,4500,4700,3950,16350,42.6
-ta,Rangitikei District,Rangitikei,rangitikei,2033,3200,4300,4750,4400,16650,43.9
-ta,Rangitikei District,Rangitikei,rangitikei,2038,3150,4300,4750,4700,16850,45.3
-ta,Rangitikei District,Rangitikei,rangitikei,2043,3100,4300,4850,4700,17000,46.1
-ta,Rangitikei District,Rangitikei,rangitikei,2048,3150,4300,4950,4700,17050,46.3
-ta,Manawatu District,Manawatu,manawatu,1996,6800,9600,7300,3000,26800,33
-ta,Manawatu District,Manawatu,manawatu,2001,6400,8400,8200,3200,26300,35.8
-ta,Manawatu District,Manawatu,manawatu,2006,6000,8100,9000,3600,26800,38.1
-ta,Manawatu District,Manawatu,manawatu,2013,6000,8000,10000,4500,28500,40.6
-ta,Manawatu District,Manawatu,manawatu,2018,6400,8900,10400,5500,31100,40.8
-ta,Manawatu District,Manawatu,manawatu,2023,6600,8900,10700,6600,32800,42.2
-ta,Manawatu District,Manawatu,manawatu,2028,6400,8900,10500,7800,33600,43.7
-ta,Manawatu District,Manawatu,manawatu,2033,6100,8800,10500,8800,34200,45.3
-ta,Manawatu District,Manawatu,manawatu,2038,5800,8700,10500,9600,34500,46.8
-ta,Manawatu District,Manawatu,manawatu,2043,5700,8800,10200,10100,34800,47.9
-ta,Manawatu District,Manawatu,manawatu,2048,5800,8700,10100,10300,34800,48.4
-ta,Palmerston North City,Palmerston North,palmerston north,1996,16100,35100,18100,7800,77100,29.1
-ta,Palmerston North City,Palmerston North,palmerston north,2001,16200,32200,20400,8400,77100,31.1
-ta,Palmerston North City,Palmerston North,palmerston north,2006,16300,32500,22800,9200,80800,32.2
-ta,Palmerston North City,Palmerston North,palmerston north,2013,16700,31600,24300,10900,83500,33.3
-ta,Palmerston North City,Palmerston North,palmerston north,2018,17200,33700,25100,12300,88300,33.7
-ta,Palmerston North City,Palmerston North,palmerston north,2023,17600,34200,26100,14300,92300,35.2
-ta,Palmerston North City,Palmerston North,palmerston north,2028,17100,34700,26300,16800,94900,36.6
-ta,Palmerston North City,Palmerston North,palmerston north,2033,16500,34700,27400,18600,97200,37.8
-ta,Palmerston North City,Palmerston North,palmerston north,2038,16200,34900,27700,20300,99100,38.6
-ta,Palmerston North City,Palmerston North,palmerston north,2043,16200,35300,27900,21300,100700,39
-ta,Palmerston North City,Palmerston North,palmerston north,2048,16400,35200,28300,22200,102100,39.6
-ta,Tararua District,Tararua,tararua,1996,5200,6700,5350,2350,19500,33.4
-ta,Tararua District,Tararua,tararua,2001,4700,5600,5650,2400,18350,36.3
-ta,Tararua District,Tararua,tararua,2006,4300,5300,6000,2500,18050,37.8
-ta,Tararua District,Tararua,tararua,2013,3850,4600,6050,2950,17450,41.1
-ta,Tararua District,Tararua,tararua,2018,3900,5050,6150,3350,18450,41.5
-ta,Tararua District,Tararua,tararua,2023,3800,5150,6200,3900,19050,42.7
-ta,Tararua District,Tararua,tararua,2028,3600,5150,5950,4600,19350,44
-ta,Tararua District,Tararua,tararua,2033,3500,4950,5950,5100,19500,45.3
-ta,Tararua District,Tararua,tararua,2038,3400,4800,5850,5450,19500,46.7
-ta,Tararua District,Tararua,tararua,2043,3350,4650,5850,5550,19450,47.8
-ta,Tararua District,Tararua,tararua,2048,3300,4450,5900,5600,19250,48.5
-ta,Horowhenua District,Horowhenua,horowhenua,1996,7300,9800,8500,5200,30800,36.1
-ta,Horowhenua District,Horowhenua,horowhenua,2001,7000,8700,9400,5600,30600,39.3
-ta,Horowhenua District,Horowhenua,horowhenua,2006,6500,7900,10100,6100,30600,42.2
-ta,Horowhenua District,Horowhenua,horowhenua,2013,6000,7500,10400,7300,31200,45.7
-ta,Horowhenua District,Horowhenua,horowhenua,2018,6300,8800,11100,8300,34500,46.2
-ta,Horowhenua District,Horowhenua,horowhenua,2023,6500,9200,11600,9500,36800,47.3
-ta,Horowhenua District,Horowhenua,horowhenua,2028,6300,9300,11400,11000,38000,48.6
-ta,Horowhenua District,Horowhenua,horowhenua,2033,6100,9000,11400,12300,38900,49.7
-ta,Horowhenua District,Horowhenua,horowhenua,2038,5900,8800,11500,13200,39500,50.9
-ta,Horowhenua District,Horowhenua,horowhenua,2043,5800,8800,11700,13700,39900,52.2
-ta,Horowhenua District,Horowhenua,horowhenua,2048,5700,8700,11800,13900,40100,53.4
-ta,Kapiti Coast District,Kapiti Coast,kapiti coast,1996,8500,11200,11300,8400,39400,40
-ta,Kapiti Coast District,Kapiti Coast,kapiti coast,2001,9200,11200,13600,9600,43600,42.1
-ta,Kapiti Coast District,Kapiti Coast,kapiti coast,2006,9100,11700,15700,11000,47500,44.3
-ta,Kapiti Coast District,Kapiti Coast,kapiti coast,2013,9300,11300,17400,12700,50700,46.6
-ta,Kapiti Coast District,Kapiti Coast,kapiti coast,2018,9500,13000,18500,14200,55200,47.7
-ta,Kapiti Coast District,Kapiti Coast,kapiti coast,2023,9500,13300,19400,15900,58000,49.4
-ta,Kapiti Coast District,Kapiti Coast,kapiti coast,2028,9000,13600,19000,18000,59600,50.8
-ta,Kapiti Coast District,Kapiti Coast,kapiti coast,2033,8800,13300,19000,19800,60900,52
-ta,Kapiti Coast District,Kapiti Coast,kapiti coast,2038,8700,13100,18500,21700,61900,53
-ta,Kapiti Coast District,Kapiti Coast,kapiti coast,2043,8700,12800,18600,22600,62700,53.8
-ta,Kapiti Coast District,Kapiti Coast,kapiti coast,2048,8600,12500,18700,23300,63100,54.8
-ta,Porirua City,Porirua,porirua,1996,13400,18700,12700,3300,48200,29.6
-ta,Porirua City,Porirua,porirua,2001,13900,18400,13900,3300,49500,30.6
-ta,Porirua City,Porirua,porirua,2006,13100,18100,15400,4000,50600,32.6
-ta,Porirua City,Porirua,porirua,2013,13100,17400,17600,5600,53700,35.1
-ta,Porirua City,Porirua,porirua,2018,13700,19600,18700,6800,58900,35
-ta,Porirua City,Porirua,porirua,2023,13900,20300,20100,8600,62900,36.8
-ta,Porirua City,Porirua,porirua,2028,13100,21000,20600,10500,65200,38.4
-ta,Porirua City,Porirua,porirua,2033,12600,21000,21200,12300,67100,39.9
-ta,Porirua City,Porirua,porirua,2038,12500,21100,21000,14100,68800,40.8
-ta,Porirua City,Porirua,porirua,2043,12700,21100,21200,15200,70300,41.5
-ta,Porirua City,Porirua,porirua,2048,13000,20900,21600,16100,71500,42.1
-ta,Upper Hutt City,Upper Hutt,upper hutt,1996,8800,14700,10300,3900,37700,32.6
-ta,Upper Hutt City,Upper Hutt,upper hutt,2001,8800,13200,11300,4400,37700,34.9
-ta,Upper Hutt City,Upper Hutt,upper hutt,2006,8700,13200,12900,4900,39700,36.8
-ta,Upper Hutt City,Upper Hutt,upper hutt,2013,8400,12600,14400,5900,41300,39.4
-ta,Upper Hutt City,Upper Hutt,upper hutt,2018,8700,14700,15300,6700,45400,38.9
-ta,Upper Hutt City,Upper Hutt,upper hutt,2023,9500,14700,16300,7900,48500,40.1
-ta,Upper Hutt City,Upper Hutt,upper hutt,2028,9400,14500,16600,9500,50100,41.5
-ta,Upper Hutt City,Upper Hutt,upper hutt,2033,9200,14100,17200,10900,51400,43
-ta,Upper Hutt City,Upper Hutt,upper hutt,2038,8800,14300,17000,12300,52400,44.5
-ta,Upper Hutt City,Upper Hutt,upper hutt,2043,8700,14600,17000,13100,53200,45.3
-ta,Upper Hutt City,Upper Hutt,upper hutt,2048,8800,14800,16700,13700,54000,45.5
-ta,Lower Hutt City,Lower Hutt,lower hutt,1996,23500,38500,26500,10300,98800,32.4
-ta,Lower Hutt City,Lower Hutt,lower hutt,2001,23800,36000,29000,10200,99100,33.7
-ta,Lower Hutt City,Lower Hutt,lower hutt,2006,22900,35600,31800,11000,101300,35.1
-ta,Lower Hutt City,Lower Hutt,lower hutt,2013,21600,33000,33600,13000,101200,37.1
-ta,Lower Hutt City,Lower Hutt,lower hutt,2018,21600,37600,34800,14600,108600,36.8
-ta,Lower Hutt City,Lower Hutt,lower hutt,2023,21700,39100,36100,17600,114400,38
-ta,Lower Hutt City,Lower Hutt,lower hutt,2028,20400,39600,36000,20900,117000,39.2
-ta,Lower Hutt City,Lower Hutt,lower hutt,2033,19600,38700,37300,23500,119100,40.7
-ta,Lower Hutt City,Lower Hutt,lower hutt,2038,19200,37800,37900,25700,120700,41.8
-ta,Lower Hutt City,Lower Hutt,lower hutt,2043,19100,37100,39000,26500,121800,42.7
-ta,Lower Hutt City,Lower Hutt,lower hutt,2048,19000,36400,39800,27200,122300,43.4
-ta,Wellington City,Wellington,wellington,1996,30600,75700,43000,14100,163400,31.9
-ta,Wellington City,Wellington,wellington,2001,31500,76600,48400,14600,171100,32.9
-ta,Wellington City,Wellington,wellington,2006,32900,83700,55400,15600,187700,33.1
-ta,Wellington City,Wellington,wellington,2013,34100,82800,61600,18900,197500,33.9
-ta,Wellington City,Wellington,wellington,2018,33300,91400,64600,21900,211200,33.9
-ta,Wellington City,Wellington,wellington,2023,32000,95500,67200,26100,220800,34.8
-ta,Wellington City,Wellington,wellington,2028,29700,99500,67000,31300,227500,35.9
-ta,Wellington City,Wellington,wellington,2033,29400,99400,68700,36400,233900,37
-ta,Wellington City,Wellington,wellington,2038,30000,97600,71300,40700,239600,37.9
-ta,Wellington City,Wellington,wellington,2043,30300,96700,74400,43100,244500,38.8
-ta,Wellington City,Wellington,wellington,2048,30200,95400,78000,44800,248500,39.7
-ta,Masterton District,Masterton,masterton,1996,5800,7700,6600,3300,23300,34.8
-ta,Masterton District,Masterton,masterton,2001,5400,6900,7300,3600,23200,37.9
-ta,Masterton District,Masterton,masterton,2006,4900,6600,7800,3900,23200,40.4
-ta,Masterton District,Masterton,masterton,2013,4800,6400,8200,4600,24100,42.5
-ta,Masterton District,Masterton,masterton,2018,5000,7400,8500,5500,26400,42.9
-ta,Masterton District,Masterton,masterton,2023,5200,7600,8600,6500,28000,43.6
-ta,Masterton District,Masterton,masterton,2028,5100,7700,8500,7400,28700,44.7
-ta,Masterton District,Masterton,masterton,2033,4900,7500,8700,8100,29200,45.7
-ta,Masterton District,Masterton,masterton,2038,4700,7400,8800,8600,29500,47
-ta,Masterton District,Masterton,masterton,2043,4600,7400,8900,8700,29700,48.2
-ta,Masterton District,Masterton,masterton,2048,4500,7400,9000,8800,29700,49
-ta,Carterton District,Carterton,carterton,1996,1690,2190,2120,950,6940,36.1
-ta,Carterton District,Carterton,carterton,2001,1600,1980,2420,1000,7000,39.3
-ta,Carterton District,Carterton,carterton,2006,1520,1960,2690,1080,7260,41.3
-ta,Carterton District,Carterton,carterton,2013,1690,2050,3130,1610,8490,44.1
-ta,Carterton District,Carterton,carterton,2018,1780,2250,3350,2130,9510,46.2
-ta,Carterton District,Carterton,carterton,2023,1750,2300,3400,2600,10050,48.2
-ta,Carterton District,Carterton,carterton,2028,1650,2400,3250,3050,10350,49.9
-ta,Carterton District,Carterton,carterton,2033,1650,2350,3200,3350,10550,51.1
-ta,Carterton District,Carterton,carterton,2038,1650,2350,3100,3600,10700,51.7
-ta,Carterton District,Carterton,carterton,2043,1700,2350,3050,3700,10800,52.1
-ta,Carterton District,Carterton,carterton,2048,1700,2250,3100,3750,10800,52.4
-ta,South Wairarapa District,South Wairarapa,south wairarapa,1996,2220,2900,2790,1240,9150,36
-ta,South Wairarapa District,South Wairarapa,south wairarapa,2001,2000,2500,3130,1300,8940,39.8
-ta,South Wairarapa District,South Wairarapa,south wairarapa,2006,1890,2300,3430,1500,9120,42.9
-ta,South Wairarapa District,South Wairarapa,south wairarapa,2013,1920,2290,3680,1910,9800,44.9
-ta,South Wairarapa District,South Wairarapa,south wairarapa,2018,1950,2500,4100,2400,10900,46.9
-ta,South Wairarapa District,South Wairarapa,south wairarapa,2023,1900,2600,4250,2800,11550,48.6
-ta,South Wairarapa District,South Wairarapa,south wairarapa,2028,1750,2650,4200,3250,11900,50.4
-ta,South Wairarapa District,South Wairarapa,south wairarapa,2033,1700,2600,4250,3600,12100,51.7
-ta,South Wairarapa District,South Wairarapa,south wairarapa,2038,1650,2500,4150,3950,12250,52.8
-ta,South Wairarapa District,South Wairarapa,south wairarapa,2043,1600,2450,4100,4200,12300,53.8
-ta,South Wairarapa District,South Wairarapa,south wairarapa,2048,1550,2300,4150,4300,12300,54.9
-ta,Tasman District,Tasman,tasman,1996,9100,13300,11600,4800,38800,35.3
-ta,Tasman District,Tasman,tasman,2001,9700,13100,14100,5500,42400,37.8
-ta,Tasman District,Tasman,tasman,2006,9700,12900,16900,6200,45800,40.3
-ta,Tasman District,Tasman,tasman,2013,9700,11700,18700,8700,48800,44
-ta,Tasman District,Tasman,tasman,2018,9600,13300,19900,11200,54000,46
-ta,Tasman District,Tasman,tasman,2023,9200,14100,20400,14000,57700,48.2
-ta,Tasman District,Tasman,tasman,2028,8700,14400,20100,16700,59900,50.2
-ta,Tasman District,Tasman,tasman,2033,8500,14000,20000,19100,61600,51.5
-ta,Tasman District,Tasman,tasman,2038,8500,13800,19400,21300,62900,52.6
-ta,Tasman District,Tasman,tasman,2043,8500,13200,19500,22400,63700,53.5
-ta,Tasman District,Tasman,tasman,2048,8400,12600,20000,22900,64000,54.4
-ta,Nelson City,Nelson,nelson,1996,8500,15300,11500,5800,41200,35
-ta,Nelson City,Nelson,nelson,2001,8900,14500,13400,6100,42900,37.2
-ta,Nelson City,Nelson,nelson,2006,8400,14100,15400,6400,44300,39.4
-ta,Nelson City,Nelson,nelson,2013,9200,13600,17500,8400,48700,42.2
-ta,Nelson City,Nelson,nelson,2018,9200,15300,18200,10000,52700,43
-ta,Nelson City,Nelson,nelson,2023,9300,15500,18600,12200,55500,44.6
-ta,Nelson City,Nelson,nelson,2028,8700,15500,18200,14500,56900,46.2
-ta,Nelson City,Nelson,nelson,2033,8200,15100,18100,16400,57800,47.7
-ta,Nelson City,Nelson,nelson,2038,7900,14900,17500,18000,58300,49.1
-ta,Nelson City,Nelson,nelson,2043,7800,14800,17200,18700,58500,50.4
-ta,Nelson City,Nelson,nelson,2048,7700,14400,17200,19000,58300,51.1
-ta,Marlborough District,Marlborough,marlborough,1996,8700,13400,11600,5600,39200,36
-ta,Marlborough District,Marlborough,marlborough,2001,8500,12300,13700,6300,40700,39.4
-ta,Marlborough District,Marlborough,marlborough,2006,8000,12700,15800,7100,43600,41.8
-ta,Marlborough District,Marlborough,marlborough,2013,8100,11600,15900,9100,44700,44.6
-ta,Marlborough District,Marlborough,marlborough,2018,8400,12900,16600,10800,48700,45.2
-ta,Marlborough District,Marlborough,marlborough,2023,8500,13000,16800,12700,51000,46.8
-ta,Marlborough District,Marlborough,marlborough,2028,7900,13100,16600,14500,52000,48.3
-ta,Marlborough District,Marlborough,marlborough,2033,7500,12600,16800,15800,52700,49.5
-ta,Marlborough District,Marlborough,marlborough,2038,7200,12100,16800,16800,52900,50.6
-ta,Marlborough District,Marlborough,marlborough,2043,7100,11900,16600,17300,52900,51.9
-ta,Marlborough District,Marlborough,marlborough,2048,7000,11600,16500,17600,52700,52.9
-ta,Kaikoura District,Kaikoura,kaikoura,1996,840,1170,1060,510,3590,36
-ta,Kaikoura District,Kaikoura,kaikoura,2001,710,1090,1230,550,3580,39.9
-ta,Kaikoura District,Kaikoura,kaikoura,2006,690,1110,1370,560,3730,41.3
-ta,Kaikoura District,Kaikoura,kaikoura,2013,630,910,1380,710,3640,45.7
-ta,Kaikoura District,Kaikoura,kaikoura,2018,650,1100,1450,850,4060,46
-ta,Kaikoura District,Kaikoura,kaikoura,2023,740,1070,1380,1110,4310,47
-ta,Kaikoura District,Kaikoura,kaikoura,2028,740,1060,1280,1330,4410,48.3
-ta,Kaikoura District,Kaikoura,kaikoura,2033,720,1040,1270,1440,4480,49.3
-ta,Kaikoura District,Kaikoura,kaikoura,2038,680,1060,1230,1530,4500,50.2
-ta,Kaikoura District,Kaikoura,kaikoura,2043,670,1100,1180,1540,4490,50.9
-ta,Kaikoura District,Kaikoura,kaikoura,2048,680,1140,1120,1530,4470,50.7
-ta,Buller District,Buller,buller,1996,2650,3550,3150,1400,10750,35.4
-ta,Buller District,Buller,buller,2001,2220,2800,3380,1460,9860,39.5
-ta,Buller District,Buller,buller,2006,1930,2640,3800,1570,9940,42.5
-ta,Buller District,Buller,buller,2013,2000,2750,4150,1750,10650,43.9
-ta,Buller District,Buller,buller,2018,1610,2240,3750,2250,9850,49.3
-ta,Buller District,Buller,buller,2023,1460,2200,3270,2620,9550,51.6
-ta,Buller District,Buller,buller,2028,1380,2210,2840,3080,9510,52.6
-ta,Buller District,Buller,buller,2033,1380,2070,2640,3320,9410,52.8
-ta,Buller District,Buller,buller,2038,1380,2020,2510,3340,9240,52.5
-ta,Buller District,Buller,buller,2043,1350,1940,2510,3200,9010,52.5
-ta,Buller District,Buller,buller,2048,1320,1840,2570,2990,8720,52.4
-ta,Grey District,Grey,grey,1996,3350,5100,3900,1650,14000,34
-ta,Grey District,Grey,grey,2001,3050,4150,4300,1700,13200,37.2
-ta,Grey District,Grey,grey,2006,2950,4100,4700,1850,13550,38.8
-ta,Grey District,Grey,grey,2013,2750,3750,5050,2200,13700,41.7
-ta,Grey District,Grey,grey,2018,2600,3750,4900,2500,13750,43.6
-ta,Grey District,Grey,grey,2023,2500,3850,4650,2900,13950,44.1
-ta,Grey District,Grey,grey,2028,2300,3950,4400,3400,14050,44.6
-ta,Grey District,Grey,grey,2033,2200,3700,4350,3750,14050,45.6
-ta,Grey District,Grey,grey,2038,2100,3600,4200,4050,13950,47
-ta,Grey District,Grey,grey,2043,2050,3450,4300,3950,13750,48.2
-ta,Grey District,Grey,grey,2048,1950,3300,4400,3850,13450,49
-ta,Westland District,Westland,westland,1996,1980,3080,2420,970,8450,34.2
-ta,Westland District,Westland,westland,2001,1710,2580,2720,980,7990,37.8
-ta,Westland District,Westland,westland,2006,1660,2670,3230,1060,8620,39.8
-ta,Westland District,Westland,westland,2013,1580,2420,3240,1320,8570,42.4
-ta,Westland District,Westland,westland,2018,1450,2580,3220,1580,8830,44.2
-ta,Westland District,Westland,westland,2023,1370,2500,3180,1920,8970,45.4
-ta,Westland District,Westland,westland,2028,1280,2370,3110,2290,9040,47.1
-ta,Westland District,Westland,westland,2033,1170,2050,3210,2570,9010,48.9
-ta,Westland District,Westland,westland,2038,1070,1870,3220,2730,8880,50.8
-ta,Westland District,Westland,westland,2043,970,1750,3250,2720,8690,53
-ta,Westland District,Westland,westland,2048,900,1600,3190,2750,8440,55.2
-ta,Hurunui District,Hurunui,hurunui,1996,2300,3050,3090,1170,9620,36.7
-ta,Hurunui District,Hurunui,hurunui,2001,2350,2850,3600,1350,10150,39.1
-ta,Hurunui District,Hurunui,hurunui,2006,2300,2850,4050,1550,10750,41.3
-ta,Hurunui District,Hurunui,hurunui,2013,2350,3100,4450,2100,12000,43.4
-ta,Hurunui District,Hurunui,hurunui,2018,2450,3400,4550,2550,12950,44.1
-ta,Hurunui District,Hurunui,hurunui,2023,2450,3550,4550,3050,13550,45.2
-ta,Hurunui District,Hurunui,hurunui,2028,2400,3500,4600,3550,14000,46.2
-ta,Hurunui District,Hurunui,hurunui,2033,2350,3350,4700,4000,14350,47.5
-ta,Hurunui District,Hurunui,hurunui,2038,2250,3350,4700,4300,14600,48.9
-ta,Hurunui District,Hurunui,hurunui,2043,2200,3350,4750,4450,14800,50.4
-ta,Hurunui District,Hurunui,hurunui,2048,2200,3300,4900,4500,14900,51.1
-ta,Waimakariri District,Waimakariri,waimakariri,1996,7500,11600,10000,3900,33000,35.3
-ta,Waimakariri District,Waimakariri,waimakariri,2001,8900,11800,12600,4600,37900,37.4
-ta,Waimakariri District,Waimakariri,waimakariri,2006,9900,12300,15700,6200,44100,39.8
-ta,Waimakariri District,Waimakariri,waimakariri,2013,10600,13300,19700,8700,52300,42.6
-ta,Waimakariri District,Waimakariri,waimakariri,2018,11600,16700,21600,11500,61300,43.4
-ta,Waimakariri District,Waimakariri,waimakariri,2023,11900,17700,22900,14300,66800,45.1
-ta,Waimakariri District,Waimakariri,waimakariri,2028,11800,18400,23200,17400,70800,46.5
-ta,Waimakariri District,Waimakariri,waimakariri,2033,11800,18800,23400,20400,74400,47.7
-ta,Waimakariri District,Waimakariri,waimakariri,2038,12000,19200,23100,23300,77600,48.7
-ta,Waimakariri District,Waimakariri,waimakariri,2043,12300,19600,23500,25100,80500,49.4
-ta,Waimakariri District,Waimakariri,waimakariri,2048,12700,19700,24300,26300,83000,49.9
-ta,Christchurch City,Christchurch,christchurch,1996,63400,130900,87800,43600,325700,33.8
-ta,Christchurch City,Christchurch,christchurch,2001,64400,126400,99200,45200,335300,35.5
-ta,Christchurch City,Christchurch,christchurch,2006,67300,133300,112700,48500,361800,36.3
-ta,Christchurch City,Christchurch,christchurch,2013,64000,123300,117400,52100,356700,38.1
-ta,Christchurch City,Christchurch,christchurch,2018,65100,142200,119800,56600,383800,36.9
-ta,Christchurch City,Christchurch,christchurch,2023,65100,148800,124400,64100,402400,37.9
-ta,Christchurch City,Christchurch,christchurch,2028,62800,151900,128700,73600,417000,39.1
-ta,Christchurch City,Christchurch,christchurch,2033,61400,148800,139200,81200,430600,40.7
-ta,Christchurch City,Christchurch,christchurch,2038,60800,148500,145300,88100,442800,41.8
-ta,Christchurch City,Christchurch,christchurch,2043,60800,148800,152600,91600,453800,42.7
-ta,Christchurch City,Christchurch,christchurch,2048,61000,147700,158600,96100,463500,43.5
-ta,Selwyn District,Selwyn,selwyn,1996,5800,10300,7400,2000,25500,32.7
-ta,Selwyn District,Selwyn,selwyn,2001,6600,10000,9300,2300,28300,35
-ta,Selwyn District,Selwyn,selwyn,2006,7900,11500,12400,3200,34900,36.8
-ta,Selwyn District,Selwyn,selwyn,2013,10500,14000,17200,5000,46700,38.4
-ta,Selwyn District,Selwyn,selwyn,2018,13800,20100,22100,7300,63300,37.3
-ta,Selwyn District,Selwyn,selwyn,2023,15000,22600,25800,10200,73500,39.2
-ta,Selwyn District,Selwyn,selwyn,2028,14900,24200,28000,13300,80500,40.9
-ta,Selwyn District,Selwyn,selwyn,2033,15000,25900,29500,16800,87200,42.3
-ta,Selwyn District,Selwyn,selwyn,2038,15500,27700,29900,20800,93900,43.3
-ta,Selwyn District,Selwyn,selwyn,2043,16500,29300,30900,23800,100400,43.8
-ta,Selwyn District,Selwyn,selwyn,2048,17500,30100,32500,26500,106500,44.1
-ta,Ashburton District,Ashburton,ashburton,1996,5500,8400,7800,4000,25700,37.2
-ta,Ashburton District,Ashburton,ashburton,2001,5500,7800,8500,4200,26000,39.4
-ta,Ashburton District,Ashburton,ashburton,2006,5700,8400,9300,4600,28000,39.8
-ta,Ashburton District,Ashburton,ashburton,2013,6700,9700,10600,5300,32300,39.4
-ta,Ashburton District,Ashburton,ashburton,2018,7000,10900,10700,6100,34600,38.7
-ta,Ashburton District,Ashburton,ashburton,2023,7100,11400,10900,6900,36200,39.3
-ta,Ashburton District,Ashburton,ashburton,2028,6800,11800,11100,7700,37500,40.2
-ta,Ashburton District,Ashburton,ashburton,2033,6700,11900,11700,8500,38700,41.5
-ta,Ashburton District,Ashburton,ashburton,2038,6700,12000,12000,9200,39900,42.4
-ta,Ashburton District,Ashburton,ashburton,2043,6800,12100,12400,9500,40900,42.9
-ta,Ashburton District,Ashburton,ashburton,2048,7000,12200,12900,9800,41900,43.4
-ta,Timaru District,Timaru,timaru,1996,9300,14300,12800,7100,43500,37.2
-ta,Timaru District,Timaru,timaru,2001,8900,12600,13800,7500,42800,39.8
-ta,Timaru District,Timaru,timaru,2006,8300,12200,15300,8000,43800,42.2
-ta,Timaru District,Timaru,timaru,2013,8300,11900,16100,9100,45400,44.3
-ta,Timaru District,Timaru,timaru,2018,8400,13100,15800,10300,47600,44.3
-ta,Timaru District,Timaru,timaru,2023,8400,13200,15700,11400,48700,45.1
-ta,Timaru District,Timaru,timaru,2028,8000,13200,15300,12900,49400,45.9
-ta,Timaru District,Timaru,timaru,2033,7600,12500,15500,14100,49700,47
-ta,Timaru District,Timaru,timaru,2038,7300,12100,15500,14900,49800,48.4
-ta,Timaru District,Timaru,timaru,2043,7100,11900,15600,15000,49600,49.8
-ta,Timaru District,Timaru,timaru,2048,7000,11600,15700,15000,49300,50.7
-ta,Mackenzie District,Mackenzie,mackenzie,1996,960,1590,1240,380,4170,33.1
-ta,Mackenzie District,Mackenzie,mackenzie,2001,780,1220,1330,450,3790,38.3
-ta,Mackenzie District,Mackenzie,mackenzie,2006,760,1170,1470,500,3900,40.3
-ta,Mackenzie District,Mackenzie,mackenzie,2013,860,1170,1580,690,4300,41.6
-ta,Mackenzie District,Mackenzie,mackenzie,2018,840,1720,1710,830,5100,39.6
-ta,Mackenzie District,Mackenzie,mackenzie,2023,940,1830,1800,1050,5620,40.6
-ta,Mackenzie District,Mackenzie,mackenzie,2028,970,1770,1910,1250,5900,42.3
-ta,Mackenzie District,Mackenzie,mackenzie,2033,950,1640,2120,1430,6140,44.2
-ta,Mackenzie District,Mackenzie,mackenzie,2038,900,1650,2200,1580,6320,46.5
-ta,Mackenzie District,Mackenzie,mackenzie,2043,850,1660,2310,1640,6460,48.2
-ta,Mackenzie District,Mackenzie,mackenzie,2048,840,1690,2350,1700,6580,49.3
-ta,Waimate District,Waimate,waimate,1996,1810,2300,2440,1220,7780,38.1
-ta,Waimate District,Waimate,waimate,2001,1570,1870,2520,1270,7220,41.6
-ta,Waimate District,Waimate,waimate,2006,1500,1790,2660,1440,7380,43.8
-ta,Waimate District,Waimate,waimate,2013,1420,1890,2780,1720,7810,45.5
-ta,Waimate District,Waimate,waimate,2018,1390,2100,2810,1820,8120,46.1
-ta,Waimate District,Waimate,waimate,2023,1390,2120,2800,2020,8330,46.8
-ta,Waimate District,Waimate,waimate,2028,1350,2100,2700,2260,8400,47.5
-ta,Waimate District,Waimate,waimate,2033,1320,1990,2690,2450,8440,48.2
-ta,Waimate District,Waimate,waimate,2038,1300,1910,2700,2540,8450,49
-ta,Waimate District,Waimate,waimate,2043,1300,1880,2710,2550,8440,50.1
-ta,Waimate District,Waimate,waimate,2048,1300,1850,2710,2550,8410,50.8
-ta,Chatham Islands Territory,Chatham Islands,chatham islands,1996,200,300,220,40,760,30.8
-ta,Chatham Islands Territory,Chatham Islands,chatham islands,2001,180,290,240,40,750,33.1
-ta,Chatham Islands Territory,Chatham Islands,chatham islands,2006,150,230,220,50,650,36.1
-ta,Chatham Islands Territory,Chatham Islands,chatham islands,2013,120,160,250,70,600,42.3
-ta,Chatham Islands Territory,Chatham Islands,chatham islands,2018,110,220,260,90,690,41.3
-ta,Chatham Islands Territory,Chatham Islands,chatham islands,2023,130,250,260,120,770,40.3
-ta,Chatham Islands Territory,Chatham Islands,chatham islands,2028,140,250,250,160,790,40.8
-ta,Chatham Islands Territory,Chatham Islands,chatham islands,2033,150,230,260,180,820,42.2
-ta,Chatham Islands Territory,Chatham Islands,chatham islands,2038,140,230,260,210,840,43.9
-ta,Chatham Islands Territory,Chatham Islands,chatham islands,2043,130,240,260,210,850,45
-ta,Chatham Islands Territory,Chatham Islands,chatham islands,2048,140,250,270,210,860,44.7
-ta,Waitaki District,Waitaki,waitaki,1996,4700,7000,6700,3700,22000,38.2
-ta,Waitaki District,Waitaki,waitaki,2001,4100,5400,7000,3900,20500,42.3
-ta,Waitaki District,Waitaki,waitaki,2006,3900,5000,7600,4200,20700,44.7
-ta,Waitaki District,Waitaki,waitaki,2013,4000,5200,7600,4700,21400,45.9
-ta,Waitaki District,Waitaki,waitaki,2018,4200,6000,7600,5200,22900,45.2
-ta,Waitaki District,Waitaki,waitaki,2023,4100,6200,7700,5800,23800,46.1
-ta,Waitaki District,Waitaki,waitaki,2028,3900,6300,7400,6600,24200,47
-ta,Waitaki District,Waitaki,waitaki,2033,3700,6200,7500,7100,24500,47.8
-ta,Waitaki District,Waitaki,waitaki,2038,3700,6000,7500,7500,24700,48.7
-ta,Waitaki District,Waitaki,waitaki,2043,3700,5900,7600,7600,24800,49.7
-ta,Waitaki District,Waitaki,waitaki,2048,3700,5800,7700,7700,24800,50.4
-ta,Central Otago District,Central Otago,central otago,1996,3300,4800,4800,2300,15250,37.8
-ta,Central Otago District,Central Otago,central otago,2001,2900,3850,5350,2600,14750,42.6
-ta,Central Otago District,Central Otago,central otago,2006,3150,4550,6400,3000,17050,43.5
-ta,Central Otago District,Central Otago,central otago,2013,3400,4250,6950,3900,18500,46.6
-ta,Central Otago District,Central Otago,central otago,2018,3700,5800,7800,5000,22200,46.2
-ta,Central Otago District,Central Otago,central otago,2023,4200,6300,8100,6200,24800,46.7
-ta,Central Otago District,Central Otago,central otago,2028,4300,6400,8400,7400,26400,47.6
-ta,Central Otago District,Central Otago,central otago,2033,4300,6400,8900,8300,27900,48.5
-ta,Central Otago District,Central Otago,central otago,2038,4300,6800,9000,9100,29200,49.7
-ta,Central Otago District,Central Otago,central otago,2043,4400,7200,9300,9500,30400,50.7
-ta,Central Otago District,Central Otago,central otago,2048,4600,7500,9500,9900,31600,50.7
-ta,Queenstown-Lakes District,Queenstown-Lakes,queenstown lakes,1996,2650,6850,3900,1450,14800,32.9
-ta,Queenstown-Lakes District,Queenstown-Lakes,queenstown lakes,2001,3200,7500,5400,1750,17850,34.4
-ta,Queenstown-Lakes District,Queenstown-Lakes,queenstown lakes,2006,3900,10700,7500,2100,24100,34.5
-ta,Queenstown-Lakes District,Queenstown-Lakes,queenstown lakes,2013,5400,11300,9800,3200,29700,36.3
-ta,Queenstown-Lakes District,Queenstown-Lakes,queenstown lakes,2018,6700,19100,12300,4300,42500,33.8
-ta,Queenstown-Lakes District,Queenstown-Lakes,queenstown lakes,2023,7500,21900,15000,5700,50100,35.6
-ta,Queenstown-Lakes District,Queenstown-Lakes,queenstown lakes,2028,7400,21900,17700,7200,54100,37.8
-ta,Queenstown-Lakes District,Queenstown-Lakes,queenstown lakes,2033,7500,21400,20400,8700,57900,40.1
-ta,Queenstown-Lakes District,Queenstown-Lakes,queenstown lakes,2038,7500,21300,22000,10700,61500,42.1
-ta,Queenstown-Lakes District,Queenstown-Lakes,queenstown lakes,2043,7400,22000,22800,12600,64800,43.7
-ta,Queenstown-Lakes District,Queenstown-Lakes,queenstown lakes,2048,7500,22400,23200,14900,67900,44.9
-ta,Dunedin City,Dunedin,dunedin,1996,22800,51500,30800,15600,120800,32.3
-ta,Dunedin City,Dunedin,dunedin,2001,21500,48400,33900,15500,119300,33.8
-ta,Dunedin City,Dunedin,dunedin,2006,20300,49000,36800,16200,122300,34.8
-ta,Dunedin City,Dunedin,dunedin,2013,20000,46600,38600,18200,123500,36.4
-ta,Dunedin City,Dunedin,dunedin,2018,20300,50600,39700,20700,131200,36.3
-ta,Dunedin City,Dunedin,dunedin,2023,19700,51800,40000,24200,135700,37.6
-ta,Dunedin City,Dunedin,dunedin,2028,18200,52800,38900,28100,137900,38.8
-ta,Dunedin City,Dunedin,dunedin,2033,17300,52600,38700,31100,139700,40
-ta,Dunedin City,Dunedin,dunedin,2038,17200,51500,38600,33700,140900,41.1
-ta,Dunedin City,Dunedin,dunedin,2043,17100,51000,38900,34500,141500,41.7
-ta,Dunedin City,Dunedin,dunedin,2048,17000,50100,39800,34800,141600,42.3
-ta,Clutha District,Clutha,clutha,1996,4350,6550,5350,2150,18400,34.4
-ta,Clutha District,Clutha,clutha,2001,4050,5500,5800,2250,17550,37.5
-ta,Clutha District,Clutha,clutha,2006,3900,5000,6000,2300,17200,38.8
-ta,Clutha District,Clutha,clutha,2013,3600,4650,6300,2700,17250,41.3
-ta,Clutha District,Clutha,clutha,2018,3400,5100,6400,3150,18050,42.4
-ta,Clutha District,Clutha,clutha,2023,3350,5200,6350,3600,18500,43.2
-ta,Clutha District,Clutha,clutha,2028,3250,5100,6250,4150,18750,44.1
-ta,Clutha District,Clutha,clutha,2033,3200,4850,6250,4550,18900,45.3
-ta,Clutha District,Clutha,clutha,2038,3100,4600,6250,4950,18950,46.6
-ta,Clutha District,Clutha,clutha,2043,3050,4400,6350,5100,18850,47.8
-ta,Clutha District,Clutha,clutha,2048,2900,4300,6400,5100,18700,48.9
-ta,Southland District,Southland,southland,1996,7800,11100,9200,3000,31200,33.7
-ta,Southland District,Southland,southland,2001,6800,9500,9900,3200,29400,36.9
-ta,Southland District,Southland,southland,2006,6600,9000,10200,3400,29200,37.8
-ta,Southland District,Southland,southland,2013,6700,9000,10500,4100,30300,38.8
-ta,Southland District,Southland,southland,2018,6600,9700,10800,4700,31900,39
-ta,Southland District,Southland,southland,2023,6500,9800,10800,6000,33200,40.5
-ta,Southland District,Southland,southland,2028,6200,9800,10600,7300,33900,42.1
-ta,Southland District,Southland,southland,2033,5900,9600,10700,8200,34300,43.6
-ta,Southland District,Southland,southland,2038,5700,9300,10700,8900,34600,45.1
-ta,Southland District,Southland,southland,2043,5600,9100,10700,9300,34700,46.2
-ta,Southland District,Southland,southland,2048,5600,8800,10800,9400,34600,46.9
-ta,Gore District,Gore,gore,1996,3250,4750,3700,1850,13500,34.5
-ta,Gore District,Gore,gore,2001,2900,4000,3900,1950,12750,37.4
-ta,Gore District,Gore,gore,2006,2600,3500,4200,2100,12400,40.5
-ta,Gore District,Gore,gore,2013,2500,3350,4250,2350,12400,42.5
-ta,Gore District,Gore,gore,2018,2450,3550,4300,2550,12800,43.2
-ta,Gore District,Gore,gore,2023,2300,3650,4150,2800,12850,43.7
-ta,Gore District,Gore,gore,2028,2100,3700,3950,3200,12900,44.3
-ta,Gore District,Gore,gore,2033,2050,3450,3950,3500,12900,45.3
-ta,Gore District,Gore,gore,2038,1950,3250,4000,3600,12850,46.8
-ta,Gore District,Gore,gore,2043,1900,3150,4000,3650,12700,48.2
-ta,Gore District,Gore,gore,2048,1800,2950,4150,3600,12500,49.3
-ta,Invercargill City,Invercargill,invercargill,1996,12500,20400,14600,6700,54200,33.4
-ta,Invercargill City,Invercargill,invercargill,2001,11300,17300,15500,7000,51100,36.2
-ta,Invercargill City,Invercargill,invercargill,2006,10500,17100,16600,7500,51600,37.5
-ta,Invercargill City,Invercargill,invercargill,2013,10600,16800,17400,8500,53200,38.9
-ta,Invercargill City,Invercargill,invercargill,2018,10800,17800,17800,9500,55900,39
-ta,Invercargill City,Invercargill,invercargill,2023,10600,18100,18100,10900,57800,40.2
-ta,Invercargill City,Invercargill,invercargill,2028,10000,18300,18100,12600,58900,41.5
-ta,Invercargill City,Invercargill,invercargill,2033,9600,18000,18400,13900,59900,42.9
-ta,Invercargill City,Invercargill,invercargill,2038,9400,17900,18500,14800,60500,44.1
-ta,Invercargill City,Invercargill,invercargill,2043,9300,17700,18600,15400,61000,44.8
-ta,Invercargill City,Invercargill,invercargill,2048,9300,17200,18900,15800,61200,45.3
 regc,Northland Region,Northland,northland,1996,37200,46600,39900,16900,140700,33.7
 regc,Northland Region,Northland,northland,2001,36300,43200,45800,19100,144400,36.6
 regc,Northland Region,Northland,northland,2006,35300,43500,51800,22100,152700,38.8
 regc,Northland Region,Northland,northland,2013,36400,42900,56500,28900,164700,41.5
 regc,Northland Region,Northland,northland,2018,38600,50100,61200,36000,185800,42.3
-regc,Northland Region,Northland,northland,2023,39600,53100,62800,43700,199300,43.3
-regc,Northland Region,Northland,northland,2028,38100,55200,62800,51800,207800,44.4
-regc,Northland Region,Northland,northland,2033,37300,55400,64200,58200,215100,45.7
-regc,Northland Region,Northland,northland,2038,37400,55800,64800,63400,221300,46.9
-regc,Northland Region,Northland,northland,2043,38100,56500,66300,65800,226700,47.6
-regc,Northland Region,Northland,northland,2048,39000,56700,68300,67100,231200,48
+regc,Northland Region,Northland,northland,2023,40100,56000,64300,43800,204200,42.8
+regc,Northland Region,Northland,northland,2028,39200,57700,65000,52200,214100,44
+regc,Northland Region,Northland,northland,2033,38600,57700,67200,59100,222600,45.4
+regc,Northland Region,Northland,northland,2038,38800,57700,68700,64600,229800,46.7
+regc,Northland Region,Northland,northland,2043,39200,58700,70800,67300,236000,47.7
+regc,Northland Region,Northland,northland,2048,39900,58800,73600,69000,241300,48.2
 regc,Auckland Region,Auckland,auckland,1996,255600,451400,296500,112300,1115800,32.1
 regc,Auckland Region,Auckland,auckland,2001,277800,469900,351000,119600,1218300,33.2
 regc,Auckland Region,Auckland,auckland,2006,298200,525100,415600,134000,1373000,33.8
 regc,Auckland Region,Auckland,auckland,2013,311500,539400,472500,169800,1493200,34.8
 regc,Auckland Region,Auckland,auckland,2018,324100,630300,503400,197000,1654800,34.6
-regc,Auckland Region,Auckland,auckland,2023,329600,677100,533600,238400,1778700,35.7
-regc,Auckland Region,Auckland,auckland,2028,325600,714500,565200,286500,1891800,37.1
-regc,Auckland Region,Auckland,auckland,2033,326700,723700,618200,333200,2001800,38.5
-regc,Auckland Region,Auckland,auckland,2038,335700,729200,666000,376200,2107000,39.6
-regc,Auckland Region,Auckland,auckland,2043,344900,743400,717000,402500,2207800,40.5
-regc,Auckland Region,Auckland,auckland,2048,353000,754000,761900,434000,2302900,41.3
+regc,Auckland Region,Auckland,auckland,2023,324700,608400,523300,235900,1692400,36.6
+regc,Auckland Region,Auckland,auckland,2028,308300,635000,539100,283100,1765500,37.9
+regc,Auckland Region,Auckland,auckland,2033,301900,654100,572700,330700,1859400,39.1
+regc,Auckland Region,Auckland,auckland,2038,304800,670000,599500,374400,1948700,40
+regc,Auckland Region,Auckland,auckland,2043,313600,686800,634300,399400,2034100,40.6
+regc,Auckland Region,Auckland,auckland,2048,322800,695700,669400,426100,2114000,41.3
 regc,Waikato Region,Waikato,waikato,1996,89500,136100,94600,38600,358800,31.8
 regc,Waikato Region,Waikato,waikato,2001,89500,128700,107600,42500,368400,33.8
 regc,Waikato Region,Waikato,waikato,2006,88700,133000,122600,48900,393200,35.5
 regc,Waikato Region,Waikato,waikato,2013,92500,134500,136100,61600,424600,37.1
 regc,Waikato Region,Waikato,waikato,2018,98900,154900,146900,74800,475600,37.1
-regc,Waikato Region,Waikato,waikato,2023,102200,163100,155100,90400,510800,38.5
-regc,Waikato Region,Waikato,waikato,2028,99900,169100,159800,107100,535900,39.9
-regc,Waikato Region,Waikato,waikato,2033,98500,170700,168100,121500,558700,41.3
-regc,Waikato Region,Waikato,waikato,2038,98700,173200,172400,134900,579300,42.4
-regc,Waikato Region,Waikato,waikato,2043,100500,176800,178000,142800,598100,43.1
-regc,Waikato Region,Waikato,waikato,2048,102600,178300,184400,149800,615100,43.6
+regc,Waikato Region,Waikato,waikato,2023,104300,170100,155100,90500,519900,37.9
+regc,Waikato Region,Waikato,waikato,2028,104600,176500,161700,106300,549000,39.2
+regc,Waikato Region,Waikato,waikato,2033,105100,176700,173300,119500,574600,40.7
+regc,Waikato Region,Waikato,waikato,2038,105400,179700,180500,132100,597700,41.8
+regc,Waikato Region,Waikato,waikato,2043,106300,185200,187800,139800,619100,42.5
+regc,Waikato Region,Waikato,waikato,2048,108200,188200,195900,146800,639000,43
 regc,Bay of Plenty Region,Bay of Plenty,bay of plenty,1996,57700,80300,62900,29700,230600,33.6
 regc,Bay of Plenty Region,Bay of Plenty,bay of plenty,2001,60400,78500,74000,33900,246900,35.8
 regc,Bay of Plenty Region,Bay of Plenty,bay of plenty,2006,60300,80600,85200,39200,265300,37.7
 regc,Bay of Plenty Region,Bay of Plenty,bay of plenty,2013,60400,78700,92400,48200,279700,40.2
 regc,Bay of Plenty Region,Bay of Plenty,bay of plenty,2018,65600,95300,101400,58500,320800,39.9
-regc,Bay of Plenty Region,Bay of Plenty,bay of plenty,2023,68100,101100,108100,69600,346900,41.1
-regc,Bay of Plenty Region,Bay of Plenty,bay of plenty,2028,65800,104000,110400,81400,361700,42.4
-regc,Bay of Plenty Region,Bay of Plenty,bay of plenty,2033,63700,104200,115200,91300,374400,43.9
-regc,Bay of Plenty Region,Bay of Plenty,bay of plenty,2038,62900,105300,116500,100800,385500,45.3
-regc,Bay of Plenty Region,Bay of Plenty,bay of plenty,2043,63600,106500,118500,106800,395500,46.1
-regc,Bay of Plenty Region,Bay of Plenty,bay of plenty,2048,65000,106300,121800,111200,404300,46.6
+regc,Bay of Plenty Region,Bay of Plenty,bay of plenty,2023,68800,107200,106700,69800,352500,40.1
+regc,Bay of Plenty Region,Bay of Plenty,bay of plenty,2028,68400,109500,110700,81600,370200,41.5
+regc,Bay of Plenty Region,Bay of Plenty,bay of plenty,2033,67700,107600,118200,91000,384500,43.1
+regc,Bay of Plenty Region,Bay of Plenty,bay of plenty,2038,66600,108100,122100,99900,396600,44.7
+regc,Bay of Plenty Region,Bay of Plenty,bay of plenty,2043,66100,110500,125000,105800,407500,45.8
+regc,Bay of Plenty Region,Bay of Plenty,bay of plenty,2048,66700,110200,129500,110800,417100,46.4
 regc,Gisborne Region,Gisborne,gisborne,1996,13100,16700,12100,5200,47200,31.4
 regc,Gisborne Region,Gisborne,gisborne,2001,12600,14800,12900,5200,45500,32.8
 regc,Gisborne Region,Gisborne,gisborne,2006,11900,14400,14200,5500,46000,34.6
 regc,Gisborne Region,Gisborne,gisborne,2013,11700,14000,14900,6400,47000,35.9
 regc,Gisborne Region,Gisborne,gisborne,2018,11600,15000,15400,7500,49500,36.6
-regc,Gisborne Region,Gisborne,gisborne,2023,11600,15700,15700,8900,51900,37.9
-regc,Gisborne Region,Gisborne,gisborne,2028,11100,15900,15600,10500,53100,39.4
-regc,Gisborne Region,Gisborne,gisborne,2033,10800,15500,16100,11700,54000,41.1
-regc,Gisborne Region,Gisborne,gisborne,2038,10500,15200,16200,12700,54600,42.4
-regc,Gisborne Region,Gisborne,gisborne,2043,10400,14900,16500,13100,55000,43.4
-regc,Gisborne Region,Gisborne,gisborne,2048,10400,14500,16900,13400,55200,44.1
+regc,Gisborne Region,Gisborne,gisborne,2023,11400,16100,15700,8900,52000,37.7
+regc,Gisborne Region,Gisborne,gisborne,2028,10900,16100,15700,10400,53200,39.4
+regc,Gisborne Region,Gisborne,gisborne,2033,10500,15500,16400,11600,54000,41.3
+regc,Gisborne Region,Gisborne,gisborne,2038,10200,15000,16700,12700,54500,43
+regc,Gisborne Region,Gisborne,gisborne,2043,10000,14500,17100,13200,54700,44.3
+regc,Gisborne Region,Gisborne,gisborne,2048,9800,13900,17500,13400,54700,45.5
 regc,Hawke's Bay Region,Hawke's Bay,hawkes bay,1996,36100,51500,40500,18500,146600,33.7
 regc,Hawke's Bay Region,Hawke's Bay,hawkes bay,2001,35900,47100,44800,19500,147300,35.7
 regc,Hawke's Bay Region,Hawke's Bay,hawkes bay,2006,34600,46700,49800,21000,152100,37.5
 regc,Hawke's Bay Region,Hawke's Bay,hawkes bay,2013,34500,44000,53200,26200,158000,40.2
 regc,Hawke's Bay Region,Hawke's Bay,hawkes bay,2018,35700,50100,55600,31000,172400,40.2
-regc,Hawke's Bay Region,Hawke's Bay,hawkes bay,2023,35800,52200,57500,36200,181800,41.4
-regc,Hawke's Bay Region,Hawke's Bay,hawkes bay,2028,34000,54000,57200,42300,187500,42.6
-regc,Hawke's Bay Region,Hawke's Bay,hawkes bay,2033,33100,53300,58800,47100,192400,43.9
-regc,Hawke's Bay Region,Hawke's Bay,hawkes bay,2038,33100,52800,58900,51600,196400,45.2
-regc,Hawke's Bay Region,Hawke's Bay,hawkes bay,2043,33400,52500,59800,54000,199600,46.1
-regc,Hawke's Bay Region,Hawke's Bay,hawkes bay,2048,33700,51900,61200,55300,202100,46.6
+regc,Hawke's Bay Region,Hawke's Bay,hawkes bay,2023,36200,54700,57100,35700,183700,40.4
+regc,Hawke's Bay Region,Hawke's Bay,hawkes bay,2028,35000,56100,57600,41300,190000,41.7
+regc,Hawke's Bay Region,Hawke's Bay,hawkes bay,2033,34600,54800,60300,45600,195300,43.1
+regc,Hawke's Bay Region,Hawke's Bay,hawkes bay,2038,34500,54300,61500,49600,199800,44.4
+regc,Hawke's Bay Region,Hawke's Bay,hawkes bay,2043,34800,54300,62900,51800,203800,45.4
+regc,Hawke's Bay Region,Hawke's Bay,hawkes bay,2048,35100,53800,64600,53600,207000,46
 regc,Taranaki Region,Taranaki,taranaki,1996,26800,38800,29500,13900,109000,33.6
 regc,Taranaki Region,Taranaki,taranaki,2001,25000,34000,32000,14800,105700,36.3
 regc,Taranaki Region,Taranaki,taranaki,2006,23100,33600,34700,15900,107300,38
 regc,Taranaki Region,Taranaki,taranaki,2013,24100,33400,37900,18200,113600,39.6
 regc,Taranaki Region,Taranaki,taranaki,2018,25100,35900,39400,20800,121200,39.7
-regc,Taranaki Region,Taranaki,taranaki,2023,25600,36500,40300,24300,126700,40.8
-regc,Taranaki Region,Taranaki,taranaki,2028,24600,37000,40200,28500,130200,42.1
-regc,Taranaki Region,Taranaki,taranaki,2033,23700,36600,40900,31700,133000,43.5
-regc,Taranaki Region,Taranaki,taranaki,2038,23100,37100,40400,34600,135200,44.8
-regc,Taranaki Region,Taranaki,taranaki,2043,23100,37400,40400,36100,137000,45.3
-regc,Taranaki Region,Taranaki,taranaki,2048,23400,37000,40800,37100,138300,45.5
+regc,Taranaki Region,Taranaki,taranaki,2023,25500,37600,40500,24300,128000,40.6
+regc,Taranaki Region,Taranaki,taranaki,2028,24600,37700,40800,28400,131400,42
+regc,Taranaki Region,Taranaki,taranaki,2033,23700,36900,42100,31400,134100,43.5
+regc,Taranaki Region,Taranaki,taranaki,2038,22900,37100,42000,34100,136100,45
+regc,Taranaki Region,Taranaki,taranaki,2043,22600,37300,42000,35700,137500,45.8
+regc,Taranaki Region,Taranaki,taranaki,2048,22500,36300,42500,37100,138500,46.3
 regc,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,1996,55900,90100,60000,28600,234500,32.1
 regc,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,2001,52600,78900,65900,30100,227500,34.7
 regc,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,2006,49400,75700,71700,32500,229400,36.6
 regc,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,2013,47500,71300,74500,38000,231200,38.8
 regc,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,2018,48900,77700,77100,43800,247500,38.9
-regc,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,2023,50000,79000,78500,51200,258700,40.1
-regc,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,2028,48300,79600,77500,59700,265000,41.5
-regc,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,2033,46800,78100,78700,66300,269900,43
-regc,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,2038,45500,77400,78900,71500,273200,44.4
-regc,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,2043,45000,77600,79000,73900,275500,45.3
-regc,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,2048,45000,77000,79500,75300,276700,45.6
+regc,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,2023,49600,81900,77600,50500,259600,39.4
+regc,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,2028,48500,82300,77300,58300,266400,40.7
+regc,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,2033,47600,80300,79700,64200,271800,42.2
+regc,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,2038,46500,78800,81500,68700,275500,43.6
+regc,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,2043,45300,78700,83100,70700,277900,44.8
+regc,Manawatū-Whanganui Region,Manawatū-Whanganui,manawatu whanganui,2048,44600,78100,84500,72200,279300,45.5
 regc,Wellington Region,Wellington,wellington,1996,94400,171600,115400,45500,426900,32.7
 regc,Wellington Region,Wellington,wellington,2001,96200,166900,129100,48000,440200,34.2
 regc,Wellington Region,Wellington,wellington,2006,94900,173200,145100,53100,466300,35.3
 regc,Wellington Region,Wellington,wellington,2013,95000,167900,159700,64100,486700,37.1
 regc,Wellington Region,Wellington,wellington,2018,95400,188400,167900,74200,525900,37
-regc,Wellington Region,Wellington,wellington,2023,95400,195500,175300,88000,554200,38.2
-regc,Wellington Region,Wellington,wellington,2028,90200,201000,175100,103900,570200,39.3
-regc,Wellington Region,Wellington,wellington,2033,87800,198900,179500,118000,584200,40.6
-regc,Wellington Region,Wellington,wellington,2038,87300,196200,181800,130600,595800,41.7
-regc,Wellington Region,Wellington,wellington,2043,87500,194400,186300,137100,605300,42.6
-regc,Wellington Region,Wellington,wellington,2048,87400,192000,191000,141900,612200,43.3
+regc,Wellington Region,Wellington,wellington,2023,91200,199200,170400,84600,545400,37.6
+regc,Wellington Region,Wellington,wellington,2028,87100,204500,169900,98100,559500,38.6
+regc,Wellington Region,Wellington,wellington,2033,86600,202600,174900,109900,574000,39.7
+regc,Wellington Region,Wellington,wellington,2038,87500,198800,179700,120500,586500,40.8
+regc,Wellington Region,Wellington,wellington,2043,87300,196400,187900,125300,596900,41.7
+regc,Wellington Region,Wellington,wellington,2048,86500,193700,195400,129400,605000,42.6
 regc,Tasman Region,Tasman,tasman,1996,9100,13300,11600,4800,38800,35.3
 regc,Tasman Region,Tasman,tasman,2001,9700,13100,14100,5500,42400,37.8
 regc,Tasman Region,Tasman,tasman,2006,9700,12900,16900,6200,45800,40.3
 regc,Tasman Region,Tasman,tasman,2013,9700,11700,18700,8700,48800,44
 regc,Tasman Region,Tasman,tasman,2018,9600,13300,19900,11200,54000,46
-regc,Tasman Region,Tasman,tasman,2023,9200,14100,20400,14000,57700,48.2
-regc,Tasman Region,Tasman,tasman,2028,8700,14400,20100,16700,59900,50.2
-regc,Tasman Region,Tasman,tasman,2033,8500,14000,20000,19100,61600,51.5
-regc,Tasman Region,Tasman,tasman,2038,8500,13800,19400,21300,62900,52.6
-regc,Tasman Region,Tasman,tasman,2043,8500,13200,19500,22400,63700,53.5
-regc,Tasman Region,Tasman,tasman,2048,8400,12600,20000,22900,64000,54.4
+regc,Tasman Region,Tasman,tasman,2023,9400,15500,20500,14200,59600,47.1
+regc,Tasman Region,Tasman,tasman,2028,9300,15600,20400,16900,62200,48.8
+regc,Tasman Region,Tasman,tasman,2033,9600,15000,20500,19300,64400,50
+regc,Tasman Region,Tasman,tasman,2038,9800,14600,20400,21400,66100,50.9
+regc,Tasman Region,Tasman,tasman,2043,9800,14200,20900,22400,67200,51.9
+regc,Tasman Region,Tasman,tasman,2048,9500,13800,21500,23000,67800,52.9
 regc,Nelson Region,Nelson,nelson,1996,8500,15300,11500,5800,41200,35
 regc,Nelson Region,Nelson,nelson,2001,8900,14500,13400,6100,42900,37.2
 regc,Nelson Region,Nelson,nelson,2006,8400,14100,15400,6400,44300,39.4
 regc,Nelson Region,Nelson,nelson,2013,9200,13600,17500,8400,48700,42.2
 regc,Nelson Region,Nelson,nelson,2018,9200,15300,18200,10000,52700,43
-regc,Nelson Region,Nelson,nelson,2023,9300,15500,18600,12200,55500,44.6
-regc,Nelson Region,Nelson,nelson,2028,8700,15500,18200,14500,56900,46.2
-regc,Nelson Region,Nelson,nelson,2033,8200,15100,18100,16400,57800,47.7
-regc,Nelson Region,Nelson,nelson,2038,7900,14900,17500,18000,58300,49.1
-regc,Nelson Region,Nelson,nelson,2043,7800,14800,17200,18700,58500,50.4
-regc,Nelson Region,Nelson,nelson,2048,7700,14400,17200,19000,58300,51.1
+regc,Nelson Region,Nelson,nelson,2023,8900,15400,18200,11900,54500,44.4
+regc,Nelson Region,Nelson,nelson,2028,8200,15500,18100,14000,55800,46
+regc,Nelson Region,Nelson,nelson,2033,7800,15000,18300,15600,56700,47.5
+regc,Nelson Region,Nelson,nelson,2038,7500,14800,18000,17000,57300,49
+regc,Nelson Region,Nelson,nelson,2043,7400,14400,18100,17600,57500,50.3
+regc,Nelson Region,Nelson,nelson,2048,7300,13900,18200,18100,57400,51.1
 regc,Marlborough Region,Marlborough,marlborough,1996,8700,13400,11600,5600,39200,36
 regc,Marlborough Region,Marlborough,marlborough,2001,8500,12300,13700,6300,40700,39.4
 regc,Marlborough Region,Marlborough,marlborough,2006,8000,12700,15800,7100,43600,41.8
 regc,Marlborough Region,Marlborough,marlborough,2013,8100,11600,15900,9100,44700,44.6
 regc,Marlborough Region,Marlborough,marlborough,2018,8400,12900,16600,10800,48700,45.2
-regc,Marlborough Region,Marlborough,marlborough,2023,8500,13000,16800,12700,51000,46.8
-regc,Marlborough Region,Marlborough,marlborough,2028,7900,13100,16600,14500,52000,48.3
-regc,Marlborough Region,Marlborough,marlborough,2033,7500,12600,16800,15800,52700,49.5
-regc,Marlborough Region,Marlborough,marlborough,2038,7200,12100,16800,16800,52900,50.6
-regc,Marlborough Region,Marlborough,marlborough,2043,7100,11900,16600,17300,52900,51.9
-regc,Marlborough Region,Marlborough,marlborough,2048,7000,11600,16500,17600,52700,52.9
+regc,Marlborough Region,Marlborough,marlborough,2023,8400,14200,16900,12500,52000,45.7
+regc,Marlborough Region,Marlborough,marlborough,2028,7900,14000,17100,14300,53200,47.1
+regc,Marlborough Region,Marlborough,marlborough,2033,7500,13300,17700,15600,54200,48.5
+regc,Marlborough Region,Marlborough,marlborough,2038,7300,12700,18200,16500,54700,49.9
+regc,Marlborough Region,Marlborough,marlborough,2043,7300,12400,18300,17100,55100,51.4
+regc,Marlborough Region,Marlborough,marlborough,2048,7300,12000,18500,17500,55200,52.6
 regc,West Coast Region,West Coast,west coast,1996,7900,11800,9500,4000,33200,34.5
 regc,West Coast Region,West Coast,west coast,2001,7000,9500,10400,4100,31100,38.1
 regc,West Coast Region,West Coast,west coast,2006,6500,9400,11700,4500,32100,40.3
 regc,West Coast Region,West Coast,west coast,2013,6300,8900,12400,5300,33000,42.6
 regc,West Coast Region,West Coast,west coast,2018,5700,8600,11900,6300,32400,45.5
-regc,West Coast Region,West Coast,west coast,2023,5300,8600,11100,7500,32500,46.7
-regc,West Coast Region,West Coast,west coast,2028,5000,8500,10300,8800,32600,47.5
-regc,West Coast Region,West Coast,west coast,2033,4800,7800,10200,9700,32500,48.4
-regc,West Coast Region,West Coast,west coast,2038,4600,7500,9900,10100,32100,49.5
-regc,West Coast Region,West Coast,west coast,2043,4400,7100,10100,9900,31400,50.9
-regc,West Coast Region,West Coast,west coast,2048,4200,6700,10200,9600,30600,51.8
+regc,West Coast Region,West Coast,west coast,2023,5400,8600,11200,7600,32700,47.2
+regc,West Coast Region,West Coast,west coast,2028,5000,8500,10300,8900,32700,47.8
+regc,West Coast Region,West Coast,west coast,2033,4800,7800,10100,9700,32400,48.4
+regc,West Coast Region,West Coast,west coast,2038,4500,7500,9800,10000,31800,49.3
+regc,West Coast Region,West Coast,west coast,2043,4200,7200,9900,9700,31000,50.7
+regc,West Coast Region,West Coast,west coast,2048,4000,6700,10100,9200,30000,51.5
 regc,Canterbury Region,Canterbury,canterbury,1996,97900,184300,134300,64000,480400,34.4
 regc,Canterbury Region,Canterbury,canterbury,2001,100100,176100,152800,67700,496700,36.4
 regc,Canterbury Region,Canterbury,canterbury,2006,104700,185000,175600,74700,540000,37.6
 regc,Canterbury Region,Canterbury,canterbury,2013,105700,179700,191700,85800,562900,39.5
 regc,Canterbury Region,Canterbury,canterbury,2018,111600,211800,201200,98200,622800,38.4
-regc,Canterbury Region,Canterbury,canterbury,2023,113200,222700,210800,114500,661300,39.4
-regc,Canterbury Region,Canterbury,canterbury,2028,110000,228500,217400,134000,689900,40.7
-regc,Canterbury Region,Canterbury,canterbury,2033,108100,226400,230600,151000,716000,42.1
-regc,Canterbury Region,Canterbury,canterbury,2038,107700,227900,237300,166800,739700,43.4
-regc,Canterbury Region,Canterbury,canterbury,2043,108900,230100,246600,175800,761300,44.2
-regc,Canterbury Region,Canterbury,canterbury,2048,110400,229700,255800,184600,780500,44.8
+regc,Canterbury Region,Canterbury,canterbury,2023,114000,225500,207300,114300,661000,39
+regc,Canterbury Region,Canterbury,canterbury,2028,112600,230100,214000,131800,688500,40.2
+regc,Canterbury Region,Canterbury,canterbury,2033,112300,227300,229000,146900,715500,41.6
+regc,Canterbury Region,Canterbury,canterbury,2038,111800,229700,237200,161100,739800,42.8
+regc,Canterbury Region,Canterbury,canterbury,2043,112200,233200,248200,168700,762200,43.6
+regc,Canterbury Region,Canterbury,canterbury,2048,113400,233600,259400,176200,782700,44.2
 regc,Otago Region,Otago,otago,1996,37400,76000,50900,25000,189300,33.6
 regc,Otago Region,Otago,otago,2001,35500,70300,56800,25800,188300,35.9
 regc,Otago Region,Otago,otago,2006,34800,73800,63600,27500,199800,36.8
 regc,Otago Region,Otago,otago,2013,36100,71600,68600,32400,208800,38.7
 regc,Otago Region,Otago,otago,2018,38000,86000,73200,37800,235000,37.7
-regc,Otago Region,Otago,otago,2023,38600,90800,76500,45100,250900,38.8
-regc,Otago Region,Otago,otago,2028,36800,91900,78000,52800,259500,40.3
-regc,Otago Region,Otago,otago,2033,35800,90900,81100,59200,267000,41.9
-regc,Otago Region,Otago,otago,2038,35500,89800,82800,65300,273300,43.3
-regc,Otago Region,Otago,otago,2043,35400,90000,84200,68800,278500,44.3
-regc,Otago Region,Otago,otago,2048,35500,89600,85900,71700,282600,44.9
+regc,Otago Region,Otago,otago,2023,38700,89100,75800,44900,248600,39
+regc,Otago Region,Otago,otago,2028,37900,89400,77800,52300,257300,40.4
+regc,Otago Region,Otago,otago,2033,37500,86900,82300,58000,264700,42.1
+regc,Otago Region,Otago,otago,2038,36800,88300,82400,63400,271000,43.3
+regc,Otago Region,Otago,otago,2043,36600,90000,83400,66400,276400,43.8
+regc,Otago Region,Otago,otago,2048,37000,90800,84200,69000,281100,44
 regc,Southland Region,Southland,southland,1996,23600,36300,27500,11600,99000,33.7
 regc,Southland Region,Southland,southland,2001,21100,30800,29200,12200,93300,36.6
 regc,Southland Region,Southland,southland,2006,19600,29600,31000,13000,93200,38
 regc,Southland Region,Southland,southland,2013,19800,29100,32200,14900,96000,39.3
 regc,Southland Region,Southland,southland,2018,19800,31000,32900,16800,100500,39.5
-regc,Southland Region,Southland,southland,2023,19400,31600,33100,19600,103800,40.7
-regc,Southland Region,Southland,southland,2028,18300,31800,32600,23000,105700,42
-regc,Southland Region,Southland,southland,2033,17500,31000,33100,25500,107100,43.4
-regc,Southland Region,Southland,southland,2038,17000,30400,33200,27300,108000,44.8
-regc,Southland Region,Southland,southland,2043,16900,29900,33300,28300,108400,45.7
-regc,Southland Region,Southland,southland,2048,16700,28900,33800,28800,108300,46.3
+regc,Southland Region,Southland,southland,2023,18900,31700,32600,19300,102500,40.5
+regc,Southland Region,Southland,southland,2028,17600,32000,32200,22300,104100,41.8
+regc,Southland Region,Southland,southland,2033,16700,31300,32800,24500,105300,43.1
+regc,Southland Region,Southland,southland,2038,16400,30600,33100,25900,106100,44.4
+regc,Southland Region,Southland,southland,2043,16300,29900,33500,26700,106400,45.2
+regc,Southland Region,Southland,southland,2048,16100,28600,34300,27200,106200,45.9
 island,North Island,North Island,north island,1996,666300,1083200,751300,309200,2810100,32.5
 island,North Island,North Island,north island,2001,686300,1061900,863200,332900,2944300,34.1
 island,North Island,North Island,north island,2006,696400,1125900,990700,372200,3185100,35.2
 island,North Island,North Island,north island,2013,713700,1126000,1097700,461300,3398700,36.8
 island,North Island,North Island,north island,2018,744000,1297800,1168200,543700,3753700,36.5
-island,North Island,North Island,north island,2023,757900,1373200,1227100,650700,4008900,37.7
-island,North Island,North Island,north island,2028,737500,1430100,1263800,771800,4203200,39
-island,North Island,North Island,north island,2033,728400,1436300,1339800,879000,4383500,40.4
-island,North Island,North Island,north island,2038,734100,1442200,1395800,976200,4548400,41.5
-island,North Island,North Island,north island,2043,746600,1459900,1461800,1032200,4700400,42.4
-island,North Island,North Island,north island,2048,759400,1467600,1525900,1085000,4837900,43
+island,North Island,North Island,north island,2023,751900,1331200,1210700,643900,3937700,37.9
+island,North Island,North Island,north island,2028,726600,1375500,1237800,759500,4099300,39.2
+island,North Island,North Island,north island,2033,716500,1386300,1304700,862900,4270300,40.5
+island,North Island,North Island,north island,2038,717100,1399500,1352200,956500,4425200,41.6
+island,North Island,North Island,north island,2043,725100,1422400,1410900,1009000,4567400,42.3
+island,North Island,North Island,north island,2048,736000,1428700,1472900,1058200,4695800,43
 island,South Island,South Island,south island,1996,193000,350300,256900,120800,921100,34.3
 island,South Island,South Island,south island,2001,190700,326600,290400,127600,935400,36.6
 island,South Island,South Island,south island,2006,191800,337600,330000,139400,998800,37.9
 island,South Island,South Island,south island,2013,194900,326200,357100,164600,1042800,40
 island,South Island,South Island,south island,2018,202300,378900,373900,191200,1146200,39.4
-island,South Island,South Island,south island,2023,203600,396300,387300,225500,1212700,40.4
-island,South Island,South Island,south island,2028,195300,403700,393200,264300,1256400,41.7
-island,South Island,South Island,south island,2033,190400,397900,409800,296600,1294700,43.2
-island,South Island,South Island,south island,2038,188400,396400,416800,325500,1327200,44.6
-island,South Island,South Island,south island,2043,188900,397000,427600,341100,1354600,45.5
-island,South Island,South Island,south island,2048,189900,393500,439400,354200,1377000,46.1
+island,South Island,South Island,south island,2023,203700,400000,382500,224700,1210900,40.1
+island,South Island,South Island,south island,2028,198400,405100,389900,260600,1253900,41.4
+island,South Island,South Island,south island,2033,196300,396600,410900,289400,1293200,42.8
+island,South Island,South Island,south island,2038,194200,398200,419100,315300,1326800,44.1
+island,South Island,South Island,south island,2043,193700,401300,432100,328700,1355800,45
+island,South Island,South Island,south island,2048,194500,399400,446200,340300,1380400,45.5
 nz,New Zealand,New Zealand,new zealand,1996,859500,1433900,1008500,430100,3732000,32.9
 nz,New Zealand,New Zealand,new zealand,2001,877200,1388800,1153900,460600,3880500,34.7
 nz,New Zealand,New Zealand,new zealand,2006,888300,1463700,1321000,511600,4184600,35.8
 nz,New Zealand,New Zealand,new zealand,2013,908800,1452300,1455000,626000,4442100,37.6
 nz,New Zealand,New Zealand,new zealand,2018,946400,1676900,1542300,734900,4900600,37.2
-nz,New Zealand,New Zealand,new zealand,2023,961600,1769800,1614700,876300,5222400,38.3
-nz,New Zealand,New Zealand,new zealand,2028,932900,1834000,1657200,1036300,5460500,39.5
-nz,New Zealand,New Zealand,new zealand,2033,918900,1834400,1749900,1175800,5679000,41
-nz,New Zealand,New Zealand,new zealand,2038,922700,1838800,1812900,1302000,5876400,42.2
-nz,New Zealand,New Zealand,new zealand,2043,935500,1857100,1889600,1373500,6055800,43.1
-nz,New Zealand,New Zealand,new zealand,2048,949400,1861400,1965600,1439400,6215800,43.6
+nz,New Zealand,New Zealand,new zealand,2023,955700,1731500,1593500,868700,5149500,38.4
+nz,New Zealand,New Zealand,new zealand,2028,925100,1780900,1627900,1020200,5354100,39.6
+nz,New Zealand,New Zealand,new zealand,2033,912900,1783200,1715800,1152500,5564400,41.1
+nz,New Zealand,New Zealand,new zealand,2038,911400,1797900,1771500,1272000,5752800,42.2
+nz,New Zealand,New Zealand,new zealand,2043,919000,1823900,1843300,1337800,5924000,42.9
+nz,New Zealand,New Zealand,new zealand,2048,930700,1828300,1919400,1398700,6077100,43.5
+ta,Far North District,Far North,far north,1996,15200,17700,15600,6000,54400,33.4
+ta,Far North District,Far North,far north,2001,14900,16400,18100,6900,56300,36.3
+ta,Far North District,Far North,far north,2006,13800,15700,20000,7700,57300,39
+ta,Far North District,Far North,far north,2013,13800,15100,21300,10500,60600,42
+ta,Far North District,Far North,far north,2018,14500,17600,22800,13000,67900,42.8
+ta,Far North District,Far North,far north,2023,15000,20000,24100,15600,74700,43.1
+ta,Far North District,Far North,far north,2028,14500,20700,24000,18500,77700,44.3
+ta,Far North District,Far North,far north,2033,14300,20500,24400,21000,80300,45.5
+ta,Far North District,Far North,far north,2038,14500,20400,24800,22800,82400,46.7
+ta,Far North District,Far North,far north,2043,14700,20400,25400,23600,84200,47.6
+ta,Far North District,Far North,far north,2048,14900,20200,26400,24000,85600,48.1
+ta,Whangarei District,Whangarei,whangarei,1996,17300,23300,19100,8500,68100,33.9
+ta,Whangarei District,Whangarei,whangarei,2001,17000,21600,21700,9400,69700,36.6
+ta,Whangarei District,Whangarei,whangarei,2006,17200,22800,25200,11000,76200,38.4
+ta,Whangarei District,Whangarei,whangarei,2013,18400,22700,28000,14500,83700,40.7
+ta,Whangarei District,Whangarei,whangarei,2018,19500,26600,30300,17800,94100,41.1
+ta,Whangarei District,Whangarei,whangarei,2023,20000,29200,31400,21300,101800,41.6
+ta,Whangarei District,Whangarei,whangarei,2028,19400,30100,32300,25300,107000,43
+ta,Whangarei District,Whangarei,whangarei,2033,19100,30200,33700,28600,111500,44.4
+ta,Whangarei District,Whangarei,whangarei,2038,19100,30300,34700,31400,115400,45.8
+ta,Whangarei District,Whangarei,whangarei,2043,19300,30800,36000,32800,118900,46.8
+ta,Whangarei District,Whangarei,whangarei,2048,19600,30900,37600,33900,122000,47.4
+ta,Kaipara District,Kaipara,kaipara,1996,4700,5700,5200,2150,17750,34.4
+ta,Kaipara District,Kaipara,kaipara,2001,4450,5150,6000,2300,17900,37.7
+ta,Kaipara District,Kaipara,kaipara,2006,4250,4950,6550,2700,18500,40.2
+ta,Kaipara District,Kaipara,kaipara,2013,4200,5000,7300,4000,20500,44.1
+ta,Kaipara District,Kaipara,kaipara,2018,4600,5900,8100,5200,23700,45.7
+ta,Kaipara District,Kaipara,kaipara,2023,5100,6800,8800,6900,27700,46.6
+ta,Kaipara District,Kaipara,kaipara,2028,5300,6900,8800,8400,29400,48
+ta,Kaipara District,Kaipara,kaipara,2033,5200,7000,9100,9600,30800,49.1
+ta,Kaipara District,Kaipara,kaipara,2038,5200,7100,9200,10400,31900,50.2
+ta,Kaipara District,Kaipara,kaipara,2043,5200,7400,9400,10900,32900,51.3
+ta,Kaipara District,Kaipara,kaipara,2048,5300,7600,9600,11100,33700,51.7
+ta,Auckland,Auckland,auckland,1996,255600,451400,296500,108900,1112400,32.1
+ta,Auckland,Auckland,auckland,2001,277800,469900,351000,115400,1214100,33.2
+ta,Auckland,Auckland,auckland,2006,298200,525100,415600,128700,1367600,33.8
+ta,Auckland,Auckland,auckland,2013,311500,539400,472500,169800,1493200,34.8
+ta,Auckland,Auckland,auckland,2018,324100,630300,503400,197000,1654800,34.6
+ta,Auckland,Auckland,auckland,2023,324700,608400,523300,235900,1692400,36.6
+ta,Auckland,Auckland,auckland,2028,308300,635000,539100,283100,1765500,37.9
+ta,Auckland,Auckland,auckland,2033,301900,654100,572700,330700,1859400,39.1
+ta,Auckland,Auckland,auckland,2038,304800,670000,599500,374400,1948700,40
+ta,Auckland,Auckland,auckland,2043,313600,686800,634300,399400,2034100,40.6
+ta,Auckland,Auckland,auckland,2048,322800,695700,669400,426100,2114000,41.3
+ta,Thames-Coromandel District,Thames-Coromandel,thames coromandel,1996,5200,7100,8200,4700,25200,41
+ta,Thames-Coromandel District,Thames-Coromandel,thames coromandel,2001,5000,6400,9100,5100,25700,44
+ta,Thames-Coromandel District,Thames-Coromandel,thames coromandel,2006,4600,6400,10000,5500,26500,46.4
+ta,Thames-Coromandel District,Thames-Coromandel,thames coromandel,2013,4500,5500,10000,7300,27300,50.7
+ta,Thames-Coromandel District,Thames-Coromandel,thames coromandel,2018,4600,6200,10400,9500,30700,53.4
+ta,Thames-Coromandel District,Thames-Coromandel,thames coromandel,2023,4600,6900,10800,11700,34000,55.5
+ta,Thames-Coromandel District,Thames-Coromandel,thames coromandel,2028,4300,6900,10000,13300,34600,57.4
+ta,Thames-Coromandel District,Thames-Coromandel,thames coromandel,2033,4200,6600,9800,14200,34700,58.6
+ta,Thames-Coromandel District,Thames-Coromandel,thames coromandel,2038,4100,6300,9600,14600,34500,59.1
+ta,Thames-Coromandel District,Thames-Coromandel,thames coromandel,2043,4000,6000,9600,14400,34000,59.2
+ta,Thames-Coromandel District,Thames-Coromandel,thames coromandel,2048,3900,5800,9700,14100,33400,59.5
+ta,Hauraki District,Hauraki,hauraki,1996,5000,6250,5100,2150,18500,33.5
+ta,Hauraki District,Hauraki,hauraki,2001,4550,5150,5700,2500,17900,37.5
+ta,Hauraki District,Hauraki,hauraki,2006,4050,4850,6350,2950,18200,41.1
+ta,Hauraki District,Hauraki,hauraki,2013,3650,4500,6450,4000,18600,45
+ta,Hauraki District,Hauraki,hauraki,2018,3800,5100,6900,4800,20700,46.6
+ta,Hauraki District,Hauraki,hauraki,2023,4000,5600,7000,5900,22500,47.8
+ta,Hauraki District,Hauraki,hauraki,2028,3800,5500,6900,6900,23100,49.5
+ta,Hauraki District,Hauraki,hauraki,2033,3700,5100,7000,7600,23400,50.5
+ta,Hauraki District,Hauraki,hauraki,2038,3500,4900,6900,8200,23600,52
+ta,Hauraki District,Hauraki,hauraki,2043,3400,4800,7000,8400,23600,53.4
+ta,Hauraki District,Hauraki,hauraki,2048,3300,4700,7100,8400,23400,54.9
+ta,Waikato District,Waikato,waikato,1996,14300,18800,14300,4500,51800,31.6
+ta,Waikato District,Waikato,waikato,2001,14400,17800,16500,4900,53600,33.7
+ta,Waikato District,Waikato,waikato,2006,15000,18700,20000,5600,59300,35.7
+ta,Waikato District,Waikato,waikato,2013,16000,19200,23500,7800,66500,37.8
+ta,Waikato District,Waikato,waikato,2018,18000,23600,26800,9800,78200,37.3
+ta,Waikato District,Waikato,waikato,2023,20200,28500,29900,12800,91500,37.6
+ta,Waikato District,Waikato,waikato,2028,21000,30800,32500,16400,100700,39
+ta,Waikato District,Waikato,waikato,2033,21500,32200,35200,19800,108700,40.4
+ta,Waikato District,Waikato,waikato,2038,22300,34000,36900,23300,116500,41.3
+ta,Waikato District,Waikato,waikato,2043,23300,36000,38900,25800,124000,41.8
+ta,Waikato District,Waikato,waikato,2048,24400,37500,41300,28100,131300,42.2
+ta,Matamata-Piako District,Matamata-Piako,matamata piako,1996,7800,10800,7900,3700,30200,33
+ta,Matamata-Piako District,Matamata-Piako,matamata piako,2001,7500,9600,8900,4100,30200,35.6
+ta,Matamata-Piako District,Matamata-Piako,matamata piako,2006,7100,9400,9800,4700,31000,38
+ta,Matamata-Piako District,Matamata-Piako,matamata piako,2013,7100,9300,10600,5800,32900,40
+ta,Matamata-Piako District,Matamata-Piako,matamata piako,2018,7100,10400,11000,6900,35300,40.6
+ta,Matamata-Piako District,Matamata-Piako,matamata piako,2023,7300,11100,11000,8200,37600,41
+ta,Matamata-Piako District,Matamata-Piako,matamata piako,2028,7400,11200,10700,9400,38600,41.7
+ta,Matamata-Piako District,Matamata-Piako,matamata piako,2033,7400,10700,11000,10300,39500,42.9
+ta,Matamata-Piako District,Matamata-Piako,matamata piako,2038,7300,10500,11500,10900,40100,44.4
+ta,Matamata-Piako District,Matamata-Piako,matamata piako,2043,7000,10500,11900,11000,40400,45.7
+ta,Matamata-Piako District,Matamata-Piako,matamata piako,2048,6800,10500,12200,11100,40600,46.4
+ta,Hamilton City,Hamilton,hamilton,1996,25400,49500,27600,10800,113200,29.4
+ta,Hamilton City,Hamilton,hamilton,2001,27400,49900,32000,11500,120900,30.6
+ta,Hamilton City,Hamilton,hamilton,2006,29100,55300,36900,13100,134300,31.1
+ta,Hamilton City,Hamilton,hamilton,2013,32300,58700,42300,16800,150200,31.8
+ta,Hamilton City,Hamilton,hamilton,2018,35400,67600,46000,19500,168600,32.1
+ta,Hamilton City,Hamilton,hamilton,2023,37600,72500,49000,22500,181500,33.2
+ta,Hamilton City,Hamilton,hamilton,2028,38100,76100,53800,26000,194000,34.6
+ta,Hamilton City,Hamilton,hamilton,2033,38900,77000,60800,29300,206000,35.7
+ta,Hamilton City,Hamilton,hamilton,2038,39100,79800,65500,33300,217600,36.4
+ta,Hamilton City,Hamilton,hamilton,2043,39800,83600,69100,36600,229100,37.1
+ta,Hamilton City,Hamilton,hamilton,2048,41200,85900,73000,40500,240600,38
+ta,Waipa District,Waipa,waipa,1996,9500,13800,10300,4500,38200,33.6
+ta,Waipa District,Waipa,waipa,2001,9600,13000,12200,5000,39800,36
+ta,Waipa District,Waipa,waipa,2006,9700,13200,14500,6000,43500,38.3
+ta,Waipa District,Waipa,waipa,2013,10400,13800,16700,7700,48700,40.2
+ta,Waipa District,Waipa,waipa,2018,11200,16100,18000,9700,55000,40.2
+ta,Waipa District,Waipa,waipa,2023,11900,18200,18900,11800,60900,40.4
+ta,Waipa District,Waipa,waipa,2028,11800,18400,19400,13800,63500,41.8
+ta,Waipa District,Waipa,waipa,2033,11700,18200,20300,15400,65600,43.2
+ta,Waipa District,Waipa,waipa,2038,11500,18200,20700,17100,67400,44.6
+ta,Waipa District,Waipa,waipa,2043,11400,18400,21200,17900,68900,45.7
+ta,Waipa District,Waipa,waipa,2048,11400,18400,21700,18700,70200,46.4
+ta,Ōtorohanga District,Ōtorohanga,otorohanga,1996,2630,3760,2660,870,9930,31.6
+ta,Ōtorohanga District,Ōtorohanga,otorohanga,2001,2460,3490,2730,880,9560,32.4
+ta,Ōtorohanga District,Ōtorohanga,otorohanga,2006,2210,3130,3010,930,9290,35
+ta,Ōtorohanga District,Ōtorohanga,otorohanga,2013,2250,2960,3130,1250,9590,36.4
+ta,Ōtorohanga District,Ōtorohanga,otorohanga,2018,2350,3400,3250,1550,10500,36
+ta,Ōtorohanga District,Ōtorohanga,otorohanga,2023,2250,3550,3200,1800,10800,37.4
+ta,Ōtorohanga District,Ōtorohanga,otorohanga,2028,2100,3550,3300,2100,11050,39.1
+ta,Ōtorohanga District,Ōtorohanga,otorohanga,2033,2050,3500,3450,2300,11300,40.8
+ta,Ōtorohanga District,Ōtorohanga,otorohanga,2038,2050,3350,3600,2500,11450,42.2
+ta,Ōtorohanga District,Ōtorohanga,otorohanga,2043,2050,3300,3700,2550,11600,43.1
+ta,Ōtorohanga District,Ōtorohanga,otorohanga,2048,2100,3200,3850,2600,11700,43.8
+ta,South Waikato District,South Waikato,south waikato,1996,7700,9600,6500,2000,25800,29
+ta,South Waikato District,South Waikato,south waikato,2001,7000,8100,6800,2300,24200,31.8
+ta,South Waikato District,South Waikato,south waikato,2006,6100,7200,7100,2900,23200,34.9
+ta,South Waikato District,South Waikato,south waikato,2013,5500,6700,7400,3600,23200,37.7
+ta,South Waikato District,South Waikato,south waikato,2018,5700,7400,7700,4000,24800,37.3
+ta,South Waikato District,South Waikato,south waikato,2023,5800,8000,7700,4600,26100,37.5
+ta,South Waikato District,South Waikato,south waikato,2028,5700,8200,7600,5300,26900,38.8
+ta,South Waikato District,South Waikato,south waikato,2033,5600,7900,7900,6000,27500,40.4
+ta,South Waikato District,South Waikato,south waikato,2038,5600,7600,8300,6500,28000,42
+ta,South Waikato District,South Waikato,south waikato,2043,5600,7500,8600,6700,28400,43.2
+ta,South Waikato District,South Waikato,south waikato,2048,5500,7500,8900,6700,28700,43.9
+ta,Waitomo District,Waitomo,waitomo,1996,2750,3550,2750,1000,10000,32.3
+ta,Waitomo District,Waitomo,waitomo,2001,2590,3220,2930,1020,9750,34.3
+ta,Waitomo District,Waitomo,waitomo,2006,2480,3010,3080,1070,9650,34.9
+ta,Waitomo District,Waitomo,waitomo,2013,2250,2730,3100,1260,9340,37
+ta,Waitomo District,Waitomo,waitomo,2018,2110,2940,3100,1490,9630,37.9
+ta,Waitomo District,Waitomo,waitomo,2023,1970,2920,3120,1710,9720,39.7
+ta,Waitomo District,Waitomo,waitomo,2028,1860,2920,3000,1990,9770,40.9
+ta,Waitomo District,Waitomo,waitomo,2033,1780,2770,3010,2230,9790,42.5
+ta,Waitomo District,Waitomo,waitomo,2038,1740,2550,3110,2340,9740,44.2
+ta,Waitomo District,Waitomo,waitomo,2043,1690,2380,3230,2330,9630,45.8
+ta,Waitomo District,Waitomo,waitomo,2048,1610,2240,3240,2370,9450,47.2
+ta,Taupo District,Taupo,taupo,1996,8200,11600,8500,3300,31600,32.4
+ta,Taupo District,Taupo,taupo,2001,8000,10800,9900,3800,32400,35.1
+ta,Taupo District,Taupo,taupo,2006,7300,10600,11000,4400,33300,37.4
+ta,Taupo District,Taupo,taupo,2013,7500,9800,11600,5800,34800,40.1
+ta,Taupo District,Taupo,taupo,2018,7800,11000,12500,7300,38600,41.1
+ta,Taupo District,Taupo,taupo,2023,7900,11600,13200,9000,41700,43
+ta,Taupo District,Taupo,taupo,2028,7800,11600,13200,10500,43100,44.2
+ta,Taupo District,Taupo,taupo,2033,7600,11400,13400,11700,44100,45.5
+ta,Taupo District,Taupo,taupo,2038,7500,11400,13200,12700,44900,46.9
+ta,Taupo District,Taupo,taupo,2043,7400,11600,13200,13200,45400,47.7
+ta,Taupo District,Taupo,taupo,2048,7400,11400,13400,13500,45700,48.1
+ta,Western Bay of Plenty District,Western Bay of Plenty,western bay of plenty,1996,8600,10900,11100,4600,35200,36.7
+ta,Western Bay of Plenty District,Western Bay of Plenty,western bay of plenty,2001,9300,10600,13200,5400,38500,39
+ta,Western Bay of Plenty District,Western Bay of Plenty,western bay of plenty,2006,9100,11100,15800,6500,42500,41.7
+ta,Western Bay of Plenty District,Western Bay of Plenty,western bay of plenty,2013,9000,10900,16600,8600,45100,44.4
+ta,Western Bay of Plenty District,Western Bay of Plenty,western bay of plenty,2018,9700,13900,18400,11000,53000,44.9
+ta,Western Bay of Plenty District,Western Bay of Plenty,western bay of plenty,2023,10500,16700,19800,14200,61000,45.1
+ta,Western Bay of Plenty District,Western Bay of Plenty,western bay of plenty,2028,10700,16900,20100,17000,64700,46.2
+ta,Western Bay of Plenty District,Western Bay of Plenty,western bay of plenty,2033,11000,16300,21200,19300,67700,47.4
+ta,Western Bay of Plenty District,Western Bay of Plenty,western bay of plenty,2038,10800,16400,22000,21000,70200,48.8
+ta,Western Bay of Plenty District,Western Bay of Plenty,western bay of plenty,2043,10600,16900,22600,22200,72200,50.3
+ta,Western Bay of Plenty District,Western Bay of Plenty,western bay of plenty,2048,10500,17100,23300,23000,73900,51.2
+ta,Tauranga City,Tauranga,tauranga,1996,17300,26900,22300,13200,79700,36.4
+ta,Tauranga City,Tauranga,tauranga,2001,20500,29600,27900,15500,93400,37.8
+ta,Tauranga City,Tauranga,tauranga,2006,22200,33200,33400,17900,106600,38.9
+ta,Tauranga City,Tauranga,tauranga,2013,24800,34200,38400,22800,120200,40.6
+ta,Tauranga City,Tauranga,tauranga,2018,28300,42800,43700,27700,142500,40.1
+ta,Tauranga City,Tauranga,tauranga,2023,30900,50100,47300,33000,161300,39.9
+ta,Tauranga City,Tauranga,tauranga,2028,31400,51900,51400,38100,172700,41.3
+ta,Tauranga City,Tauranga,tauranga,2033,31500,51800,56400,42500,182200,42.9
+ta,Tauranga City,Tauranga,tauranga,2038,31300,53300,59100,47200,190900,44.5
+ta,Tauranga City,Tauranga,tauranga,2043,31600,55900,60800,50800,199200,45.4
+ta,Tauranga City,Tauranga,tauranga,2048,32700,56900,63200,54600,207400,45.8
+ta,Rotorua District,Rotorua,rotorua,1996,17800,25400,17000,6300,66400,30.7
+ta,Rotorua District,Rotorua,rotorua,2001,17300,23400,19200,6800,66700,32.8
+ta,Rotorua District,Rotorua,rotorua,2006,17000,22500,21000,7300,67900,34.4
+ta,Rotorua District,Rotorua,rotorua,2013,15800,21100,22200,9300,68400,36.8
+ta,Rotorua District,Rotorua,rotorua,2018,16400,24400,23400,10600,74800,36.1
+ta,Rotorua District,Rotorua,rotorua,2023,16200,25200,23600,12000,77000,37.1
+ta,Rotorua District,Rotorua,rotorua,2028,15200,25700,23800,14000,78700,38.7
+ta,Rotorua District,Rotorua,rotorua,2033,14600,25000,24900,15600,80100,40.4
+ta,Rotorua District,Rotorua,rotorua,2038,14000,24500,25400,17200,81100,41.9
+ta,Rotorua District,Rotorua,rotorua,2043,13800,24100,25800,18100,81800,43
+ta,Rotorua District,Rotorua,rotorua,2048,13700,23200,26600,18600,82200,43.9
+ta,Whakatane District,Whakatane,whakatane,1996,9600,12200,8900,3500,34100,31.3
+ta,Whakatane District,Whakatane,whakatane,2001,9300,10900,10000,3700,34000,33.4
+ta,Whakatane District,Whakatane,whakatane,2006,8600,10400,11100,4200,34300,36
+ta,Whakatane District,Whakatane,whakatane,2013,8000,9500,11500,5200,34200,39.1
+ta,Whakatane District,Whakatane,whakatane,2018,8200,10600,12000,6300,37100,39.4
+ta,Whakatane District,Whakatane,whakatane,2023,8200,11100,11800,7400,38500,39.9
+ta,Whakatane District,Whakatane,whakatane,2028,7900,11100,11400,8700,39100,41.3
+ta,Whakatane District,Whakatane,whakatane,2033,7600,10800,11600,9500,39400,42.7
+ta,Whakatane District,Whakatane,whakatane,2038,7300,10400,11700,10100,39500,44.1
+ta,Whakatane District,Whakatane,whakatane,2043,7100,10200,11700,10300,39400,45.3
+ta,Whakatane District,Whakatane,whakatane,2048,7000,9700,12100,10300,39100,46.1
+ta,Kawerau District,Kawerau,kawerau,1996,2680,3050,1900,480,8110,26.6
+ta,Kawerau District,Kawerau,kawerau,2001,2290,2390,1950,650,7280,30.1
+ta,Kawerau District,Kawerau,kawerau,2006,1980,2180,2090,880,7130,33.7
+ta,Kawerau District,Kawerau,kawerau,2013,1710,1880,1910,1150,6650,36.2
+ta,Kawerau District,Kawerau,kawerau,2018,1760,2130,2100,1470,7460,37.8
+ta,Kawerau District,Kawerau,kawerau,2023,1730,2270,2160,1750,7900,39.5
+ta,Kawerau District,Kawerau,kawerau,2028,1680,2200,2060,2030,7970,41.2
+ta,Kawerau District,Kawerau,kawerau,2033,1590,2130,2090,2170,7970,42.9
+ta,Kawerau District,Kawerau,kawerau,2038,1510,2020,2120,2250,7900,44.6
+ta,Kawerau District,Kawerau,kawerau,2043,1440,1910,2180,2250,7780,46.2
+ta,Kawerau District,Kawerau,kawerau,2048,1370,1790,2200,2250,7620,47.7
+ta,Ōpōtiki District,Ōpōtiki,opotiki,1996,2890,3210,2500,1010,9610,31.3
+ta,Ōpōtiki District,Ōpōtiki,opotiki,2001,2720,2780,2830,1140,9460,34.2
+ta,Ōpōtiki District,Ōpōtiki,opotiki,2006,2480,2510,2930,1250,9160,36.7
+ta,Ōpōtiki District,Ōpōtiki,opotiki,2013,2020,2300,2980,1480,8780,40.8
+ta,Ōpōtiki District,Ōpōtiki,opotiki,2018,2140,2720,3120,1680,9670,39.7
+ta,Ōpōtiki District,Ōpōtiki,opotiki,2023,2250,3150,3250,1950,10650,39
+ta,Ōpōtiki District,Ōpōtiki,opotiki,2028,2300,3050,3100,2400,10850,40.5
+ta,Ōpōtiki District,Ōpōtiki,opotiki,2033,2300,2850,3250,2650,11050,42.5
+ta,Ōpōtiki District,Ōpōtiki,opotiki,2038,2250,2700,3300,2850,11150,44.4
+ta,Ōpōtiki District,Ōpōtiki,opotiki,2043,2150,2650,3400,2900,11100,45.9
+ta,Ōpōtiki District,Ōpōtiki,opotiki,2048,2100,2550,3550,2900,11050,47
+ta,Gisborne District,Gisborne,gisborne,1996,13100,16700,12100,5100,47000,31.4
+ta,Gisborne District,Gisborne,gisborne,2001,12600,14800,12900,5100,45400,32.8
+ta,Gisborne District,Gisborne,gisborne,2006,11900,14400,14200,5300,45700,34.6
+ta,Gisborne District,Gisborne,gisborne,2013,11700,14000,14900,6400,47000,35.9
+ta,Gisborne District,Gisborne,gisborne,2018,11600,15000,15400,7500,49500,36.6
+ta,Gisborne District,Gisborne,gisborne,2023,11400,16100,15700,8900,52000,37.7
+ta,Gisborne District,Gisborne,gisborne,2028,10900,16100,15700,10400,53200,39.4
+ta,Gisborne District,Gisborne,gisborne,2033,10500,15500,16400,11600,54000,41.3
+ta,Gisborne District,Gisborne,gisborne,2038,10200,15000,16700,12700,54500,43
+ta,Gisborne District,Gisborne,gisborne,2043,10000,14500,17100,13200,54700,44.3
+ta,Gisborne District,Gisborne,gisborne,2048,9800,13900,17500,13400,54700,45.5
+ta,Wairoa District,Wairoa,wairoa,1996,3000,3550,2650,1000,10200,30.9
+ta,Wairoa District,Wairoa,wairoa,2001,2610,2830,2780,1020,9230,33.7
+ta,Wairoa District,Wairoa,wairoa,2006,2270,2490,2920,1010,8690,36.2
+ta,Wairoa District,Wairoa,wairoa,2013,2090,2260,2700,1270,8300,37.8
+ta,Wairoa District,Wairoa,wairoa,2018,2020,2480,2740,1490,8720,38.4
+ta,Wairoa District,Wairoa,wairoa,2023,2050,2760,2750,1740,9310,38.3
+ta,Wairoa District,Wairoa,wairoa,2028,1940,2860,2650,2020,9470,39.5
+ta,Wairoa District,Wairoa,wairoa,2033,1910,2760,2750,2180,9600,41.1
+ta,Wairoa District,Wairoa,wairoa,2038,1910,2600,2880,2290,9680,42.5
+ta,Wairoa District,Wairoa,wairoa,2043,1910,2480,3030,2290,9710,43.8
+ta,Wairoa District,Wairoa,wairoa,2048,1870,2380,3150,2280,9690,45
+ta,Hastings District,Hastings,hastings,1996,17300,24100,18600,7800,67900,33
+ta,Hastings District,Hastings,hastings,2001,17700,22500,20800,8200,69300,34.8
+ta,Hastings District,Hastings,hastings,2006,17500,22700,23600,9000,72800,36.5
+ta,Hastings District,Hastings,hastings,2013,17600,21600,25700,11700,76700,39.1
+ta,Hastings District,Hastings,hastings,2018,18100,25500,27100,14000,84700,38.7
+ta,Hastings District,Hastings,hastings,2023,18400,28400,28300,16300,91300,39
+ta,Hastings District,Hastings,hastings,2028,17900,29200,28900,19000,95000,40.3
+ta,Hastings District,Hastings,hastings,2033,18000,28500,30600,21100,98200,41.9
+ta,Hastings District,Hastings,hastings,2038,18000,28300,31600,23200,101100,43.2
+ta,Hastings District,Hastings,hastings,2043,18300,28600,32500,24400,103800,44.1
+ta,Hastings District,Hastings,hastings,2048,18500,28600,33500,25600,106200,44.6
+ta,Napier City,Napier,napier,1996,12200,19200,15500,7700,54600,35
+ta,Napier City,Napier,napier,2001,12300,17700,16900,8100,54900,37.1
+ta,Napier City,Napier,napier,2006,11900,17600,18400,8500,56500,38.5
+ta,Napier City,Napier,napier,2013,12100,16700,19800,10900,59600,41.2
+ta,Napier City,Napier,napier,2018,12500,18500,20600,12600,64200,41.6
+ta,Napier City,Napier,napier,2023,12500,19400,20900,14200,67000,42.2
+ta,Napier City,Napier,napier,2028,12000,19800,21000,16000,68900,43.2
+ta,Napier City,Napier,napier,2033,11700,19300,21800,17600,70400,44.4
+ta,Napier City,Napier,napier,2038,11500,19200,21800,19100,71700,45.8
+ta,Napier City,Napier,napier,2043,11500,19100,22100,20000,72600,46.8
+ta,Napier City,Napier,napier,2048,11500,18900,22500,20500,73400,47.5
+ta,Central Hawke's Bay District,Central Hawke's Bay,central hawkes bay,1996,3500,4550,3800,1450,13300,33.7
+ta,Central Hawke's Bay District,Central Hawke's Bay,central hawkes bay,2001,3200,4100,4300,1550,13150,36.5
+ta,Central Hawke's Bay District,Central Hawke's Bay,central hawkes bay,2006,2950,3800,4750,1700,13200,39.2
+ta,Central Hawke's Bay District,Central Hawke's Bay,central hawkes bay,2013,2750,3350,4900,2250,13250,43.2
+ta,Central Hawke's Bay District,Central Hawke's Bay,central hawkes bay,2018,3050,3650,5100,2850,14650,43.6
+ta,Central Hawke's Bay District,Central Hawke's Bay,central hawkes bay,2023,3250,4150,5100,3500,16000,43.6
+ta,Central Hawke's Bay District,Central Hawke's Bay,central hawkes bay,2028,3100,4200,5000,4200,16500,44.9
+ta,Central Hawke's Bay District,Central Hawke's Bay,central hawkes bay,2033,3000,4150,5100,4650,16900,46.3
+ta,Central Hawke's Bay District,Central Hawke's Bay,central hawkes bay,2038,3000,4100,5150,4950,17250,47.5
+ta,Central Hawke's Bay District,Central Hawke's Bay,central hawkes bay,2043,3100,4050,5250,5150,17550,48.3
+ta,Central Hawke's Bay District,Central Hawke's Bay,central hawkes bay,2048,3150,3950,5400,5200,17700,48.7
+ta,New Plymouth District,New Plymouth,new plymouth,1996,16400,24900,19100,9000,69400,34.4
+ta,New Plymouth District,New Plymouth,new plymouth,2001,15600,21700,21100,9700,68000,37.2
+ta,New Plymouth District,New Plymouth,new plymouth,2006,14600,22300,23300,10500,70700,38.7
+ta,New Plymouth District,New Plymouth,new plymouth,2013,15800,22400,26100,12800,77100,40.3
+ta,New Plymouth District,New Plymouth,new plymouth,2018,16800,24600,27200,14700,83300,40.3
+ta,New Plymouth District,New Plymouth,new plymouth,2023,17200,25800,28100,17300,88300,41.1
+ta,New Plymouth District,New Plymouth,new plymouth,2028,16600,26000,28400,20100,91200,42.5
+ta,New Plymouth District,New Plymouth,new plymouth,2033,16100,25800,29600,22100,93600,43.9
+ta,New Plymouth District,New Plymouth,new plymouth,2038,15700,26100,29700,24000,95500,45.3
+ta,New Plymouth District,New Plymouth,new plymouth,2043,15600,26600,29600,25400,97200,46
+ta,New Plymouth District,New Plymouth,new plymouth,2048,15800,26000,30100,26600,98600,46.3
+ta,Stratford District,Stratford,stratford,1996,2530,3440,2510,1240,9720,33.1
+ta,Stratford District,Stratford,stratford,2001,2210,2910,2700,1250,9070,35.9
+ta,Stratford District,Stratford,stratford,2006,2070,2760,2910,1340,9080,38
+ta,Stratford District,Stratford,stratford,2013,2030,2750,2970,1460,9210,38.6
+ta,Stratford District,Stratford,stratford,2018,2070,2890,3090,1670,9710,39.2
+ta,Stratford District,Stratford,stratford,2023,2150,3000,3100,2000,10250,39.7
+ta,Stratford District,Stratford,stratford,2028,2100,2950,3050,2350,10450,41.3
+ta,Stratford District,Stratford,stratford,2033,2050,2750,3100,2650,10550,43
+ta,Stratford District,Stratford,stratford,2038,2000,2700,3100,2800,10600,44.8
+ta,Stratford District,Stratford,stratford,2043,1900,2650,3150,2900,10550,46
+ta,Stratford District,Stratford,stratford,2048,1800,2650,3150,2850,10450,46.9
+ta,South Taranaki District,South Taranaki,south taranaki,1996,7900,10600,7900,3300,29700,32
+ta,South Taranaki District,South Taranaki,south taranaki,2001,7200,9400,8200,3400,28200,34.3
+ta,South Taranaki District,South Taranaki,south taranaki,2006,6400,8600,8500,3500,27000,36.2
+ta,South Taranaki District,South Taranaki,south taranaki,2013,6300,8300,8900,4000,27500,37.5
+ta,South Taranaki District,South Taranaki,south taranaki,2018,6300,8400,9200,4400,28300,38.4
+ta,South Taranaki District,South Taranaki,south taranaki,2023,6200,8800,9400,5100,29600,39.3
+ta,South Taranaki District,South Taranaki,south taranaki,2028,5900,8700,9400,6000,30000,41
+ta,South Taranaki District,South Taranaki,south taranaki,2033,5600,8400,9500,6700,30100,42.7
+ta,South Taranaki District,South Taranaki,south taranaki,2038,5300,8400,9100,7300,30100,44.2
+ta,South Taranaki District,South Taranaki,south taranaki,2043,5100,8100,9300,7500,29900,45
+ta,South Taranaki District,South Taranaki,south taranaki,2048,4900,7700,9300,7600,29600,46
+ta,Ruapehu District,Ruapehu,ruapehu,1996,4950,7000,3950,1400,17300,28.7
+ta,Ruapehu District,Ruapehu,ruapehu,2001,4050,5300,4200,1400,14950,32.4
+ta,Ruapehu District,Ruapehu,ruapehu,2006,3500,4600,4450,1450,14000,34.8
+ta,Ruapehu District,Ruapehu,ruapehu,2013,2900,3750,4200,1600,12450,37.2
+ta,Ruapehu District,Ruapehu,ruapehu,2018,2800,3800,4200,1950,12750,38.6
+ta,Ruapehu District,Ruapehu,ruapehu,2023,2600,3750,4000,2450,12850,40.2
+ta,Ruapehu District,Ruapehu,ruapehu,2028,2350,3650,3900,2900,12850,42.4
+ta,Ruapehu District,Ruapehu,ruapehu,2033,2200,3300,3950,3250,12700,44.6
+ta,Ruapehu District,Ruapehu,ruapehu,2038,2100,3000,4000,3400,12450,46.9
+ta,Ruapehu District,Ruapehu,ruapehu,2043,1950,2800,3950,3400,12100,49.1
+ta,Ruapehu District,Ruapehu,ruapehu,2048,1800,2550,3950,3350,11650,51
+ta,Whanganui District,Whanganui,whanganui,1996,11000,15800,12400,6700,45800,34.5
+ta,Whanganui District,Whanganui,whanganui,2001,10300,13800,13300,6800,44200,37.2
+ta,Whanganui District,Whanganui,whanganui,2006,9400,12800,14100,7200,43400,39.6
+ta,Whanganui District,Whanganui,whanganui,2013,8800,11800,14600,8300,43500,42
+ta,Whanganui District,Whanganui,whanganui,2018,9100,13100,15100,9500,46800,42.5
+ta,Whanganui District,Whanganui,whanganui,2023,9200,13700,15100,10800,48900,42.8
+ta,Whanganui District,Whanganui,whanganui,2028,9000,13800,14800,12300,49900,43.8
+ta,Whanganui District,Whanganui,whanganui,2033,8800,13300,15200,13400,50700,45
+ta,Whanganui District,Whanganui,whanganui,2038,8600,12800,15300,14300,51100,46.4
+ta,Whanganui District,Whanganui,whanganui,2043,8300,12800,15500,14600,51200,47.7
+ta,Whanganui District,Whanganui,whanganui,2048,8200,12700,15500,14700,51100,48.6
+ta,Rangitikei District,Rangitikei,rangitikei,1996,4500,5950,4400,1850,16700,32.6
+ta,Rangitikei District,Rangitikei,rangitikei,2001,3900,4850,4750,1950,15450,35.9
+ta,Rangitikei District,Rangitikei,rangitikei,2006,3400,4450,5100,2100,15050,38.6
+ta,Rangitikei District,Rangitikei,rangitikei,2013,3100,3950,4950,2500,14550,41.2
+ta,Rangitikei District,Rangitikei,rangitikei,2018,3150,4400,5000,2850,15450,41
+ta,Rangitikei District,Rangitikei,rangitikei,2023,3200,4750,5050,3250,16250,41.1
+ta,Rangitikei District,Rangitikei,rangitikei,2028,3200,4700,4900,3850,16600,42.2
+ta,Rangitikei District,Rangitikei,rangitikei,2033,3200,4450,4950,4300,16850,43.5
+ta,Rangitikei District,Rangitikei,rangitikei,2038,3150,4400,5000,4550,17050,45.1
+ta,Rangitikei District,Rangitikei,rangitikei,2043,3150,4300,5150,4550,17150,45.8
+ta,Rangitikei District,Rangitikei,rangitikei,2048,3100,4200,5350,4550,17200,46.5
+ta,Manawatu District,Manawatu,manawatu,1996,6800,9600,7300,2900,26700,33
+ta,Manawatu District,Manawatu,manawatu,2001,6400,8400,8200,3100,26100,35.8
+ta,Manawatu District,Manawatu,manawatu,2006,6000,8100,9000,3400,26700,38.1
+ta,Manawatu District,Manawatu,manawatu,2013,6000,8000,10000,4500,28500,40.6
+ta,Manawatu District,Manawatu,manawatu,2018,6400,8900,10400,5500,31100,40.8
+ta,Manawatu District,Manawatu,manawatu,2023,6800,10100,10700,6600,34200,40.4
+ta,Manawatu District,Manawatu,manawatu,2028,6800,10000,10800,7800,35400,42
+ta,Manawatu District,Manawatu,manawatu,2033,6600,9800,11100,8800,36300,43.7
+ta,Manawatu District,Manawatu,manawatu,2038,6300,9400,11600,9500,36900,45.4
+ta,Manawatu District,Manawatu,manawatu,2043,6000,9600,11700,10000,37300,47
+ta,Manawatu District,Manawatu,manawatu,2048,5900,9600,11700,10300,37600,48.1
+ta,Palmerston North City,Palmerston North,palmerston north,1996,16100,35100,18100,7600,76900,29.1
+ta,Palmerston North City,Palmerston North,palmerston north,2001,16200,32200,20400,8100,76800,31.1
+ta,Palmerston North City,Palmerston North,palmerston north,2006,16300,32500,22800,8800,80400,32.2
+ta,Palmerston North City,Palmerston North,palmerston north,2013,16700,31600,24300,10900,83500,33.3
+ta,Palmerston North City,Palmerston North,palmerston north,2018,17200,33700,25100,12300,88300,33.7
+ta,Palmerston North City,Palmerston North,palmerston north,2023,17300,34100,25300,13900,90600,34.8
+ta,Palmerston North City,Palmerston North,palmerston north,2028,16900,34500,25700,16200,93300,36.2
+ta,Palmerston North City,Palmerston North,palmerston north,2033,16500,34400,27000,17600,95600,37.4
+ta,Palmerston North City,Palmerston North,palmerston north,2038,16100,34400,27800,19100,97400,38.4
+ta,Palmerston North City,Palmerston North,palmerston north,2043,15800,34700,28500,20000,99000,39.1
+ta,Palmerston North City,Palmerston North,palmerston north,2048,15800,34800,28900,20800,100300,39.7
+ta,Tararua District,Tararua,tararua,1996,5200,6700,5350,2250,19450,33.4
+ta,Tararua District,Tararua,tararua,2001,4700,5600,5650,2300,18250,36.3
+ta,Tararua District,Tararua,tararua,2006,4300,5300,6000,2400,18000,37.8
+ta,Tararua District,Tararua,tararua,2013,3850,4600,6050,2950,17450,41.1
+ta,Tararua District,Tararua,tararua,2018,3900,5050,6150,3350,18450,41.5
+ta,Tararua District,Tararua,tararua,2023,3750,5400,6100,3900,19100,42.1
+ta,Tararua District,Tararua,tararua,2028,3550,5350,5950,4500,19350,43.4
+ta,Tararua District,Tararua,tararua,2033,3450,5150,5950,5000,19500,44.8
+ta,Tararua District,Tararua,tararua,2038,3400,4900,6000,5350,19600,46.3
+ta,Tararua District,Tararua,tararua,2043,3350,4700,6100,5400,19550,47.5
+ta,Tararua District,Tararua,tararua,2048,3250,4400,6250,5450,19350,48.5
+ta,Horowhenua District,Horowhenua,horowhenua,1996,7300,9800,8500,5100,30600,36.1
+ta,Horowhenua District,Horowhenua,horowhenua,2001,7000,8700,9400,5400,30400,39.3
+ta,Horowhenua District,Horowhenua,horowhenua,2006,6500,7900,10100,5900,30400,42.2
+ta,Horowhenua District,Horowhenua,horowhenua,2013,6000,7500,10400,7300,31200,45.7
+ta,Horowhenua District,Horowhenua,horowhenua,2018,6300,8800,11100,8300,34500,46.2
+ta,Horowhenua District,Horowhenua,horowhenua,2023,6700,9900,11400,9500,37500,45.8
+ta,Horowhenua District,Horowhenua,horowhenua,2028,6700,10200,11200,10700,38800,46.3
+ta,Horowhenua District,Horowhenua,horowhenua,2033,6900,9900,11400,11700,40000,46.8
+ta,Horowhenua District,Horowhenua,horowhenua,2038,6800,9800,11800,12400,40800,47.8
+ta,Horowhenua District,Horowhenua,horowhenua,2043,6700,9800,12300,12700,41500,48.9
+ta,Horowhenua District,Horowhenua,horowhenua,2048,6600,9900,12700,12900,42000,49.8
+ta,Kapiti Coast District,Kapiti Coast,kapiti coast,1996,8500,11200,11300,8200,39200,40
+ta,Kapiti Coast District,Kapiti Coast,kapiti coast,2001,9200,11200,13600,9300,43300,42.1
+ta,Kapiti Coast District,Kapiti Coast,kapiti coast,2006,9100,11700,15700,10600,47100,44.3
+ta,Kapiti Coast District,Kapiti Coast,kapiti coast,2013,9300,11300,17400,12700,50700,46.6
+ta,Kapiti Coast District,Kapiti Coast,kapiti coast,2018,9500,13000,18500,14200,55200,47.7
+ta,Kapiti Coast District,Kapiti Coast,kapiti coast,2023,9200,13700,19200,15600,57800,49
+ta,Kapiti Coast District,Kapiti Coast,kapiti coast,2028,8800,13800,19100,17400,59100,50
+ta,Kapiti Coast District,Kapiti Coast,kapiti coast,2033,8700,13300,19400,18900,60300,51
+ta,Kapiti Coast District,Kapiti Coast,kapiti coast,2038,8700,13000,18900,20500,61200,51.9
+ta,Kapiti Coast District,Kapiti Coast,kapiti coast,2043,8700,12900,19100,21100,61800,52.9
+ta,Kapiti Coast District,Kapiti Coast,kapiti coast,2048,8600,12400,19500,21700,62200,53.9
+ta,Porirua City,Porirua,porirua,1996,13400,18700,12700,3200,48100,29.6
+ta,Porirua City,Porirua,porirua,2001,13900,18400,13900,3300,49500,30.6
+ta,Porirua City,Porirua,porirua,2006,13100,18100,15400,3900,50500,32.6
+ta,Porirua City,Porirua,porirua,2013,13100,17400,17600,5600,53700,35.1
+ta,Porirua City,Porirua,porirua,2018,13700,19600,18700,6800,58900,35
+ta,Porirua City,Porirua,porirua,2023,13500,20800,19500,8300,62100,36.3
+ta,Porirua City,Porirua,porirua,2028,12900,21200,20300,9900,64300,38
+ta,Porirua City,Porirua,porirua,2033,12500,20900,21300,11500,66200,39.7
+ta,Porirua City,Porirua,porirua,2038,12300,20700,21700,13000,67800,40.9
+ta,Porirua City,Porirua,porirua,2043,12200,20600,22200,14100,69100,41.9
+ta,Porirua City,Porirua,porirua,2048,12200,20200,22800,15000,70200,42.9
+ta,Upper Hutt City,Upper Hutt,upper hutt,1996,8800,14700,10300,3800,37600,32.6
+ta,Upper Hutt City,Upper Hutt,upper hutt,2001,8800,13200,11300,4300,37500,34.9
+ta,Upper Hutt City,Upper Hutt,upper hutt,2006,8700,13200,12900,4800,39500,36.8
+ta,Upper Hutt City,Upper Hutt,upper hutt,2013,8400,12600,14400,5900,41300,39.4
+ta,Upper Hutt City,Upper Hutt,upper hutt,2018,8700,14700,15300,6700,45400,38.9
+ta,Upper Hutt City,Upper Hutt,upper hutt,2023,9100,16000,15800,7600,48500,38.8
+ta,Upper Hutt City,Upper Hutt,upper hutt,2028,9200,15700,16300,9000,50200,40.2
+ta,Upper Hutt City,Upper Hutt,upper hutt,2033,9200,14900,17400,10100,51600,42
+ta,Upper Hutt City,Upper Hutt,upper hutt,2038,8900,14600,18000,11300,52700,43.7
+ta,Upper Hutt City,Upper Hutt,upper hutt,2043,8600,14800,18300,12000,53600,45
+ta,Upper Hutt City,Upper Hutt,upper hutt,2048,8500,14900,18500,12500,54300,45.6
+ta,Lower Hutt City,Lower Hutt,lower hutt,1996,23500,38500,26500,10100,98500,32.4
+ta,Lower Hutt City,Lower Hutt,lower hutt,2001,23800,36000,29000,9900,98700,33.7
+ta,Lower Hutt City,Lower Hutt,lower hutt,2006,22900,35600,31800,10600,100800,35.1
+ta,Lower Hutt City,Lower Hutt,lower hutt,2013,21600,33000,33600,13000,101200,37.1
+ta,Lower Hutt City,Lower Hutt,lower hutt,2018,21600,37600,34800,14600,108600,36.8
+ta,Lower Hutt City,Lower Hutt,lower hutt,2023,21300,40200,35500,16100,113200,37.3
+ta,Lower Hutt City,Lower Hutt,lower hutt,2028,20800,40400,36700,18200,116100,38.5
+ta,Lower Hutt City,Lower Hutt,lower hutt,2033,20500,39100,39400,19800,118700,39.9
+ta,Lower Hutt City,Lower Hutt,lower hutt,2038,20200,37400,42200,21100,120900,41.3
+ta,Lower Hutt City,Lower Hutt,lower hutt,2043,19600,36800,44600,21500,122600,42.5
+ta,Lower Hutt City,Lower Hutt,lower hutt,2048,19100,36400,45700,22700,123900,43.5
+ta,Wellington City,Wellington,wellington,1996,30600,75700,43000,13700,163000,31.9
+ta,Wellington City,Wellington,wellington,2001,31500,76600,48400,14000,170600,32.9
+ta,Wellington City,Wellington,wellington,2006,32900,83700,55400,15000,187000,33.1
+ta,Wellington City,Wellington,wellington,2013,34100,82800,61600,18900,197500,33.9
+ta,Wellington City,Wellington,wellington,2018,33300,91400,64600,21900,211200,33.9
+ta,Wellington City,Wellington,wellington,2023,28800,94700,63800,24700,212000,34.2
+ta,Wellington City,Wellington,wellington,2028,26100,99400,61100,29500,216100,34.8
+ta,Wellington City,Wellington,wellington,2033,26300,101200,60500,34200,222200,35.5
+ta,Wellington City,Wellington,wellington,2038,28200,99800,62000,38000,228000,36.5
+ta,Wellington City,Wellington,wellington,2043,29100,97900,66500,39600,233100,37.4
+ta,Wellington City,Wellington,wellington,2048,29100,96300,71700,40200,237300,38.3
+ta,Masterton District,Masterton,masterton,1996,5800,7700,6600,3200,23200,34.8
+ta,Masterton District,Masterton,masterton,2001,5400,6900,7300,3500,23100,37.9
+ta,Masterton District,Masterton,masterton,2006,4900,6600,7800,3800,23000,40.4
+ta,Masterton District,Masterton,masterton,2013,4800,6400,8200,4600,24100,42.5
+ta,Masterton District,Masterton,masterton,2018,5000,7400,8500,5500,26400,42.9
+ta,Masterton District,Masterton,masterton,2023,5400,8700,8900,6600,29700,42.2
+ta,Masterton District,Masterton,masterton,2028,5600,8600,8800,7500,30600,43
+ta,Masterton District,Masterton,masterton,2033,5600,8100,9300,8200,31300,44.1
+ta,Masterton District,Masterton,masterton,2038,5400,8000,9500,8700,31700,45.8
+ta,Masterton District,Masterton,masterton,2043,5200,8200,9700,8800,31900,47
+ta,Masterton District,Masterton,masterton,2048,5100,8300,9800,8900,32100,47.7
+ta,Carterton District,Carterton,carterton,1996,1690,2190,2120,930,6930,36.1
+ta,Carterton District,Carterton,carterton,2001,1600,1980,2420,960,6960,39.3
+ta,Carterton District,Carterton,carterton,2006,1520,1960,2690,1040,7220,41.3
+ta,Carterton District,Carterton,carterton,2013,1690,2050,3130,1610,8490,44.1
+ta,Carterton District,Carterton,carterton,2018,1780,2250,3350,2130,9510,46.2
+ta,Carterton District,Carterton,carterton,2023,1850,2450,3450,2650,10400,47.8
+ta,Carterton District,Carterton,carterton,2028,1800,2550,3300,3150,10750,49.2
+ta,Carterton District,Carterton,carterton,2033,1850,2550,3250,3450,11100,50
+ta,Carterton District,Carterton,carterton,2038,1900,2550,3200,3700,11300,50
+ta,Carterton District,Carterton,carterton,2043,1950,2600,3200,3800,11500,50.2
+ta,Carterton District,Carterton,carterton,2048,2000,2600,3250,3800,11650,50.1
+ta,South Wairarapa District,South Wairarapa,south wairarapa,1996,2220,2900,2790,1220,9130,36
+ta,South Wairarapa District,South Wairarapa,south wairarapa,2001,2000,2500,3130,1280,8910,39.8
+ta,South Wairarapa District,South Wairarapa,south wairarapa,2006,1890,2300,3430,1460,9080,42.9
+ta,South Wairarapa District,South Wairarapa,south wairarapa,2013,1920,2290,3680,1910,9800,44.9
+ta,South Wairarapa District,South Wairarapa,south wairarapa,2018,1950,2500,4100,2400,10900,46.9
+ta,South Wairarapa District,South Wairarapa,south wairarapa,2023,1950,2700,4300,2900,11850,48.6
+ta,South Wairarapa District,South Wairarapa,south wairarapa,2028,1900,2750,4250,3400,12350,50.2
+ta,South Wairarapa District,South Wairarapa,south wairarapa,2033,1950,2650,4300,3800,12700,51
+ta,South Wairarapa District,South Wairarapa,south wairarapa,2038,1950,2650,4200,4150,12950,51.8
+ta,South Wairarapa District,South Wairarapa,south wairarapa,2043,1900,2700,4150,4350,13150,52.6
+ta,South Wairarapa District,South Wairarapa,south wairarapa,2048,1900,2700,4250,4450,13250,53.3
+ta,Tasman District,Tasman,tasman,1996,9100,13300,11600,4700,38700,35.3
+ta,Tasman District,Tasman,tasman,2001,9700,13100,14100,5400,42300,37.8
+ta,Tasman District,Tasman,tasman,2006,9700,12900,16900,6000,45600,40.3
+ta,Tasman District,Tasman,tasman,2013,9700,11700,18700,8700,48800,44
+ta,Tasman District,Tasman,tasman,2018,9600,13300,19900,11200,54000,46
+ta,Tasman District,Tasman,tasman,2023,9400,15500,20500,14200,59600,47.1
+ta,Tasman District,Tasman,tasman,2028,9300,15600,20400,16900,62200,48.8
+ta,Tasman District,Tasman,tasman,2033,9600,15000,20500,19300,64400,50
+ta,Tasman District,Tasman,tasman,2038,9800,14600,20400,21400,66100,50.9
+ta,Tasman District,Tasman,tasman,2043,9800,14200,20900,22400,67200,51.9
+ta,Tasman District,Tasman,tasman,2048,9500,13800,21500,23000,67800,52.9
+ta,Nelson City,Nelson,nelson,1996,8500,15300,11500,5600,41000,35
+ta,Nelson City,Nelson,nelson,2001,8900,14500,13400,5800,42600,37.2
+ta,Nelson City,Nelson,nelson,2006,8400,14100,15400,6100,44000,39.4
+ta,Nelson City,Nelson,nelson,2013,9200,13600,17500,8400,48700,42.2
+ta,Nelson City,Nelson,nelson,2018,9200,15300,18200,10000,52700,43
+ta,Nelson City,Nelson,nelson,2023,8900,15400,18200,11900,54500,44.4
+ta,Nelson City,Nelson,nelson,2028,8200,15500,18100,14000,55800,46
+ta,Nelson City,Nelson,nelson,2033,7800,15000,18300,15600,56700,47.5
+ta,Nelson City,Nelson,nelson,2038,7500,14800,18000,17000,57300,49
+ta,Nelson City,Nelson,nelson,2043,7400,14400,18100,17600,57500,50.3
+ta,Nelson City,Nelson,nelson,2048,7300,13900,18200,18100,57400,51.1
+ta,Marlborough District,Marlborough,marlborough,1996,8700,13400,11600,5400,39100,36
+ta,Marlborough District,Marlborough,marlborough,2001,8500,12300,13700,6100,40600,39.4
+ta,Marlborough District,Marlborough,marlborough,2006,8000,12700,15800,6900,43300,41.8
+ta,Marlborough District,Marlborough,marlborough,2013,8100,11600,15900,9100,44700,44.6
+ta,Marlborough District,Marlborough,marlborough,2018,8400,12900,16600,10800,48700,45.2
+ta,Marlborough District,Marlborough,marlborough,2023,8400,14200,16900,12500,52000,45.7
+ta,Marlborough District,Marlborough,marlborough,2028,7900,14000,17100,14300,53200,47.1
+ta,Marlborough District,Marlborough,marlborough,2033,7500,13300,17700,15600,54200,48.5
+ta,Marlborough District,Marlborough,marlborough,2038,7300,12700,18200,16500,54700,49.9
+ta,Marlborough District,Marlborough,marlborough,2043,7300,12400,18300,17100,55100,51.4
+ta,Marlborough District,Marlborough,marlborough,2048,7300,12000,18500,17500,55200,52.6
+ta,Kaikoura District,Kaikoura,kaikoura,1996,840,1170,1060,500,3580,36
+ta,Kaikoura District,Kaikoura,kaikoura,2001,710,1090,1230,540,3570,39.9
+ta,Kaikoura District,Kaikoura,kaikoura,2006,690,1110,1370,540,3710,41.3
+ta,Kaikoura District,Kaikoura,kaikoura,2013,630,910,1380,710,3640,45.7
+ta,Kaikoura District,Kaikoura,kaikoura,2018,650,1100,1450,850,4060,46
+ta,Kaikoura District,Kaikoura,kaikoura,2023,670,1070,1360,1050,4150,47.1
+ta,Kaikoura District,Kaikoura,kaikoura,2028,670,1040,1290,1200,4200,48.1
+ta,Kaikoura District,Kaikoura,kaikoura,2033,640,990,1310,1270,4210,49
+ta,Kaikoura District,Kaikoura,kaikoura,2038,590,970,1290,1310,4180,49.9
+ta,Kaikoura District,Kaikoura,kaikoura,2043,570,990,1260,1300,4120,50.9
+ta,Kaikoura District,Kaikoura,kaikoura,2048,570,1000,1210,1280,4070,51.3
+ta,Buller District,Buller,buller,1996,2650,3550,3150,1350,10700,35.4
+ta,Buller District,Buller,buller,2001,2220,2800,3380,1440,9840,39.5
+ta,Buller District,Buller,buller,2006,1930,2640,3800,1510,9890,42.5
+ta,Buller District,Buller,buller,2013,2000,2750,4150,1750,10650,43.9
+ta,Buller District,Buller,buller,2018,1610,2240,3750,2250,9850,49.3
+ta,Buller District,Buller,buller,2023,1410,2050,3400,2810,9680,53.1
+ta,Buller District,Buller,buller,2028,1330,2000,2980,3240,9550,54.5
+ta,Buller District,Buller,buller,2033,1260,1850,2790,3440,9340,55
+ta,Buller District,Buller,buller,2038,1170,1710,2710,3420,9020,55.1
+ta,Buller District,Buller,buller,2043,1080,1640,2650,3240,8620,55.3
+ta,Buller District,Buller,buller,2048,1010,1510,2660,3020,8190,55.9
+ta,Grey District,Grey,grey,1996,3350,5100,3900,1600,13950,34
+ta,Grey District,Grey,grey,2001,3050,4150,4300,1650,13150,37.2
+ta,Grey District,Grey,grey,2006,2950,4100,4700,1800,13450,38.8
+ta,Grey District,Grey,grey,2013,2750,3750,5050,2200,13700,41.7
+ta,Grey District,Grey,grey,2018,2600,3750,4900,2500,13750,43.6
+ta,Grey District,Grey,grey,2023,2600,4000,4650,2950,14200,43.6
+ta,Grey District,Grey,grey,2028,2400,4050,4400,3400,14250,43.9
+ta,Grey District,Grey,grey,2033,2350,3750,4350,3750,14200,44.9
+ta,Grey District,Grey,grey,2038,2250,3650,4200,3950,14050,46.4
+ta,Grey District,Grey,grey,2043,2100,3500,4300,3850,13800,47.5
+ta,Grey District,Grey,grey,2048,2000,3350,4450,3650,13450,48.2
+ta,Westland District,Westland,westland,1996,1980,3080,2420,960,8430,34.2
+ta,Westland District,Westland,westland,2001,1710,2580,2720,970,7970,37.8
+ta,Westland District,Westland,westland,2006,1660,2670,3230,1030,8580,39.8
+ta,Westland District,Westland,westland,2013,1580,2420,3240,1320,8570,42.4
+ta,Westland District,Westland,westland,2018,1450,2580,3220,1580,8830,44.2
+ta,Westland District,Westland,westland,2023,1370,2500,3090,1900,8860,45.6
+ta,Westland District,Westland,westland,2028,1290,2450,2920,2250,8900,46.8
+ta,Westland District,Westland,westland,2033,1180,2240,2930,2510,8860,47.8
+ta,Westland District,Westland,westland,2038,1100,2110,2890,2640,8750,49.1
+ta,Westland District,Westland,westland,2043,1040,2020,2920,2600,8580,50.9
+ta,Westland District,Westland,westland,2048,980,1880,2950,2540,8360,52.2
+ta,Hurunui District,Hurunui,hurunui,1996,2300,3050,3090,1150,9600,36.7
+ta,Hurunui District,Hurunui,hurunui,2001,2350,2850,3600,1300,10100,39.1
+ta,Hurunui District,Hurunui,hurunui,2006,2300,2850,4050,1500,10750,41.3
+ta,Hurunui District,Hurunui,hurunui,2013,2350,3100,4450,2100,12000,43.4
+ta,Hurunui District,Hurunui,hurunui,2018,2450,3400,4550,2550,12950,44.1
+ta,Hurunui District,Hurunui,hurunui,2023,2450,3650,4550,3100,13750,45.3
+ta,Hurunui District,Hurunui,hurunui,2028,2350,3650,4550,3650,14150,46.3
+ta,Hurunui District,Hurunui,hurunui,2033,2250,3450,4700,4050,14500,47.6
+ta,Hurunui District,Hurunui,hurunui,2038,2200,3300,4850,4350,14700,49
+ta,Hurunui District,Hurunui,hurunui,2043,2200,3300,4900,4500,14850,50.5
+ta,Hurunui District,Hurunui,hurunui,2048,2150,3150,5100,4500,14900,51.7
+ta,Waimakariri District,Waimakariri,waimakariri,1996,7500,11600,10000,3800,32900,35.3
+ta,Waimakariri District,Waimakariri,waimakariri,2001,8900,11800,12600,4500,37800,37.4
+ta,Waimakariri District,Waimakariri,waimakariri,2006,9900,12300,15700,6000,43900,39.8
+ta,Waimakariri District,Waimakariri,waimakariri,2013,10600,13300,19700,8700,52300,42.6
+ta,Waimakariri District,Waimakariri,waimakariri,2018,11600,16700,21600,11500,61300,43.4
+ta,Waimakariri District,Waimakariri,waimakariri,2023,12000,19200,23000,14800,69100,44.3
+ta,Waimakariri District,Waimakariri,waimakariri,2028,12200,20000,23600,17500,73400,45.2
+ta,Waimakariri District,Waimakariri,waimakariri,2033,12400,20000,24600,20100,77100,46.1
+ta,Waimakariri District,Waimakariri,waimakariri,2038,12700,20500,24700,22600,80500,47.2
+ta,Waimakariri District,Waimakariri,waimakariri,2043,13000,21400,25300,23800,83500,47.9
+ta,Waimakariri District,Waimakariri,waimakariri,2048,13400,21700,26500,24700,86400,48.1
+ta,Christchurch City,Christchurch,christchurch,1996,63400,130900,87800,42400,324500,33.8
+ta,Christchurch City,Christchurch,christchurch,2001,64400,126400,99200,43500,333600,35.5
+ta,Christchurch City,Christchurch,christchurch,2006,67300,133300,112700,46400,359700,36.3
+ta,Christchurch City,Christchurch,christchurch,2013,64000,123300,117400,52100,356700,38.1
+ta,Christchurch City,Christchurch,christchurch,2018,65100,142200,119800,56600,383800,36.9
+ta,Christchurch City,Christchurch,christchurch,2023,64100,143500,119700,62800,390200,37.7
+ta,Christchurch City,Christchurch,christchurch,2028,62200,146300,121800,70600,400800,38.8
+ta,Christchurch City,Christchurch,christchurch,2033,62200,144500,130600,76900,414200,40.1
+ta,Christchurch City,Christchurch,christchurch,2038,61500,145700,136300,82800,426400,41
+ta,Christchurch City,Christchurch,christchurch,2043,61600,146100,144700,85200,437600,41.8
+ta,Christchurch City,Christchurch,christchurch,2048,61700,145800,152000,88300,447800,42.6
+ta,Selwyn District,Selwyn,selwyn,1996,5800,10300,7400,2000,25400,32.7
+ta,Selwyn District,Selwyn,selwyn,2001,6600,10000,9300,2300,28300,35
+ta,Selwyn District,Selwyn,selwyn,2006,7900,11500,12400,3100,34900,36.8
+ta,Selwyn District,Selwyn,selwyn,2013,10500,14000,17200,5000,46700,38.4
+ta,Selwyn District,Selwyn,selwyn,2018,13800,20100,22100,7300,63300,37.3
+ta,Selwyn District,Selwyn,selwyn,2023,17000,27900,27200,10700,82900,37.4
+ta,Selwyn District,Selwyn,selwyn,2028,18000,28900,31200,14300,92500,39.5
+ta,Selwyn District,Selwyn,selwyn,2033,18200,29500,34600,17900,100200,41.5
+ta,Selwyn District,Selwyn,selwyn,2038,18500,31100,35900,21900,107500,43
+ta,Selwyn District,Selwyn,selwyn,2043,19000,33400,36900,25200,114600,43.8
+ta,Selwyn District,Selwyn,selwyn,2048,20000,34400,38600,28500,121500,44.2
+ta,Ashburton District,Ashburton,ashburton,1996,5500,8400,7800,3900,25600,37.2
+ta,Ashburton District,Ashburton,ashburton,2001,5500,7800,8500,4100,25900,39.4
+ta,Ashburton District,Ashburton,ashburton,2006,5700,8400,9300,4400,27900,39.8
+ta,Ashburton District,Ashburton,ashburton,2013,6700,9700,10600,5300,32300,39.4
+ta,Ashburton District,Ashburton,ashburton,2018,7000,10900,10700,6100,34600,38.7
+ta,Ashburton District,Ashburton,ashburton,2023,6900,11900,10800,6900,36400,38.9
+ta,Ashburton District,Ashburton,ashburton,2028,6700,12200,11200,7600,37700,39.9
+ta,Ashburton District,Ashburton,ashburton,2033,6600,11900,12100,8200,38800,41.5
+ta,Ashburton District,Ashburton,ashburton,2038,6600,11700,12700,8800,39800,42.8
+ta,Ashburton District,Ashburton,ashburton,2043,6500,11900,13200,9100,40600,43.8
+ta,Ashburton District,Ashburton,ashburton,2048,6400,11900,13700,9400,41400,44.5
+ta,Timaru District,Timaru,timaru,1996,9300,14300,12800,6900,43300,37.2
+ta,Timaru District,Timaru,timaru,2001,8900,12600,13800,7200,42600,39.8
+ta,Timaru District,Timaru,timaru,2006,8300,12200,15300,7700,43500,42.2
+ta,Timaru District,Timaru,timaru,2013,8300,11900,16100,9100,45400,44.3
+ta,Timaru District,Timaru,timaru,2018,8400,13100,15800,10300,47600,44.3
+ta,Timaru District,Timaru,timaru,2023,8300,13700,15400,11300,48700,44.5
+ta,Timaru District,Timaru,timaru,2028,8000,13500,15200,12700,49400,45.2
+ta,Timaru District,Timaru,timaru,2033,7600,12800,15600,13700,49700,46.5
+ta,Timaru District,Timaru,timaru,2038,7300,12200,15800,14400,49800,48
+ta,Timaru District,Timaru,timaru,2043,7000,12000,16000,14600,49600,49.5
+ta,Timaru District,Timaru,timaru,2048,6900,11700,16200,14600,49300,50.6
+ta,Mackenzie District,Mackenzie,mackenzie,1996,960,1590,1240,370,4170,33.1
+ta,Mackenzie District,Mackenzie,mackenzie,2001,780,1220,1330,440,3780,38.3
+ta,Mackenzie District,Mackenzie,mackenzie,2006,760,1170,1470,490,3890,40.3
+ta,Mackenzie District,Mackenzie,mackenzie,2013,860,1170,1580,690,4300,41.6
+ta,Mackenzie District,Mackenzie,mackenzie,2018,840,1720,1710,830,5100,39.6
+ta,Mackenzie District,Mackenzie,mackenzie,2023,860,1850,1720,1030,5460,40.4
+ta,Mackenzie District,Mackenzie,mackenzie,2028,920,1820,1800,1250,5790,41.9
+ta,Mackenzie District,Mackenzie,mackenzie,2033,950,1680,2020,1430,6070,43.7
+ta,Mackenzie District,Mackenzie,mackenzie,2038,900,1660,2160,1560,6290,45.9
+ta,Mackenzie District,Mackenzie,mackenzie,2043,840,1680,2310,1620,6460,47.7
+ta,Mackenzie District,Mackenzie,mackenzie,2048,810,1720,2410,1660,6600,49.1
+ta,Waimate District,Waimate,waimate,1996,1810,2300,2440,1190,7750,38.1
+ta,Waimate District,Waimate,waimate,2001,1570,1870,2520,1220,7170,41.6
+ta,Waimate District,Waimate,waimate,2006,1500,1790,2660,1380,7330,43.8
+ta,Waimate District,Waimate,waimate,2013,1420,1890,2780,1720,7810,45.5
+ta,Waimate District,Waimate,waimate,2018,1390,2100,2810,1820,8120,46.1
+ta,Waimate District,Waimate,waimate,2023,1310,2140,2800,2090,8330,47.8
+ta,Waimate District,Waimate,waimate,2028,1300,2100,2730,2340,8470,48.4
+ta,Waimate District,Waimate,waimate,2033,1310,1970,2770,2530,8580,48.8
+ta,Waimate District,Waimate,waimate,2038,1310,1890,2790,2660,8650,49.5
+ta,Waimate District,Waimate,waimate,2043,1320,1860,2850,2670,8700,50.6
+ta,Waimate District,Waimate,waimate,2048,1320,1800,2940,2660,8720,51.4
+ta,Chatham Islands Territory,Chatham Islands,chatham islands,1996,200,300,220,40,760,30.8
+ta,Chatham Islands Territory,Chatham Islands,chatham islands,2001,180,290,240,40,750,33.1
+ta,Chatham Islands Territory,Chatham Islands,chatham islands,2006,150,230,220,50,650,36.1
+ta,Chatham Islands Territory,Chatham Islands,chatham islands,2013,120,160,250,70,600,42.3
+ta,Chatham Islands Territory,Chatham Islands,chatham islands,2018,110,220,260,90,690,41.3
+ta,Chatham Islands Territory,Chatham Islands,chatham islands,2023,130,300,290,130,850,39.5
+ta,Chatham Islands Territory,Chatham Islands,chatham islands,2028,130,310,260,170,860,39.7
+ta,Chatham Islands Territory,Chatham Islands,chatham islands,2033,140,280,280,180,870,41.3
+ta,Chatham Islands Territory,Chatham Islands,chatham islands,2038,140,260,280,200,880,42.6
+ta,Chatham Islands Territory,Chatham Islands,chatham islands,2043,140,260,290,190,880,43.6
+ta,Chatham Islands Territory,Chatham Islands,chatham islands,2048,130,240,320,180,870,44.4
+ta,Waitaki District,Waitaki,waitaki,1996,4700,7000,6700,3600,21900,38.2
+ta,Waitaki District,Waitaki,waitaki,2001,4100,5400,7000,3800,20400,42.3
+ta,Waitaki District,Waitaki,waitaki,2006,3900,5000,7600,4000,20500,44.7
+ta,Waitaki District,Waitaki,waitaki,2013,4000,5200,7600,4700,21400,45.9
+ta,Waitaki District,Waitaki,waitaki,2018,4200,6000,7600,5200,22900,45.2
+ta,Waitaki District,Waitaki,waitaki,2023,4000,6800,7700,5800,24300,45.1
+ta,Waitaki District,Waitaki,waitaki,2028,3700,6800,7600,6500,24600,46
+ta,Waitaki District,Waitaki,waitaki,2033,3500,6600,7700,7000,24800,47
+ta,Waitaki District,Waitaki,waitaki,2038,3500,6200,8000,7200,24900,48.1
+ta,Waitaki District,Waitaki,waitaki,2043,3500,5800,8300,7300,24900,49.4
+ta,Waitaki District,Waitaki,waitaki,2048,3400,5500,8500,7300,24800,50.5
+ta,Central Otago District,Central Otago,central otago,1996,3300,4800,4800,2250,15200,37.8
+ta,Central Otago District,Central Otago,central otago,2001,2900,3850,5350,2550,14700,42.6
+ta,Central Otago District,Central Otago,central otago,2006,3150,4550,6400,2900,16950,43.5
+ta,Central Otago District,Central Otago,central otago,2013,3400,4250,6950,3900,18500,46.6
+ta,Central Otago District,Central Otago,central otago,2018,3700,5800,7800,5000,22200,46.2
+ta,Central Otago District,Central Otago,central otago,2023,4000,7200,8600,6300,26100,45.9
+ta,Central Otago District,Central Otago,central otago,2028,4200,7100,9000,7400,27800,46.8
+ta,Central Otago District,Central Otago,central otago,2033,4300,6700,9700,8400,29200,48.1
+ta,Central Otago District,Central Otago,central otago,2038,4300,6700,10200,9200,30400,49.5
+ta,Central Otago District,Central Otago,central otago,2043,4300,7200,10400,9700,31500,51.1
+ta,Central Otago District,Central Otago,central otago,2048,4500,7400,10600,10000,32600,52.1
+ta,Queenstown-Lakes District,Queenstown-Lakes,queenstown lakes,1996,2650,6850,3900,1400,14800,32.9
+ta,Queenstown-Lakes District,Queenstown-Lakes,queenstown lakes,2001,3200,7500,5400,1700,17800,34.4
+ta,Queenstown-Lakes District,Queenstown-Lakes,queenstown lakes,2006,3900,10700,7500,2000,24000,34.5
+ta,Queenstown-Lakes District,Queenstown-Lakes,queenstown lakes,2013,5400,11300,9800,3200,29700,36.3
+ta,Queenstown-Lakes District,Queenstown-Lakes,queenstown lakes,2018,6700,19100,12300,4300,42500,33.8
+ta,Queenstown-Lakes District,Queenstown-Lakes,queenstown lakes,2023,7800,21900,15000,5800,50400,35.8
+ta,Queenstown-Lakes District,Queenstown-Lakes,queenstown lakes,2028,8100,21500,17800,7400,54800,38.2
+ta,Queenstown-Lakes District,Queenstown-Lakes,queenstown lakes,2033,8400,20100,21400,8800,58700,40.7
+ta,Queenstown-Lakes District,Queenstown-Lakes,queenstown lakes,2038,8300,21300,22200,10700,62400,42.2
+ta,Queenstown-Lakes District,Queenstown-Lakes,queenstown lakes,2043,8200,22800,22400,12600,66000,42.8
+ta,Queenstown-Lakes District,Queenstown-Lakes,queenstown lakes,2048,8400,23500,22900,14600,69400,43.3
+ta,Dunedin City,Dunedin,dunedin,1996,22800,51500,30800,15100,120200,32.3
+ta,Dunedin City,Dunedin,dunedin,2001,21500,48400,33900,14800,118600,33.8
+ta,Dunedin City,Dunedin,dunedin,2006,20300,49000,36800,15600,121700,34.8
+ta,Dunedin City,Dunedin,dunedin,2013,20000,46600,38600,18200,123500,36.4
+ta,Dunedin City,Dunedin,dunedin,2018,20300,50600,39700,20700,131200,36.3
+ta,Dunedin City,Dunedin,dunedin,2023,19800,48500,39000,23800,131100,38.2
+ta,Dunedin City,Dunedin,dunedin,2028,18800,49300,37900,27300,133300,39.1
+ta,Dunedin City,Dunedin,dunedin,2033,18200,49100,37900,29800,135000,40.1
+ta,Dunedin City,Dunedin,dunedin,2038,17800,49900,36500,32000,136200,40.3
+ta,Dunedin City,Dunedin,dunedin,2043,17800,50000,36700,32500,137000,40.5
+ta,Dunedin City,Dunedin,dunedin,2048,18000,50400,36500,32800,137600,40.3
+ta,Clutha District,Clutha,clutha,1996,4350,6550,5350,2100,18350,34.4
+ta,Clutha District,Clutha,clutha,2001,4050,5500,5800,2200,17500,37.5
+ta,Clutha District,Clutha,clutha,2006,3900,5000,6000,2250,17150,38.8
+ta,Clutha District,Clutha,clutha,2013,3600,4650,6300,2700,17250,41.3
+ta,Clutha District,Clutha,clutha,2018,3400,5100,6400,3150,18050,42.4
+ta,Clutha District,Clutha,clutha,2023,3400,5450,6200,3700,18750,42.6
+ta,Clutha District,Clutha,clutha,2028,3300,5250,6150,4250,18950,43.5
+ta,Clutha District,Clutha,clutha,2033,3300,5000,6200,4650,19150,44.7
+ta,Clutha District,Clutha,clutha,2038,3200,4750,6250,4950,19150,46
+ta,Clutha District,Clutha,clutha,2043,3100,4550,6350,5050,19100,47.3
+ta,Clutha District,Clutha,clutha,2048,2950,4500,6450,5000,18900,48.3
+ta,Southland District,Southland,southland,1996,7800,11100,9200,3000,31100,33.7
+ta,Southland District,Southland,southland,2001,6800,9500,9900,3200,29300,36.9
+ta,Southland District,Southland,southland,2006,6600,9000,10200,3300,29100,37.8
+ta,Southland District,Southland,southland,2013,6700,9000,10500,4100,30300,38.8
+ta,Southland District,Southland,southland,2018,6600,9700,10800,4700,31900,39
+ta,Southland District,Southland,southland,2023,6300,10000,10600,5800,32700,40.1
+ta,Southland District,Southland,southland,2028,5900,10000,10500,6900,33300,41.5
+ta,Southland District,Southland,southland,2033,5600,9700,10700,7700,33700,43.1
+ta,Southland District,Southland,southland,2038,5500,9300,10800,8200,33900,44.6
+ta,Southland District,Southland,southland,2043,5400,9000,11100,8500,34000,45.7
+ta,Southland District,Southland,southland,2048,5300,8600,11300,8700,33800,46.7
+ta,Gore District,Gore,gore,1996,3250,4750,3700,1800,13450,34.5
+ta,Gore District,Gore,gore,2001,2900,4000,3900,1850,12700,37.4
+ta,Gore District,Gore,gore,2006,2600,3500,4200,2000,12300,40.5
+ta,Gore District,Gore,gore,2013,2500,3350,4250,2350,12400,42.5
+ta,Gore District,Gore,gore,2018,2450,3550,4300,2550,12800,43.2
+ta,Gore District,Gore,gore,2023,2250,3750,4150,2850,13000,43.7
+ta,Gore District,Gore,gore,2028,2050,3750,4000,3250,13050,44.5
+ta,Gore District,Gore,gore,2033,2000,3500,4000,3550,13050,45.6
+ta,Gore District,Gore,gore,2038,1900,3300,4050,3700,12950,47.1
+ta,Gore District,Gore,gore,2043,1850,3250,4050,3700,12800,48.6
+ta,Gore District,Gore,gore,2048,1750,3000,4200,3600,12550,49.8
+ta,Invercargill City,Invercargill,invercargill,1996,12500,20400,14600,6500,54000,33.4
+ta,Invercargill City,Invercargill,invercargill,2001,11300,17300,15500,6800,50900,36.2
+ta,Invercargill City,Invercargill,invercargill,2006,10500,17100,16600,7100,51300,37.5
+ta,Invercargill City,Invercargill,invercargill,2013,10600,16800,17400,8500,53200,38.9
+ta,Invercargill City,Invercargill,invercargill,2018,10800,17800,17800,9500,55900,39
+ta,Invercargill City,Invercargill,invercargill,2023,10300,18000,17800,10700,56800,40.2
+ta,Invercargill City,Invercargill,invercargill,2028,9600,18300,17700,12200,57800,41.4
+ta,Invercargill City,Invercargill,invercargill,2033,9100,18100,18100,13300,58600,42.6
+ta,Invercargill City,Invercargill,invercargill,2038,9000,18000,18200,14000,59200,43.6
+ta,Invercargill City,Invercargill,invercargill,2043,9000,17700,18400,14500,59600,44.2
+ta,Invercargill City,Invercargill,invercargill,2048,9000,17100,18900,14900,59800,44.7
+talb,Rodney Local Board Area,Rodney,rodney,1996,9300,12900,12400,4300,38900,35.9
+talb,Rodney Local Board Area,Rodney,rodney,2001,10400,13400,15200,4900,44000,37.7
+talb,Rodney Local Board Area,Rodney,rodney,2006,11500,14700,18700,5900,50800,39.3
+talb,Rodney Local Board Area,Rodney,rodney,2013,11900,14700,21700,9000,57300,42.3
+talb,Rodney Local Board Area,Rodney,rodney,2018,13600,19400,24700,11400,69100,42
+talb,Rodney Local Board Area,Rodney,rodney,2023,15500,23200,27600,14300,80500,41.6
+talb,Rodney Local Board Area,Rodney,rodney,2028,17700,26100,30300,17900,92000,41.6
+talb,Rodney Local Board Area,Rodney,rodney,2033,19700,28900,33500,21500,103500,42.1
+talb,Rodney Local Board Area,Rodney,rodney,2038,21400,31800,36600,25100,114900,42.7
+talb,Rodney Local Board Area,Rodney,rodney,2043,22900,34600,41000,27700,126300,43.2
+talb,Rodney Local Board Area,Rodney,rodney,2048,24500,37700,45000,30400,137700,43.6
+talb,Hibiscus and Bays Local Board Area,Hibiscus and Bays,hibiscus and bays,1996,14200,22700,21200,9700,67700,37.4
+talb,Hibiscus and Bays Local Board Area,Hibiscus and Bays,hibiscus and bays,2001,15600,23700,24900,10600,74800,38.6
+talb,Hibiscus and Bays Local Board Area,Hibiscus and Bays,hibiscus and bays,2006,17100,26100,29500,12100,84800,39.6
+talb,Hibiscus and Bays Local Board Area,Hibiscus and Bays,hibiscus and bays,2013,17700,26500,33400,16400,94000,42.1
+talb,Hibiscus and Bays Local Board Area,Hibiscus and Bays,hibiscus and bays,2018,20000,32900,36600,18900,108500,41
+talb,Hibiscus and Bays Local Board Area,Hibiscus and Bays,hibiscus and bays,2023,20500,31400,39100,22500,113500,42.9
+talb,Hibiscus and Bays Local Board Area,Hibiscus and Bays,hibiscus and bays,2028,19100,32000,39400,26100,116600,44.5
+talb,Hibiscus and Bays Local Board Area,Hibiscus and Bays,hibiscus and bays,2033,17800,33100,38700,29500,119000,45.8
+talb,Hibiscus and Bays Local Board Area,Hibiscus and Bays,hibiscus and bays,2038,17300,34000,36900,32800,121000,46.6
+talb,Hibiscus and Bays Local Board Area,Hibiscus and Bays,hibiscus and bays,2043,17600,33400,37000,34700,122600,46.9
+talb,Hibiscus and Bays Local Board Area,Hibiscus and Bays,hibiscus and bays,2048,17800,33000,36200,36700,123700,47.2
+talb,Upper Harbour Local Board Area,Upper Harbour,upper harbour,1996,5700,10500,6600,1600,24300,32.2
+talb,Upper Harbour Local Board Area,Upper Harbour,upper harbour,2001,7800,13200,10400,2200,33700,33.5
+talb,Upper Harbour Local Board Area,Upper Harbour,upper harbour,2006,9600,16800,14800,3700,44900,35.1
+talb,Upper Harbour Local Board Area,Upper Harbour,upper harbour,2013,11000,20400,19500,5900,56800,35.8
+talb,Upper Harbour Local Board Area,Upper Harbour,upper harbour,2018,12000,25900,21000,8000,66800,35.7
+talb,Upper Harbour Local Board Area,Upper Harbour,upper harbour,2023,13200,24300,22700,11200,71500,38.5
+talb,Upper Harbour Local Board Area,Upper Harbour,upper harbour,2028,14000,27100,24800,14000,80000,39.2
+talb,Upper Harbour Local Board Area,Upper Harbour,upper harbour,2033,15000,30000,27800,16700,89400,39.8
+talb,Upper Harbour Local Board Area,Upper Harbour,upper harbour,2038,15800,33100,30700,19000,98600,40.3
+talb,Upper Harbour Local Board Area,Upper Harbour,upper harbour,2043,16900,35800,34700,20400,107800,40.7
+talb,Upper Harbour Local Board Area,Upper Harbour,upper harbour,2048,18100,38400,37500,22800,116800,41.1
+talb,Kaipātiki Local Board Area,Kaipātiki,kaipatiki,1996,15500,31300,21200,6500,74500,32.5
+talb,Kaipātiki Local Board Area,Kaipātiki,kaipatiki,2001,16300,31500,23100,7000,77900,33.7
+talb,Kaipātiki Local Board Area,Kaipātiki,kaipatiki,2006,16200,34300,25200,7600,83300,34.1
+talb,Kaipātiki Local Board Area,Kaipātiki,kaipatiki,2013,16800,33400,26800,9900,87000,35
+talb,Kaipātiki Local Board Area,Kaipātiki,kaipatiki,2018,17000,37900,27300,10700,92900,34.7
+talb,Kaipātiki Local Board Area,Kaipātiki,kaipatiki,2023,16500,33300,27300,11900,89000,36.5
+talb,Kaipātiki Local Board Area,Kaipātiki,kaipatiki,2028,15000,33800,27000,13400,89200,37.5
+talb,Kaipātiki Local Board Area,Kaipātiki,kaipatiki,2033,14400,33300,28700,14700,91000,38.7
+talb,Kaipātiki Local Board Area,Kaipātiki,kaipatiki,2038,13800,32500,30100,15900,92400,39.9
+talb,Kaipātiki Local Board Area,Kaipātiki,kaipatiki,2043,13400,32800,31000,16400,93500,40.5
+talb,Kaipātiki Local Board Area,Kaipātiki,kaipatiki,2048,13000,32600,31200,17500,94400,41.1
+talb,Devonport-Takapuna Local Board Area,Devonport-Takapuna,devonport takapuna,1996,9500,19300,14800,7700,51300,36.2
+talb,Devonport-Takapuna Local Board Area,Devonport-Takapuna,devonport takapuna,2001,9600,18500,16700,7300,52000,37.8
+talb,Devonport-Takapuna Local Board Area,Devonport-Takapuna,devonport takapuna,2006,10000,19500,18700,7100,55300,38
+talb,Devonport-Takapuna Local Board Area,Devonport-Takapuna,devonport takapuna,2013,10700,19100,20000,8800,58500,39.3
+talb,Devonport-Takapuna Local Board Area,Devonport-Takapuna,devonport takapuna,2018,10600,20300,20000,9600,60500,39.2
+talb,Devonport-Takapuna Local Board Area,Devonport-Takapuna,devonport takapuna,2023,9300,17400,19200,10700,56600,42.1
+talb,Devonport-Takapuna Local Board Area,Devonport-Takapuna,devonport takapuna,2028,8000,19000,18300,11800,57200,42.1
+talb,Devonport-Takapuna Local Board Area,Devonport-Takapuna,devonport takapuna,2033,8400,20000,18300,13200,59900,41.8
+talb,Devonport-Takapuna Local Board Area,Devonport-Takapuna,devonport takapuna,2038,9100,20400,18700,14400,62500,41.9
+talb,Devonport-Takapuna Local Board Area,Devonport-Takapuna,devonport takapuna,2043,9600,20900,19800,14700,65000,42.1
+talb,Devonport-Takapuna Local Board Area,Devonport-Takapuna,devonport takapuna,2048,9800,21400,21300,14800,67400,42.4
+talb,Henderson-Massey Local Board Area,Henderson-Massey,henderson massey,1996,21100,34100,20200,6600,82000,30.1
+talb,Henderson-Massey Local Board Area,Henderson-Massey,henderson massey,2001,23000,35700,24100,7800,90700,31.4
+talb,Henderson-Massey Local Board Area,Henderson-Massey,henderson massey,2006,25000,39700,29400,9400,103400,32.4
+talb,Henderson-Massey Local Board Area,Henderson-Massey,henderson massey,2013,26300,41600,33800,11800,113500,33.1
+talb,Henderson-Massey Local Board Area,Henderson-Massey,henderson massey,2018,27600,48000,36100,12900,124600,33.1
+talb,Henderson-Massey Local Board Area,Henderson-Massey,henderson massey,2023,28000,48300,38300,14400,129100,34.6
+talb,Henderson-Massey Local Board Area,Henderson-Massey,henderson massey,2028,27300,50100,41200,17500,136100,36.1
+talb,Henderson-Massey Local Board Area,Henderson-Massey,henderson massey,2033,26600,51200,45200,20900,143900,37.5
+talb,Henderson-Massey Local Board Area,Henderson-Massey,henderson massey,2038,26700,51900,48500,24300,151300,38.7
+talb,Henderson-Massey Local Board Area,Henderson-Massey,henderson massey,2043,27200,52900,51500,26900,158500,39.6
+talb,Henderson-Massey Local Board Area,Henderson-Massey,henderson massey,2048,27700,53600,53900,30000,165200,40.6
+talb,Waitākere Ranges Local Board Area,Waitākere Ranges,waitakere ranges,1996,10800,16900,11600,2800,42000,31.9
+talb,Waitākere Ranges Local Board Area,Waitākere Ranges,waitakere ranges,2001,11200,16500,13500,3100,44200,33.4
+talb,Waitākere Ranges Local Board Area,Waitākere Ranges,waitakere ranges,2006,11400,17100,15500,3400,47400,34.5
+talb,Waitākere Ranges Local Board Area,Waitākere Ranges,waitakere ranges,2013,11500,16600,17900,4800,50700,36.5
+talb,Waitākere Ranges Local Board Area,Waitākere Ranges,waitakere ranges,2018,11500,18200,18800,5700,54200,36.7
+talb,Waitākere Ranges Local Board Area,Waitākere Ranges,waitakere ranges,2023,11100,17900,19100,7000,55200,38.2
+talb,Waitākere Ranges Local Board Area,Waitākere Ranges,waitakere ranges,2028,10100,17900,18800,8800,55600,39.8
+talb,Waitākere Ranges Local Board Area,Waitākere Ranges,waitakere ranges,2033,9300,17700,18600,10700,56300,41.4
+talb,Waitākere Ranges Local Board Area,Waitākere Ranges,waitakere ranges,2038,8900,17500,17600,12600,56700,42.5
+talb,Waitākere Ranges Local Board Area,Waitākere Ranges,waitakere ranges,2043,9000,16800,17500,13600,56900,43.3
+talb,Waitākere Ranges Local Board Area,Waitākere Ranges,waitakere ranges,2048,9000,15800,17700,14200,56700,44.2
+talb,Aotea/Great Barrier Local Board Area,Aotea/Great Barrier,aotea/great barrier,1996,320,410,400,90,1230,35.4
+talb,Aotea/Great Barrier Local Board Area,Aotea/Great Barrier,aotea/great barrier,2001,240,280,480,100,1100,41.5
+talb,Aotea/Great Barrier Local Board Area,Aotea/Great Barrier,aotea/great barrier,2006,140,190,450,150,940,48.7
+talb,Aotea/Great Barrier Local Board Area,Aotea/Great Barrier,aotea/great barrier,2013,160,150,430,210,950,53.2
+talb,Aotea/Great Barrier Local Board Area,Aotea/Great Barrier,aotea/great barrier,2018,140,190,410,230,960,52.4
+talb,Aotea/Great Barrier Local Board Area,Aotea/Great Barrier,aotea/great barrier,2023,170,190,390,290,1040,53.6
+talb,Aotea/Great Barrier Local Board Area,Aotea/Great Barrier,aotea/great barrier,2028,190,200,360,350,1100,55
+talb,Aotea/Great Barrier Local Board Area,Aotea/Great Barrier,aotea/great barrier,2033,200,200,370,390,1150,55.1
+talb,Aotea/Great Barrier Local Board Area,Aotea/Great Barrier,aotea/great barrier,2038,190,220,360,420,1200,54.7
+talb,Aotea/Great Barrier Local Board Area,Aotea/Great Barrier,aotea/great barrier,2043,200,240,370,430,1240,54.2
+talb,Aotea/Great Barrier Local Board Area,Aotea/Great Barrier,aotea/great barrier,2048,210,270,360,430,1270,54
+talb,Waiheke Local Board Area,Waiheke,waiheke,1996,1340,2000,2360,960,6670,39.9
+talb,Waiheke Local Board Area,Waiheke,waiheke,2001,1510,2120,2880,1020,7530,41.1
+talb,Waiheke Local Board Area,Waiheke,waiheke,2006,1530,2380,3180,1030,8120,41.2
+talb,Waiheke Local Board Area,Waiheke,waiheke,2013,1510,2090,3440,1590,8630,45.1
+talb,Waiheke Local Board Area,Waiheke,waiheke,2018,1460,2390,3570,1950,9360,46.4
+talb,Waiheke Local Board Area,Waiheke,waiheke,2023,1230,2270,3440,2330,9270,50.2
+talb,Waiheke Local Board Area,Waiheke,waiheke,2028,1040,2240,3280,2770,9340,52.6
+talb,Waiheke Local Board Area,Waiheke,waiheke,2033,1020,2150,3240,3210,9620,53.3
+talb,Waiheke Local Board Area,Waiheke,waiheke,2038,1050,2140,3110,3520,9830,53.4
+talb,Waiheke Local Board Area,Waiheke,waiheke,2043,1090,2100,3150,3610,9950,53.9
+talb,Waiheke Local Board Area,Waiheke,waiheke,2048,1100,2000,3350,3550,10000,54.8
+talb,Waitematā Local Board Area,Waitematā,waitemata,1996,6300,24200,11000,3300,44800,31.3
+talb,Waitematā Local Board Area,Waitematā,waitemata,2001,6300,29200,13600,3300,52300,31.3
+talb,Waitematā Local Board Area,Waitematā,waitemata,2006,6900,38600,17300,3600,66500,30.6
+talb,Waitematā Local Board Area,Waitematā,waitemata,2013,8500,46000,21500,5400,81300,30.6
+talb,Waitematā Local Board Area,Waitematā,waitemata,2018,8100,50400,22900,7000,88500,31.5
+talb,Waitematā Local Board Area,Waitematā,waitemata,2023,7600,40200,22700,9100,79600,34.7
+talb,Waitematā Local Board Area,Waitematā,waitemata,2028,6500,39400,22600,11600,80100,36.6
+talb,Waitematā Local Board Area,Waitematā,waitemata,2033,5600,41800,24900,13900,86200,36.6
+talb,Waitematā Local Board Area,Waitematā,waitemata,2038,5100,46100,24900,16000,92100,35
+talb,Waitematā Local Board Area,Waitematā,waitemata,2043,5500,51100,24500,16700,97800,34.9
+talb,Waitematā Local Board Area,Waitematā,waitemata,2048,6200,53700,26600,16900,103400,36.1
+talb,Whau Local Board Area,Whau,whau,1996,13200,24300,15300,6800,59600,32.5
+talb,Whau Local Board Area,Whau,whau,2001,14700,26000,18100,7200,66000,33.5
+talb,Whau Local Board Area,Whau,whau,2006,15000,28800,21000,8100,72800,33.9
+talb,Whau Local Board Area,Whau,whau,2013,15300,28800,23200,9400,76700,34.6
+talb,Whau Local Board Area,Whau,whau,2018,15700,33700,24700,10000,84100,34.3
+talb,Whau Local Board Area,Whau,whau,2023,15700,30900,25700,11600,83800,36.8
+talb,Whau Local Board Area,Whau,whau,2028,14500,31200,27200,13500,86300,38.4
+talb,Whau Local Board Area,Whau,whau,2033,13600,32300,29000,15800,90700,39.6
+talb,Whau Local Board Area,Whau,whau,2038,13400,33500,30500,17700,95100,40.4
+talb,Whau Local Board Area,Whau,whau,2043,14000,34600,31800,19100,99500,40.8
+talb,Whau Local Board Area,Whau,whau,2048,14900,35000,33300,20700,103800,41.4
+talb,Albert-Eden Local Board Area,Albert-Eden,albert eden,1996,16400,40100,20600,8400,85600,31.9
+talb,Albert-Eden Local Board Area,Albert-Eden,albert eden,2001,17100,40300,24300,7600,89400,32.8
+talb,Albert-Eden Local Board Area,Albert-Eden,albert eden,2006,17800,42800,27900,7200,95600,32.7
+talb,Albert-Eden Local Board Area,Albert-Eden,albert eden,2013,18600,40500,31800,9100,100000,33.9
+talb,Albert-Eden Local Board Area,Albert-Eden,albert eden,2018,17100,43800,32400,10400,103700,34.1
+talb,Albert-Eden Local Board Area,Albert-Eden,albert eden,2023,14800,38400,30700,12000,95900,36.3
+talb,Albert-Eden Local Board Area,Albert-Eden,albert eden,2028,12800,40500,28800,14300,96500,36.9
+talb,Albert-Eden Local Board Area,Albert-Eden,albert eden,2033,12500,41700,28600,17100,99900,37.6
+talb,Albert-Eden Local Board Area,Albert-Eden,albert eden,2038,12600,42000,29200,19300,103100,38.1
+talb,Albert-Eden Local Board Area,Albert-Eden,albert eden,2043,13100,43100,30100,19900,106200,38.3
+talb,Albert-Eden Local Board Area,Albert-Eden,albert eden,2048,13600,42900,32700,19800,108900,39
+talb,Puketāpapa Local Board Area,Puketāpapa,puketapapa,1996,10200,18200,12000,5600,46000,32.8
+talb,Puketāpapa Local Board Area,Puketāpapa,puketapapa,2001,10700,19300,14100,5500,49600,33.6
+talb,Puketāpapa Local Board Area,Puketāpapa,puketapapa,2006,10700,21200,16200,5600,53600,33.6
+talb,Puketāpapa Local Board Area,Puketāpapa,puketapapa,2013,10600,21800,17500,6400,56300,34.1
+talb,Puketāpapa Local Board Area,Puketāpapa,puketapapa,2018,10500,25400,17700,7300,60900,33.8
+talb,Puketāpapa Local Board Area,Puketāpapa,puketapapa,2023,10000,22700,17600,8700,59100,36.4
+talb,Puketāpapa Local Board Area,Puketāpapa,puketapapa,2028,9100,23900,17600,10500,61100,37.9
+talb,Puketāpapa Local Board Area,Puketāpapa,puketapapa,2033,8700,24200,19400,11800,64100,39.3
+talb,Puketāpapa Local Board Area,Puketāpapa,puketapapa,2038,8600,24300,21400,12800,67000,40.6
+talb,Puketāpapa Local Board Area,Puketāpapa,puketapapa,2043,8800,25000,22900,13100,69900,41.1
+talb,Puketāpapa Local Board Area,Puketāpapa,puketapapa,2048,9300,25400,24200,13700,72700,41.6
+talb,Ōrākei Local Board Area,Ōrākei,orakei,1996,13000,27200,21400,9000,70500,35.8
+talb,Ōrākei Local Board Area,Ōrākei,orakei,2001,13300,26200,24000,8900,72500,37.5
+talb,Ōrākei Local Board Area,Ōrākei,orakei,2006,14600,27000,26500,9600,77800,38
+talb,Ōrākei Local Board Area,Ōrākei,orakei,2013,15900,26100,29400,12300,83700,39.9
+talb,Ōrākei Local Board Area,Ōrākei,orakei,2018,15700,28200,30000,13800,87700,39.9
+talb,Ōrākei Local Board Area,Ōrākei,orakei,2023,13700,25700,28800,15800,84000,42.4
+talb,Ōrākei Local Board Area,Ōrākei,orakei,2028,12100,27700,27700,18000,85400,42.7
+talb,Ōrākei Local Board Area,Ōrākei,orakei,2033,11700,29700,27500,20100,89000,42.6
+talb,Ōrākei Local Board Area,Ōrākei,orakei,2038,12300,30700,27400,22100,92600,42.5
+talb,Ōrākei Local Board Area,Ōrākei,orakei,2043,13100,31300,28800,22800,96000,42.6
+talb,Ōrākei Local Board Area,Ōrākei,orakei,2048,13700,30900,31400,23100,99200,43.1
+talb,Maungakiekie-Tāmaki Local Board Area,Maungakiekie-Tāmaki,maungakiekie tamaki,1996,14900,26200,14000,6500,61600,30.9
+talb,Maungakiekie-Tāmaki Local Board Area,Maungakiekie-Tāmaki,maungakiekie tamaki,2001,15500,27900,16700,6100,66200,31.7
+talb,Maungakiekie-Tāmaki Local Board Area,Maungakiekie-Tāmaki,maungakiekie tamaki,2006,15600,29600,19000,5900,70200,32.3
+talb,Maungakiekie-Tāmaki Local Board Area,Maungakiekie-Tāmaki,maungakiekie tamaki,2013,16100,28800,21300,7500,73700,33.2
+talb,Maungakiekie-Tāmaki Local Board Area,Maungakiekie-Tāmaki,maungakiekie tamaki,2018,15800,33800,22400,8500,80500,33.1
+talb,Maungakiekie-Tāmaki Local Board Area,Maungakiekie-Tāmaki,maungakiekie tamaki,2023,15100,33300,23600,9900,81900,34.9
+talb,Maungakiekie-Tāmaki Local Board Area,Maungakiekie-Tāmaki,maungakiekie tamaki,2028,13800,35700,25200,11700,86500,36.2
+talb,Maungakiekie-Tāmaki Local Board Area,Maungakiekie-Tāmaki,maungakiekie tamaki,2033,13400,38000,27900,13600,92900,37.1
+talb,Maungakiekie-Tāmaki Local Board Area,Maungakiekie-Tāmaki,maungakiekie tamaki,2038,14400,39100,30800,15300,99600,38
+talb,Maungakiekie-Tāmaki Local Board Area,Maungakiekie-Tāmaki,maungakiekie tamaki,2043,15700,39800,34200,16500,106200,38.8
+talb,Maungakiekie-Tāmaki Local Board Area,Maungakiekie-Tāmaki,maungakiekie tamaki,2048,16600,40000,38000,18000,112600,39.9
+talb,Howick Local Board Area,Howick,howick,1996,16700,29900,26000,8200,80700,35.1
+talb,Howick Local Board Area,Howick,howick,2001,20700,34600,32100,9700,97000,35.9
+talb,Howick Local Board Area,Howick,howick,2006,24500,42900,39600,11700,118700,35.8
+talb,Howick Local Board Area,Howick,howick,2013,26300,45800,46200,16800,135000,37.5
+talb,Howick Local Board Area,Howick,howick,2018,28400,52300,48700,20100,149400,37.3
+talb,Howick Local Board Area,Howick,howick,2023,27700,49700,50500,24000,152000,39.4
+talb,Howick Local Board Area,Howick,howick,2028,26000,49800,52100,28000,156000,40.9
+talb,Howick Local Board Area,Howick,howick,2033,24500,50700,53700,32300,161200,42.2
+talb,Howick Local Board Area,Howick,howick,2038,24100,51300,54200,36200,165700,43.3
+talb,Howick Local Board Area,Howick,howick,2043,24100,51500,55400,38700,169700,44
+talb,Howick Local Board Area,Howick,howick,2048,24200,51500,55300,42100,173100,44.7
+talb,Māngere-Ōtāhuhu Local Board Area,Māngere-Ōtāhuhu,mangere otahuhu,1996,18500,25300,13600,3900,61300,26.7
+talb,Māngere-Ōtāhuhu Local Board Area,Māngere-Ōtāhuhu,mangere otahuhu,2001,20000,25200,15100,4200,64500,27.2
+talb,Māngere-Ōtāhuhu Local Board Area,Māngere-Ōtāhuhu,mangere otahuhu,2006,21200,28200,18100,4800,72400,27.4
+talb,Māngere-Ōtāhuhu Local Board Area,Māngere-Ōtāhuhu,mangere otahuhu,2013,21300,27900,20100,6000,75300,28
+talb,Māngere-Ōtāhuhu Local Board Area,Māngere-Ōtāhuhu,mangere otahuhu,2018,21400,32300,22100,7000,82700,29.1
+talb,Māngere-Ōtāhuhu Local Board Area,Māngere-Ōtāhuhu,mangere otahuhu,2023,20900,33700,23900,8500,87000,31.2
+talb,Māngere-Ōtāhuhu Local Board Area,Māngere-Ōtāhuhu,mangere otahuhu,2028,18900,35500,25200,10500,90000,33
+talb,Māngere-Ōtāhuhu Local Board Area,Māngere-Ōtāhuhu,mangere otahuhu,2033,17600,36000,26700,12700,93000,34.7
+talb,Māngere-Ōtāhuhu Local Board Area,Māngere-Ōtāhuhu,mangere otahuhu,2038,17400,35500,28100,14700,95700,36.6
+talb,Māngere-Ōtāhuhu Local Board Area,Māngere-Ōtāhuhu,mangere otahuhu,2043,17600,34000,30400,16000,98000,38.2
+talb,Māngere-Ōtāhuhu Local Board Area,Māngere-Ōtāhuhu,mangere otahuhu,2048,17500,32700,32300,17200,99800,39.8
+talb,Ōtara-Papatoetoe Local Board Area,Ōtara-Papatoetoe,otara papatoetoe,1996,19200,27900,15200,5300,67700,27.6
+talb,Ōtara-Papatoetoe Local Board Area,Ōtara-Papatoetoe,otara papatoetoe,2001,20500,27300,16900,5500,70200,28.4
+talb,Ōtara-Papatoetoe Local Board Area,Ōtara-Papatoetoe,otara papatoetoe,2006,21200,30000,19500,5800,76500,28.7
+talb,Ōtara-Papatoetoe Local Board Area,Ōtara-Papatoetoe,otara papatoetoe,2013,20800,31300,21300,6800,80300,29.1
+talb,Ōtara-Papatoetoe Local Board Area,Ōtara-Papatoetoe,otara papatoetoe,2018,21600,38500,23100,7400,90500,29.2
+talb,Ōtara-Papatoetoe Local Board Area,Ōtara-Papatoetoe,otara papatoetoe,2023,22100,38600,24900,8800,94400,31.7
+talb,Ōtara-Papatoetoe Local Board Area,Ōtara-Papatoetoe,otara papatoetoe,2028,20200,39300,26100,10700,96300,33.7
+talb,Ōtara-Papatoetoe Local Board Area,Ōtara-Papatoetoe,otara papatoetoe,2033,18400,37800,28900,12600,97800,35.7
+talb,Ōtara-Papatoetoe Local Board Area,Ōtara-Papatoetoe,otara papatoetoe,2038,17200,36100,31100,14400,98700,37
+talb,Ōtara-Papatoetoe Local Board Area,Ōtara-Papatoetoe,otara papatoetoe,2043,16600,35600,31800,15300,99200,38.2
+talb,Ōtara-Papatoetoe Local Board Area,Ōtara-Papatoetoe,otara papatoetoe,2048,16300,34100,32700,16200,99300,39.5
+talb,Manurewa Local Board Area,Manurewa,manurewa,1996,17700,25400,13200,3700,59900,27.7
+talb,Manurewa Local Board Area,Manurewa,manurewa,2001,20200,27300,16900,4400,68900,29
+talb,Manurewa Local Board Area,Manurewa,manurewa,2006,23300,31200,21400,5500,81400,28.8
+talb,Manurewa Local Board Area,Manurewa,manurewa,2013,23500,32000,24300,7200,87000,29.5
+talb,Manurewa Local Board Area,Manurewa,manurewa,2018,25500,40300,26800,8300,100900,29.6
+talb,Manurewa Local Board Area,Manurewa,manurewa,2023,26900,42900,28900,10200,109000,31.3
+talb,Manurewa Local Board Area,Manurewa,manurewa,2028,24800,44700,30500,12800,112800,33.2
+talb,Manurewa Local Board Area,Manurewa,manurewa,2033,23500,44300,33200,15300,116400,34.8
+talb,Manurewa Local Board Area,Manurewa,manurewa,2038,23100,43500,35400,17800,119700,36.1
+talb,Manurewa Local Board Area,Manurewa,manurewa,2043,23400,42700,37500,19100,122700,37.4
+talb,Manurewa Local Board Area,Manurewa,manurewa,2048,23700,41600,39500,20500,125200,38.7
+talb,Papakura Local Board Area,Papakura,papakura,1996,9700,15100,9700,3400,37900,30.3
+talb,Papakura Local Board Area,Papakura,papakura,2001,10000,14400,10800,3700,38800,31.6
+talb,Papakura Local Board Area,Papakura,papakura,2006,10800,15600,12400,4200,43000,32.4
+talb,Papakura Local Board Area,Papakura,papakura,2013,11800,16700,14200,5400,48200,32.6
+talb,Papakura Local Board Area,Papakura,papakura,2018,14300,23900,16700,6300,61100,31.8
+talb,Papakura Local Board Area,Papakura,papakura,2023,17900,29600,19500,7800,74900,32.8
+talb,Papakura Local Board Area,Papakura,papakura,2028,19400,30100,22600,9800,81900,34.4
+talb,Papakura Local Board Area,Papakura,papakura,2033,20100,29100,26500,11600,87400,35.9
+talb,Papakura Local Board Area,Papakura,papakura,2038,19500,30200,29200,13300,92200,36.9
+talb,Papakura Local Board Area,Papakura,papakura,2043,18900,32200,31200,14400,96800,37.6
+talb,Papakura Local Board Area,Papakura,papakura,2048,19100,34000,32300,16000,101400,38.1
+talb,Franklin Local Board Area,Franklin,franklin,1996,12200,17600,13800,4700,48300,33.3
+talb,Franklin Local Board Area,Franklin,franklin,2001,13100,17300,17100,5200,52700,35.7
+talb,Franklin Local Board Area,Franklin,franklin,2006,14400,18600,21200,6200,60500,37.4
+talb,Franklin Local Board Area,Franklin,franklin,2013,15200,19100,24800,9300,68300,39.9
+talb,Franklin Local Board Area,Franklin,franklin,2018,16100,22600,27400,11600,77700,40.2
+talb,Franklin Local Board Area,Franklin,franklin,2023,16900,24300,29200,14700,85100,41.3
+talb,Franklin Local Board Area,Franklin,franklin,2028,17800,28800,30000,18800,95400,40.9
+talb,Franklin Local Board Area,Franklin,franklin,2033,20100,31900,32100,23000,107100,41
+talb,Franklin Local Board Area,Franklin,franklin,2038,22800,34200,34900,26900,118800,41.4
+talb,Franklin Local Board Area,Franklin,franklin,2043,25000,36300,39700,29300,130300,42
+talb,Franklin Local Board Area,Franklin,franklin,2048,26500,39100,44600,31300,141500,42.6
