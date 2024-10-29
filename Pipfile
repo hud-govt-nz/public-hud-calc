@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+hudkeep = {editable = true, ref = "main", git = "https://github.com/hud-govt-nz/hud-keep.git"}
+hudharvest = {editable = true, ref = "main", git = "https://github.com/hud-govt-nz/hud-harvest.git"}
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"

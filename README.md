@@ -46,6 +46,16 @@ df_base %>%
 ```
 
 
+## Updating projections/estimates data
+Population data needs to be updated every year. Run:
+
+```
+pipenv run python sources/01-fetch_sources.py
+Rscript sources/02-update_sources.R
+```
+You'll need to manually update the filenames/structures in `02-update_sources.R` and delete the old files.
+
+
 ## Maintaining this package
 If you make changes to this package, you'll need to rerun document from the root directory to update all the R generated files.
 ```R
