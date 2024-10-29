@@ -1,8 +1,25 @@
+check_freshness <- function() {
+  est_df <-
+    find_path() %>%
+    paste0("/parsed/pop_estimates.csv") %>%
+    read_csv(show_col_types = FALSE)
+
+  warn_date <- 
+    paste0(max(est_df$period) + 1, "-10-30") %>%
+    as.Date()
+
+  if (Sys.Date() > warn_date) {
+    warning("hud-calc population data is out-of-date! Follow the update instructions at hud-govt-nz/hud-calc.")
+  }
+}
+
 #' Get population
 #' @name get_population
 #' @param method "nearest_est" or "interpolate_proj"
 #' @export
 get_population <- function(method = "nearest_est") {
+  check_freshness()
+
   base_df <-
     find_path() %>%
     paste0("/parsed/pop_", method, ".csv") %>%
@@ -32,6 +49,8 @@ get_population <- function(method = "nearest_est") {
 #' @param method "nearest_est" or "interpolate_proj"
 #' @export
 match_population <- function (area, period, area_type = "auto", method = "nearest_est") {
+  check_freshness()
+
   joined_df <-
     tibble(area, period) %>%
     mutate(period = as.Date(period),
